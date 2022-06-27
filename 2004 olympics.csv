@@ -1,0 +1,1840 @@
+athlete,age,country,year,sport,"Gold Medals","Silver Medals","Bronze Medals","Total Medals"
+"Michael Phelps",19,"United States",2004,Swimming,6,0,2,8
+"Natalie Coughlin",21,"United States",2004,Swimming,2,2,1,5
+"Inge de Bruijn",30,Netherlands,2004,Swimming,1,1,2,4
+"Petria Thomas",28,Australia,2004,Swimming,3,1,0,4
+"Ian Thorpe",21,Australia,2004,Swimming,2,1,1,4
+"Amanda Beard",22,"United States",2004,Swimming,1,2,0,3
+"Antje Buschschulte",25,Germany,2004,Swimming,0,0,3,3
+"Kirsty Coventry",20,Zimbabwe,2004,Swimming,1,1,1,3
+"Ian Crocker",21,"United States",2004,Swimming,1,1,1,3
+"Grant Hackett",24,Australia,2004,Swimming,1,2,0,3
+"Brendan Hansen",22,"United States",2004,Swimming,1,1,1,3
+"Jodie Henry",20,Australia,2004,Swimming,3,0,0,3
+"Otylia Jedrzejczak",20,Poland,2004,Swimming,1,2,0,3
+"Leisel Jones",18,Australia,2004,Swimming,1,1,1,3
+"Kosuke Kitajima",21,Japan,2004,Swimming,2,0,1,3
+"Laure Manaudou",17,France,2004,Swimming,1,1,1,3
+"Aaron Peirsol",21,"United States",2004,Swimming,3,0,0,3
+"Kaitlin Sandeno",21,"United States",2004,Swimming,1,1,1,3
+"Roland Schoeman",24,"South Africa",2004,Swimming,1,1,1,3
+"Pieter van den Hoogenband",26,Netherlands,2004,Swimming,1,2,0,3
+"Marian Dragulescu",23,Romania,2004,Gymnastics,0,1,2,3
+"Paul Hamm",21,"United States",2004,Gymnastics,1,2,0,3
+"Carly Patterson",16,"United States",2004,Gymnastics,1,2,0,3
+"Catalina Ponor",16,Romania,2004,Gymnastics,3,0,0,3
+"Bradley Wiggins",24,"Great Britain",2004,Cycling,1,1,1,3
+"Veronica Campbell-Brown",22,Jamaica,2004,Athletics,2,0,1,3
+"Justin Gatlin",22,"United States",2004,Athletics,1,1,1,3
+"Zhang Yining",22,China,2004,"Table Tennis",2,0,0,2
+"Fernando González",24,Chile,2004,Tennis,1,0,1,2
+"Nicolás Massú",26,Chile,2004,Tennis,2,0,0,2
+"Alison Bartosik",21,"United States",2004,"Synchronized Swimming",0,0,2,2
+"Anastasiya Davydova",21,Russia,2004,"Synchronized Swimming",2,0,0,2
+"Anna Kozlova",31,"United States",2004,"Synchronized Swimming",0,0,2,2
+"Miya Tachibana",29,Japan,2004,"Synchronized Swimming",0,2,0,2
+"Miho Takeda",27,Japan,2004,"Synchronized Swimming",0,2,0,2
+"Anastasiya Yermakova",21,Russia,2004,"Synchronized Swimming",2,0,0,2
+"Lindsay Benko",27,"United States",2004,Swimming,1,1,0,2
+"Gary Hall Jr.",29,"United States",2004,Swimming,1,0,1,2
+"Brooke Hanson",26,Australia,2004,Swimming,1,1,0,2
+"Kara Lynn Joyce",18,"United States",2004,Swimming,0,2,0,2
+"Klete Keller",22,"United States",2004,Swimming,1,0,1,2
+"Yana Klochkova",22,Ukraine,2004,Swimming,2,0,0,2
+"Rachel Komisarz",27,"United States",2004,Swimming,1,1,0,2
+"Libby Lenton-Trickett",19,Australia,2004,Swimming,1,0,1,2
+"Jason Lezak",28,"United States",2004,Swimming,1,0,1,2
+"Ryan Lochte",20,"United States",2004,Swimming,1,1,0,2
+"Alice Mills",18,Australia,2004,Swimming,2,0,0,2
+"Tomomi Morita",19,Japan,2004,Swimming,0,0,2,2
+"Markus Rogan",22,Austria,2004,Swimming,0,2,0,2
+"Jenny Thompson",31,"United States",2004,Swimming,0,2,0,2
+"Franziska van Almsick",26,Germany,2004,Swimming,0,0,2,2
+"Neil Walker",28,"United States",2004,Swimming,1,0,1,2
+"Amanda Weir",18,"United States",2004,Swimming,0,2,0,2
+"Takashi Yamamoto",26,Japan,2004,Swimming,0,1,1,2
+"Lyubov Galkina",31,Russia,2004,Shooting,1,1,0,2
+"Mariya Grozdeva",32,Bulgaria,2004,Shooting,1,0,1,2
+"Lee Bo-Na",23,"South Korea",2004,Shooting,0,1,1,2
+"Mikhail Nestruyev",35,Russia,2004,Shooting,1,1,0,2
+"Georgeta Damian-Andrunache",28,Romania,2004,Rowing,2,0,0,2
+"Viorica Susanu",28,Romania,2004,Rowing,2,0,0,2
+"Alexandra Eremia",17,Romania,2004,Gymnastics,1,0,1,2
+"Annia Hatch",26,"United States",2004,Gymnastics,0,2,0,2
+"Terin Humphrey",18,"United States",2004,Gymnastics,0,2,0,2
+"Takehiro Kashima",24,Japan,2004,Gymnastics,1,0,1,2
+"Svetlana Khorkina",25,Russia,2004,Gymnastics,0,1,1,2
+"Courtney Kupets",18,"United States",2004,Gymnastics,0,1,1,2
+"Anna Pavlova",16,Russia,2004,Gymnastics,0,0,2,2
+"Monica Rosu",17,Romania,2004,Gymnastics,2,0,0,2
+"Dana Sofronie",16,Romania,2004,Gymnastics,1,1,0,2
+"Hiroyuki Tomita",23,Japan,2004,Gymnastics,1,1,0,2
+"Marius Urzica",28,Romania,2004,Gymnastics,0,1,1,2
+"Isao Yoneda",26,Japan,2004,Gymnastics,1,0,1,2
+"Yordan Yovchev",31,Bulgaria,2004,Gymnastics,0,1,1,2
+"Andrea Cassarà",20,Italy,2004,Fencing,1,0,1,2
+"Laura Flessel-Colovic",32,France,2004,Fencing,0,1,1,2
+"Aldo Montano",25,Italy,2004,Fencing,1,1,0,2
+"Maureen Nisima",23,France,2004,Fencing,0,0,2,2
+"Salvatore Sanzo",28,Italy,2004,Fencing,1,1,0,2
+"Beatriz Ferrer-Salat",38,Spain,2004,Equestrian,0,1,1,2
+"Pippa Funnell",35,"Great Britain",2004,Equestrian,0,1,1,2
+"Chris Kappler",37,"United States",2004,Equestrian,1,1,0,2
+"Marco Kutscher",29,Germany,2004,Equestrian,0,0,2,2
+"Leslie Law",39,"Great Britain",2004,Equestrian,1,1,0,2
+"Ulla Salzgeber",46,Germany,2004,Equestrian,1,1,0,2
+"Kim Severson",30,"United States",2004,Equestrian,0,1,1,2
+"Guo Jingjing",22,China,2004,Diving,2,0,0,2
+"Mathew Helm",23,Australia,2004,Diving,0,1,1,2
+"Lao Lishi",16,China,2004,Diving,1,1,0,2
+"Chantelle Michell-Newbery",27,Australia,2004,Diving,1,0,1,2
+"Robert Newbery",25,Australia,2004,Diving,0,0,2,2
+"Yuliya Pakhalina",26,Russia,2004,Diving,0,1,1,2
+"Tian Liang",24,China,2004,Diving,1,0,1,2
+"Wu Minxia",18,China,2004,Diving,1,1,0,2
+"Ryan Bayley",22,Australia,2004,Cycling,2,0,0,2
+"Graeme Brown",25,Australia,2004,Cycling,2,0,0,2
+"Sergi Escobar",29,Spain,2004,Cycling,0,0,2,2
+"Rob Hayles",31,"Great Britain",2004,Cycling,0,1,1,2
+"Brad McGee",28,Australia,2004,Cycling,1,1,0,2
+"Anna Meares",20,Australia,2004,Cycling,1,0,1,2
+"Stefan Nimke",26,Germany,2004,Cycling,1,0,1,2
+"Olga Slyusareva",35,Russia,2004,Cycling,1,0,1,2
+"Arnaud Tournant",26,France,2004,Cycling,0,1,1,2
+"René Wolff",26,Germany,2004,Cycling,1,0,1,2
+"Leontien Zijlaard-van Moorsel",34,Netherlands,2004,Cycling,1,0,1,2
+"Nathan Baggaley",28,Australia,2004,Canoeing,0,2,0,2
+"David Cal",21,Spain,2004,Canoeing,1,1,0,2
+"Andreas Dittmer",32,Germany,2004,Canoeing,1,1,0,2
+"Natasa Douchev-Janics",22,Hungary,2004,Canoeing,2,0,0,2
+"Birgit Fischer-Schmidt",42,Germany,2004,Canoeing,1,1,0,2
+"Aleksandr Kostoglod",30,Russia,2004,Canoeing,0,1,1,2
+"Katalin Kovács",28,Hungary,2004,Canoeing,1,1,0,2
+"Aleksandr Kovalyov",29,Russia,2004,Canoeing,0,1,1,2
+"Eirik Verås Larsen",28,Norway,2004,Canoeing,1,0,1,2
+"Carolin Leonhardt",19,Germany,2004,Canoeing,1,1,0,2
+"Adam Van Koeverden",22,Canada,2004,Canoeing,1,0,1,2
+"Gao Ling",25,China,2004,Badminton,1,1,0,2
+"Nataliya Antyukh",23,Russia,2004,Athletics,0,1,1,2
+"Kenenisa Bekele",22,Ethiopia,2004,Athletics,1,1,0,2
+"Derrick Brew",26,"United States",2004,Athletics,1,0,1,2
+"Shawn Crawford",26,"United States",2004,Athletics,1,1,0,2
+"Hicham El Guerrouj",29,Morocco,2004,Athletics,2,0,0,2
+"Maurice Greene",30,"United States",2004,Athletics,0,1,1,2
+"Otis Harris",22,"United States",2004,Athletics,1,1,0,2
+"Kelly Holmes",34,"Great Britain",2004,Athletics,2,0,0,2
+"Tatyana Lebedeva",28,Russia,2004,Athletics,1,0,1,2
+"Jeremy Wariner",20,"United States",2004,Athletics,2,0,0,2
+"Lee Seong-Jin",19,"South Korea",2004,Archery,1,1,0,2
+"Park Seong-Hyeon",21,"South Korea",2004,Archery,2,0,0,2
+"Stephen Abas",26,"United States",2004,Wrestling,0,1,0,1
+"Ara Abrahamian",29,Sweden,2004,Wrestling,0,1,0,1
+"Khasan Baroyev",21,Russia,2004,Wrestling,1,0,0,1
+"Mavlet Batyrov",20,Russia,2004,Wrestling,1,0,0,1
+"Aleksandr Dokturishivili",24,Uzbekistan,2004,Wrestling,1,0,0,1
+"Seref Eroglu",28,Turkey,2004,Wrestling,0,1,0,1
+"Iván Fundora",28,Cuba,2004,Wrestling,0,0,1,1
+"Karam Gaber",24,Egypt,2004,Wrestling,1,0,0,1
+"Rulon Gardner",33,"United States",2004,Wrestling,0,0,1,1
+"Khadzhimurat Gatsalov",21,Russia,2004,Wrestling,1,0,0,1
+"Lise Golliot-Legrand",27,France,2004,Wrestling,0,0,1,1
+"Anna Gomis",30,France,2004,Wrestling,0,0,1,1
+"Kyoko Hamaguchi",26,Japan,2004,Wrestling,0,0,1,1
+"Ali Reza Heidari",28,Iran,2004,Wrestling,0,0,1,1
+"Magamed Ibragimov",21,Uzbekistan,2004,Wrestling,0,1,0,1
+"Chiharu Icho",22,Japan,2004,Wrestling,0,1,0,1
+"Kaori Icho",20,Japan,2004,Wrestling,1,0,0,1
+"Kenji Inoue",27,Japan,2004,Wrestling,0,0,1,1
+"Jeong Ji-Hyeon",21,"South Korea",2004,Wrestling,1,0,0,1
+"Jamill Kelly",26,"United States",2004,Wrestling,0,1,0,1
+"Atryom Kyuregyan",27,Greece,2004,Wrestling,0,0,1,1
+"Gennady Laliyev",25,Kazakhstan,2004,Wrestling,0,1,0,1
+"István Majoros",30,Hungary,2004,Wrestling,1,0,0,1
+"Vyacheslav Makarenko",28,Belarus,2004,Wrestling,0,0,1,1
+"Gaydar Mamedaliyev",30,Russia,2004,Wrestling,0,1,0,1
+"Mkhitar Manukyan",31,Kazakhstan,2004,Wrestling,0,0,1,1
+"Gyuzel Manyurova",26,Russia,2004,Wrestling,0,1,0,1
+"Sara McMann",23,"United States",2004,Wrestling,0,1,0,1
+"Iryna Merleni-Mykulchyn",22,Ukraine,2004,Wrestling,1,0,0,1
+"Patricia Miranda",25,"United States",2004,Wrestling,0,0,1,1
+"Aleksey Mishin",25,Russia,2004,Wrestling,1,0,0,1
+"Roberto Monzón",26,Cuba,2004,Wrestling,0,1,0,1
+"Masoud Moustafa Gokar",26,Iran,2004,Wrestling,0,1,0,1
+"Mun Ui-Je",29,"South Korea",2004,Wrestling,0,1,0,1
+"Makhach Murtazaliyev",20,Russia,2004,Wrestling,0,0,1,1
+"F?rid M?nsurov",22,Azerbaijan,2004,Wrestling,1,0,0,1
+"Armen Nazaryan",30,Bulgaria,2004,Wrestling,0,0,1,1
+"Ramaz Nozadze",20,Georgia,2004,Wrestling,0,1,0,1
+"Mehmet Özal",30,Turkey,2004,Wrestling,0,0,1,1
+"Aydin Polatçi",27,Turkey,2004,Wrestling,0,0,1,1
+"Yandro Quintana",24,Cuba,2004,Wrestling,1,0,0,1
+"Ali Reza Rezaei",28,Iran,2004,Wrestling,0,1,0,1
+"Varteres Samurgashev",24,Russia,2004,Wrestling,0,0,1,1
+"Cael Sanderson",25,"United States",2004,Wrestling,1,0,0,1
+"Buvaisa Saytiyev",29,Russia,2004,Wrestling,1,0,0,1
+"Sazhid Sazhidov",24,Russia,2004,Wrestling,0,0,1,1
+"Chikara Tanabe",29,Japan,2004,Wrestling,0,0,1,1
+"Artur Taymazov",25,Uzbekistan,2004,Wrestling,1,0,0,1
+"Elbrus Tedieiev",29,Ukraine,2004,Wrestling,1,0,0,1
+"Georgy Tsurtsumia",23,Kazakhstan,2004,Wrestling,0,1,0,1
+"Tonya Verbeek",27,Canada,2004,Wrestling,0,1,0,1
+"Wang Xu",18,China,2004,Wrestling,1,0,0,1
+"Marko Yli-Hannuksela",30,Finland,2004,Wrestling,0,1,0,1
+"Saori Yoshida",21,Japan,2004,Wrestling,1,0,0,1
+"Khadzhimurat Akkayev",19,Russia,2004,Weightlifting,0,1,0,1
+"Sedat Artuç",28,Turkey,2004,Weightlifting,0,0,1,1
+"Giorgi Asanidze",28,Georgia,2004,Weightlifting,1,0,0,1
+"Anna Batyushko",22,Belarus,2004,Weightlifting,0,1,0,1
+"Dmitry Berestov",24,Russia,2004,Weightlifting,1,0,0,1
+"Chen Yanqing",25,China,2004,Weightlifting,1,0,0,1
+"Veliçko Çolakov",22,Bulgaria,2004,Weightlifting,0,0,1,1
+"Pyrros Dimas",32,Greece,2004,Weightlifting,0,0,1,1
+"Milen Dobrev",24,Bulgaria,2004,Weightlifting,1,0,0,1
+"Sergey Filimonov",29,Kazakhstan,2004,Weightlifting,0,1,0,1
+"Jang Mi-Ran",20,"South Korea",2004,Weightlifting,0,1,0,1
+"Wandee Kameaim",26,Thailand,2004,Weightlifting,0,0,1,1
+"Zarema Kasayeva",17,Russia,2004,Weightlifting,0,0,1,1
+"Eszter Krutzler",23,Hungary,2004,Weightlifting,0,1,0,1
+"Le Maosheng",26,China,2004,Weightlifting,0,1,0,1
+"Lee Bae-Yeong",24,"South Korea",2004,Weightlifting,0,1,0,1
+"Li Zhuo",22,China,2004,Weightlifting,0,1,0,1
+"Liu Chunhong",21,China,2004,Weightlifting,1,0,0,1
+"Mabel Mosquera",35,Colombia,2004,Weightlifting,0,0,1,1
+"Halil Mutlu",31,Turkey,2004,Weightlifting,1,0,0,1
+"Oleg Perepechonov",28,Russia,2004,Weightlifting,0,0,1,1
+"Nikolay Peshalov",34,Croatia,2004,Weightlifting,0,0,1,1
+"Gleb Pisarevsky",28,Russia,2004,Weightlifting,0,0,1,1
+"Udomporn Polsak",22,Thailand,2004,Weightlifting,1,0,0,1
+"Valentina Popova",31,Russia,2004,Weightlifting,0,0,1,1
+"Ihor Razoronov",34,Ukraine,2004,Weightlifting,0,1,0,1
+"Hossein Reza Zadeh",26,Iran,2004,Weightlifting,1,0,0,1
+"Ri Song-Hui",25,"North Korea",2004,Weightlifting,0,1,0,1
+"Israel José Rubio",23,Venezuela,2004,Weightlifting,0,0,1,1
+"Raema Lisa Rumbewas",23,Indonesia,2004,Weightlifting,0,1,0,1
+"Andrey Rybakov",22,Belarus,2004,Weightlifting,0,1,0,1
+"Taner Sagir",19,Turkey,2004,Weightlifting,1,0,0,1
+"Viktors Šcerbatihs",29,Latvia,2004,Weightlifting,0,1,0,1
+"Shi Zhiyong",24,China,2004,Weightlifting,1,0,0,1
+"Nataliya Skakun",23,Ukraine,2004,Weightlifting,1,0,0,1
+"Tatyana Stukalova",28,Belarus,2004,Weightlifting,0,0,1,1
+"Tang Gonghong",25,China,2004,Weightlifting,1,0,0,1
+"Nurcan Taylan",20,Turkey,2004,Weightlifting,1,0,0,1
+"Pawina Thongsuk",25,Thailand,2004,Weightlifting,1,0,0,1
+"Eduard Tyukin",26,Russia,2004,Weightlifting,0,0,1,1
+"Aree Wiratthaworn",24,Thailand,2004,Weightlifting,0,0,1,1
+"Agata Wróbel",22,Poland,2004,Weightlifting,0,0,1,1
+"Wu Meijin",24,China,2004,Weightlifting,0,1,0,1
+"Nataliya Zabolotnaya",19,Russia,2004,Weightlifting,0,1,0,1
+"Zhang Guozheng",29,China,2004,Weightlifting,1,0,0,1
+"Carmela Allucci",34,Italy,2004,Waterpolo,1,0,0,1
+"Alexandra Araujo",32,Italy,2004,Waterpolo,1,0,0,1
+"Dimitra Asilian",32,Greece,2004,Waterpolo,0,1,0,1
+"Roman Balashov",27,Russia,2004,Waterpolo,0,0,1,1
+"Robin Beauregard",25,"United States",2004,Waterpolo,0,0,1,1
+"Tibor Benedek",32,Hungary,2004,Waterpolo,1,0,0,1
+"Péter Biros",28,Hungary,2004,Waterpolo,1,0,0,1
+"Silvia Bosurgi",25,Italy,2004,Waterpolo,1,0,0,1
+"Revaz Chomakhidze",30,Russia,2004,Waterpolo,0,0,1,1
+"Aleksandar Ciric",26,"Serbia and Montenegro",2004,Waterpolo,0,1,0,1
+"Francesca Conti",32,Italy,2004,Waterpolo,1,0,0,1
+"Tania Di Mario",25,Italy,2004,Waterpolo,1,0,0,1
+"Margaret Dingeldein",24,"United States",2004,Waterpolo,0,0,1,1
+"Georgia Ellinaki",30,Greece,2004,Waterpolo,0,1,0,1
+"Ellen Estes",25,"United States",2004,Waterpolo,0,0,1,1
+"Aleksandr Fedorov",23,Russia,2004,Waterpolo,0,0,1,1
+"Rajmund Fodor",28,Hungary,2004,Waterpolo,1,0,0,1
+"Jacqueline Frank",24,"United States",2004,Waterpolo,0,0,1,1
+"Sergey Garbuzov",30,Russia,2004,Waterpolo,0,0,1,1
+"István Gergely",27,Hungary,2004,Waterpolo,1,0,0,1
+"Elena Gigli",19,Italy,2004,Waterpolo,1,0,0,1
+"Vladimir Gojkovic",23,"Serbia and Montenegro",2004,Waterpolo,0,1,0,1
+"Natalie Golda",22,"United States",2004,Waterpolo,0,0,1,1
+"Dmitry Gorshkov",37,Russia,2004,Waterpolo,0,0,1,1
+"Melania Grego",31,Italy,2004,Waterpolo,1,0,0,1
+"Danilo Ikodinovic",27,"Serbia and Montenegro",2004,Waterpolo,0,1,0,1
+"Viktor Jelenic",33,"Serbia and Montenegro",2004,Waterpolo,0,1,0,1
+"Predrag Jokic",21,"Serbia and Montenegro",2004,Waterpolo,0,1,0,1
+"Eftykhia Karagianni",30,Greece,2004,Waterpolo,0,1,0,1
+"Angeliki Karapataki",29,Greece,2004,Waterpolo,0,1,0,1
+"Tamás Kásás",28,Hungary,2004,Waterpolo,1,0,0,1
+"Gergo Kiss",26,Hungary,2004,Waterpolo,1,0,0,1
+"Nikolay Kozlov",32,Russia,2004,Waterpolo,0,0,1,1
+"Voula Kozomboli",30,Greece,2004,Waterpolo,0,1,0,1
+"Georgia Lara",24,Greece,2004,Waterpolo,0,1,0,1
+"Kiki Liosi",24,Greece,2004,Waterpolo,0,1,0,1
+"Ericka Lorenz",23,"United States",2004,Waterpolo,0,0,1,1
+"Norbert Madaras",24,Hungary,2004,Waterpolo,1,0,0,1
+"Nikolay Maksimov",31,Russia,2004,Waterpolo,0,0,1,1
+"Giusi Malato",33,Italy,2004,Waterpolo,1,0,0,1
+"Antiopi Melidoni",26,Greece,2004,Waterpolo,0,1,0,1
+"Martina Miceli",30,Italy,2004,Waterpolo,1,0,0,1
+"Tamás Molnár",29,Hungary,2004,Waterpolo,1,0,0,1
+"Heather Moody",30,"United States",2004,Waterpolo,0,0,1,1
+"Tonia Moraiti",27,Greece,2004,Waterpolo,0,1,0,1
+"Evi Moraitidou",29,Greece,2004,Waterpolo,0,1,0,1
+"Thalia Munro",22,"United States",2004,Waterpolo,0,0,1,1
+"Maddalena Musumeci",28,Italy,2004,Waterpolo,1,0,0,1
+"Anthi Mylonaki",20,Greece,2004,Waterpolo,0,1,0,1
+"Slobodan Nikic",21,"Serbia and Montenegro",2004,Waterpolo,0,1,0,1
+"Katerina Oikonomopoulou",26,Greece,2004,Waterpolo,0,1,0,1
+"Heather Petri",26,"United States",2004,Waterpolo,0,0,1,1
+"Cinzia Ragusa",27,Italy,2004,Waterpolo,1,0,0,1
+"Andrey Rekechinsky",23,Russia,2004,Waterpolo,0,0,1,1
+"Antigoni Roumbesi",21,Greece,2004,Waterpolo,0,1,0,1
+"Kelly Rulon",20,"United States",2004,Waterpolo,0,0,1,1
+"Aleksandar Šapic",26,"Serbia and Montenegro",2004,Waterpolo,0,1,0,1
+"Dejan Savic",29,"Serbia and Montenegro",2004,Waterpolo,0,1,0,1
+"Denis Šefik",27,"Serbia and Montenegro",2004,Waterpolo,0,1,0,1
+"Amber Stachowski",21,"United States",2004,Waterpolo,0,0,1,1
+"Ádám Steinmetz",24,Hungary,2004,Waterpolo,1,0,0,1
+"Barnabás Steinmetz",28,Hungary,2004,Waterpolo,1,0,0,1
+"Dmitry Stratan",29,Russia,2004,Waterpolo,0,0,1,1
+"Zoltán Szécsi",26,Hungary,2004,Waterpolo,1,0,0,1
+"Noémi Tóth",28,Italy,2004,Waterpolo,1,0,0,1
+"Petar Trbojevic",30,"Serbia and Montenegro",2004,Waterpolo,0,1,0,1
+"Vanja Udovicic",21,"Serbia and Montenegro",2004,Waterpolo,0,1,0,1
+"Tamás Varga",29,Hungary,2004,Waterpolo,1,0,0,1
+"Attila Vári",28,Hungary,2004,Waterpolo,1,0,0,1
+"Brenda Villa",24,"United States",2004,Waterpolo,0,0,1,1
+"Vlada Vujasinovic",31,"Serbia and Montenegro",2004,Waterpolo,0,1,0,1
+"Aleksandr Yeryshov",31,Russia,2004,Waterpolo,0,0,1,1
+"Vitaly Yurchik",21,Russia,2004,Waterpolo,0,0,1,1
+"Marat Zakirov",30,Russia,2004,Waterpolo,0,0,1,1
+"Emanuela Zanchi",26,Italy,2004,Waterpolo,1,0,0,1
+"Irek Zinnurov",35,Russia,2004,Waterpolo,0,0,1,1
+"Pavel Abramov",25,Russia,2004,Volleyball,0,0,1,1
+Anderson,30,Brazil,2004,Volleyball,1,0,0,1
+"Yevgeniya Artamonova-Estes",29,Russia,2004,Volleyball,0,1,0,1
+"Sergey Baranov",23,Russia,2004,Volleyball,0,0,1,1
+"Zoila Barros",28,Cuba,2004,Volleyball,0,0,1,1
+"Yelena Batukhtina-Tyurina",33,Russia,2004,Volleyball,0,1,0,1
+"Rosir Calderon",19,Cuba,2004,Volleyball,0,0,1,1
+"Nancy Carrillo",18,Cuba,2004,Volleyball,0,0,1,1
+"Matej Cernic",25,Italy,2004,Volleyball,0,1,0,1
+"Chen Jing",28,China,2004,Volleyball,1,0,0,1
+"Olga Chukanova",24,Russia,2004,Volleyball,0,1,0,1
+"Alberto Cisolla",26,Italy,2004,Volleyball,0,1,0,1
+"Paolo Cozzi",24,Italy,2004,Volleyball,0,1,0,1
+Dante,23,Brazil,2004,Volleyball,1,0,0,1
+"Stanislav Dineykin",30,Russia,2004,Volleyball,0,0,1,1
+Escadinha,28,Brazil,2004,Volleyball,1,0,0,1
+"Alessandro Fei",25,Italy,2004,Volleyball,0,1,0,1
+"Feng Kun",25,China,2004,Volleyball,1,0,0,1
+"Ana Ivis Fernández",31,Cuba,2004,Volleyball,0,0,1,1
+"Yekaterina Gamova",23,Russia,2004,Volleyball,0,1,0,1
+"Andrea Giani",34,Italy,2004,Volleyball,0,1,0,1
+Giba,27,Brazil,2004,Volleyball,1,0,0,1
+Giovane,33,Brazil,2004,Volleyball,1,0,0,1
+Gustavo,28,Brazil,2004,Volleyball,1,0,0,1
+"André Heller",28,Brazil,2004,Volleyball,1,0,0,1
+"Aleksey Kazakov",28,Russia,2004,Volleyball,0,0,1,1
+"Vadim Khamuttskikh",34,Russia,2004,Volleyball,0,0,1,1
+"Taras Khtey",22,Russia,2004,Volleyball,0,0,1,1
+"Aleksandr Kosaryev",26,Russia,2004,Volleyball,0,0,1,1
+"Aleksey Kuleshov",25,Russia,2004,Volleyball,0,0,1,1
+"Li Shan",24,China,2004,Volleyball,1,0,0,1
+"Liu Yanan",23,China,2004,Volleyball,1,0,0,1
+"Mayvelis Martínez",27,Cuba,2004,Volleyball,0,0,1,1
+"Luigi Mastrangelo",28,Italy,2004,Volleyball,0,1,0,1
+Maurício,36,Brazil,2004,Volleyball,1,0,0,1
+"Liana Mesa",26,Cuba,2004,Volleyball,0,0,1,1
+"Anniara Muñoz",24,Cuba,2004,Volleyball,0,0,1,1
+Nalbert,30,Brazil,2004,Volleyball,1,0,0,1
+"André Nascimento",25,Brazil,2004,Volleyball,1,0,0,1
+"Olga Nikolayeva",32,Russia,2004,Volleyball,0,1,0,1
+"Yaima Ortíz",22,Cuba,2004,Volleyball,0,0,1,1
+"Samuele Papi",31,Italy,2004,Volleyball,0,1,0,1
+"Damiano Pippi",32,Italy,2004,Volleyball,0,1,0,1
+"Yelena Plotnikova",26,Russia,2004,Volleyball,0,1,0,1
+"Daimí Ramírez",20,Cuba,2004,Volleyball,0,0,1,1
+Ricardinho,28,Brazil,2004,Volleyball,1,0,0,1
+Rodrigão,25,Brazil,2004,Volleyball,1,0,0,1
+"Yumilka Ruíz",26,Cuba,2004,Volleyball,0,0,1,1
+"Marta Sánchez",31,Cuba,2004,Volleyball,0,0,1,1
+"Andrea Sartoretti",33,Italy,2004,Volleyball,0,1,0,1
+"Marina Sheshenina",19,Russia,2004,Volleyball,0,1,0,1
+"Ventzislav Simeonov",27,Italy,2004,Volleyball,0,1,0,1
+"Lyubov Sokolova-Shashkova",26,Russia,2004,Volleyball,0,1,0,1
+"Song Nina",24,China,2004,Volleyball,1,0,0,1
+"Irina Tebenikhina",25,Russia,2004,Volleyball,0,1,0,1
+"Dulce Téllez",20,Cuba,2004,Volleyball,0,0,1,1
+"Sergey Tetyukhin",28,Russia,2004,Volleyball,0,0,1,1
+"Yelizaveta Tishchenko",29,Russia,2004,Volleyball,0,1,0,1
+"Paolo Tofoli",38,Italy,2004,Volleyball,0,1,0,1
+"Konstantin Ushakov",34,Russia,2004,Volleyball,0,0,1,1
+"Aleksey Verbov",22,Russia,2004,Volleyball,0,0,1,1
+"Valerio Vermiglio",28,Italy,2004,Volleyball,0,1,0,1
+"Wang Lina",26,China,2004,Volleyball,1,0,0,1
+"Yang Hao",24,China,2004,Volleyball,1,0,0,1
+"Andrey Yegorchev",26,Russia,2004,Volleyball,0,0,1,1
+"Zhang Na",24,China,2004,Volleyball,1,0,0,1
+"Zhang Ping",22,China,2004,Volleyball,1,0,0,1
+"Zhang Yuehong",28,China,2004,Volleyball,1,0,0,1
+"Zhao Ruirui",22,China,2004,Volleyball,1,0,0,1
+"Zhou Suhong",25,China,2004,Volleyball,1,0,0,1
+"Chen Qi",20,China,2004,"Table Tennis",1,0,0,1
+"Guo Yue",16,China,2004,"Table Tennis",0,0,1,1
+"Kim Gyeong-A",27,"South Korea",2004,"Table Tennis",0,0,1,1
+"Kim Hyang-Mi",24,"North Korea",2004,"Table Tennis",0,1,0,1
+"Ko Lai Chak",28,"Hong Kong",2004,"Table Tennis",0,1,0,1
+"Lee Eun-Sil",27,"South Korea",2004,"Table Tennis",0,1,0,1
+"Li Ching",29,"Hong Kong",2004,"Table Tennis",0,1,0,1
+"Ma Lin",24,China,2004,"Table Tennis",1,0,0,1
+"Michael Maze",22,Denmark,2004,"Table Tennis",0,0,1,1
+"Niu Jianfeng",23,China,2004,"Table Tennis",0,0,1,1
+"Seog Eun-Mi",27,"South Korea",2004,"Table Tennis",0,1,0,1
+"Finn Tugwell",28,Denmark,2004,"Table Tennis",0,0,1,1
+"Wang Hao",20,China,2004,"Table Tennis",0,1,0,1
+"Wang Liqin",26,China,2004,"Table Tennis",0,0,1,1
+"Wang Nan",25,China,2004,"Table Tennis",1,0,0,1
+"Yu Seung-Min",22,"South Korea",2004,"Table Tennis",1,0,0,1
+"Kate Allen",34,Austria,2004,Triathlon,1,0,0,1
+"Hamish Carter",33,"New Zealand",2004,Triathlon,1,0,0,1
+"Bevan Docherty",27,"New Zealand",2004,Triathlon,0,1,0,1
+"Loretta Harrop",29,Australia,2004,Triathlon,0,1,0,1
+"Sven Riederer",23,Switzerland,2004,Triathlon,0,0,1,1
+"Susan Williams",35,"United States",2004,Triathlon,0,0,1,1
+"Karen Cockburn",24,Canada,2004,Trampoline,0,1,0,1
+"Anna Dogonadze-Lilkendey",31,Germany,2004,Trampoline,1,0,0,1
+"Huang Shanshan",18,China,2004,Trampoline,0,0,1,1
+"Aleksandr Moskalenko",34,Russia,2004,Trampoline,0,1,0,1
+"Yuriy Nikitin",26,Ukraine,2004,Trampoline,1,0,0,1
+"Henrik Stehlik",23,Germany,2004,Trampoline,0,0,1,1
+"Nia Abdallah",20,"United States",2004,Taekwondo,0,1,0,1
+"Myriam Baverel",23,France,2004,Taekwondo,0,1,0,1
+"Yaowapa Boorapolchai",19,Thailand,2004,Taekwondo,0,0,1,1
+"Adriana Carmona",30,Venezuela,2004,Taekwondo,0,0,1,1
+"Chen Shih-Hsien",25,"Chinese Taipei",2004,Taekwondo,1,0,0,1
+"Chen Zhong",21,China,2004,Taekwondo,1,0,0,1
+"Chu Mu-Yen",22,"Chinese Taipei",2004,Taekwondo,1,0,0,1
+"Pascal Gentil",31,France,2004,Taekwondo,0,0,1,1
+"Huang Chih-Hsiung",27,"Chinese Taipei",2004,Taekwondo,0,1,0,1
+"Hwang Gyeong-Seon",18,"South Korea",2004,Taekwondo,0,0,1,1
+"Jang Ji-Won",24,"South Korea",2004,Taekwondo,1,0,0,1
+"Youssef Karami",21,Iran,2004,Taekwondo,0,0,1,1
+"Yanely Labrada",22,Cuba,2004,Taekwondo,0,1,0,1
+"Steven Lopez",25,"United States",2004,Taekwondo,1,0,0,1
+"Luo Wei",21,China,2004,Taekwondo,1,0,0,1
+"Mun Dae-Seong",27,"South Korea",2004,Taekwondo,1,0,0,1
+"Elli Mystakidou",27,Greece,2004,Taekwondo,0,1,0,1
+"Alexandros Nikolaidis",24,Greece,2004,Taekwondo,0,1,0,1
+"Hadi Saei",28,Iran,2004,Taekwondo,1,0,0,1
+"Tamer Salah",22,Egypt,2004,Taekwondo,0,0,1,1
+"Iridia Salazar",22,Mexico,2004,Taekwondo,0,0,1,1
+"Óscar Salazar",26,Mexico,2004,Taekwondo,0,1,0,1
+"Song Myeong-Seop",20,"South Korea",2004,Taekwondo,0,0,1,1
+"Bahri Tanrikulu",24,Turkey,2004,Taekwondo,0,1,0,1
+"Mario Ancic",20,Croatia,2004,Tennis,0,0,1,1
+"Mardy Fish",22,"United States",2004,Tennis,0,1,0,1
+"Justine Henin-Hardenne",22,Belgium,2004,Tennis,1,0,0,1
+"Nicolas Kiefer",27,Germany,2004,Tennis,0,1,0,1
+"Li Ting",24,China,2004,Tennis,1,0,0,1
+"Ivan Ljubicic",25,Croatia,2004,Tennis,0,0,1,1
+"Conchita Martínez",32,Spain,2004,Tennis,0,1,0,1
+"Amélie Mauresmo",25,France,2004,Tennis,0,1,0,1
+"Alicia Molik",23,Australia,2004,Tennis,0,0,1,1
+"Vivi Ruano",30,Spain,2004,Tennis,0,1,0,1
+"Rainer Schüttler",28,Germany,2004,Tennis,0,1,0,1
+"Paola Suárez",28,Argentina,2004,Tennis,0,0,1,1
+"Sun Tiantian",22,China,2004,Tennis,1,0,0,1
+"Patricia Tarabini",36,Argentina,2004,Tennis,0,0,1,1
+"Yelena Azarova",31,Russia,2004,"Synchronized Swimming",1,0,0,1
+"Olga Brusnikina",25,Russia,2004,"Synchronized Swimming",1,0,0,1
+"Tammy Crow",27,"United States",2004,"Synchronized Swimming",0,0,1,1
+"Erin Dobratz",21,"United States",2004,"Synchronized Swimming",0,0,1,1
+"Michiyo Fujimaru",25,Japan,2004,"Synchronized Swimming",0,1,0,1
+"Mariya Gromova",20,Russia,2004,"Synchronized Swimming",1,0,0,1
+"Saho Harada",21,Japan,2004,"Synchronized Swimming",0,1,0,1
+"Rebecca Jasontek",29,"United States",2004,"Synchronized Swimming",0,0,1,1
+"Naoko Kawashima",23,Japan,2004,"Synchronized Swimming",0,1,0,1
+"Elvira Khasyanova",23,Russia,2004,"Synchronized Swimming",1,0,0,1
+"Mariya Kiselyova",29,Russia,2004,"Synchronized Swimming",1,0,0,1
+"Kanako Kitao",22,Japan,2004,"Synchronized Swimming",0,1,0,1
+"Sara Lowe",20,"United States",2004,"Synchronized Swimming",0,0,1,1
+"Lauren McFall",24,"United States",2004,"Synchronized Swimming",0,0,1,1
+"Stephanie Nesbitt",19,"United States",2004,"Synchronized Swimming",0,0,1,1
+"Olga Novokshchenova",29,Russia,2004,"Synchronized Swimming",1,0,0,1
+"Anna Shorina",22,Russia,2004,"Synchronized Swimming",1,0,0,1
+"Emiko Suzuki",22,Japan,2004,"Synchronized Swimming",0,1,0,1
+"Juri Tatsumi",24,Japan,2004,"Synchronized Swimming",0,1,0,1
+"Yoko Yoneda",28,Japan,2004,"Synchronized Swimming",0,1,0,1
+"Kendra Zanotto",22,"United States",2004,"Synchronized Swimming",0,0,1,1
+"Georgina Bardach",20,Argentina,2004,Swimming,0,0,1,1
+"George Bovell",21,"Trinidad and Tobago",2004,Swimming,0,0,1,1
+"Emiliano Brembilla",25,Italy,2004,Swimming,0,0,1,1
+"Federico Cappellazzo",23,Italy,2004,Swimming,0,0,1,1
+"Simone Cercato",29,Italy,2004,Swimming,0,0,1,1
+"Lars Conrad",28,Germany,2004,Swimming,0,1,0,1
+"Haley Cope",25,"United States",2004,Swimming,0,1,0,1
+"Ritz Correia",22,"United States",2004,Swimming,0,1,0,1
+"László Cseh Jr.",18,Hungary,2004,Swimming,0,0,1,1
+"Petra Dallmann",25,Germany,2004,Swimming,0,0,1,1
+"Dave Davies",19,"Great Britain",2004,Swimming,0,0,1,1
+"Inge Dekker",18,Netherlands,2004,Swimming,0,0,1,1
+"Duje Draganja",21,Croatia,2004,Swimming,0,1,0,1
+"Steffen Driesen",22,Germany,2004,Swimming,0,1,0,1
+"Hugues Duboscq",22,France,2004,Swimming,0,0,1,1
+"Nate Dusing",25,"United States",2004,Swimming,0,0,1,1
+"Lyndon Ferns",20,"South Africa",2004,Swimming,1,0,0,1
+"Solenne Figuès",25,France,2004,Swimming,0,0,1,1
+"Razvan Florea",23,Romania,2004,Swimming,0,0,1,1
+"Mark Gangloff",22,"United States",2004,Swimming,1,0,0,1
+"Scott Goldblatt",25,"United States",2004,Swimming,1,0,0,1
+"Daniela Götz",16,Germany,2004,Swimming,0,0,1,1
+"Janina-Kristin Götz",23,Germany,2004,Swimming,0,0,1,1
+"Chantal Groot",21,Netherlands,2004,Swimming,0,0,1,1
+"Dániel Gyurta",15,Hungary,2004,Swimming,0,1,0,1
+"Sara Harstick",22,Germany,2004,Swimming,0,0,1,1
+"Rhi Jeffrey",17,"United States",2004,Swimming,1,0,0,1
+"Larsen Jensen",18,"United States",2004,Swimming,0,1,0,1
+"Johan Kenkhuis",24,Netherlands,2004,Swimming,0,1,0,1
+"Dan Ketchum",22,"United States",2004,Swimming,1,0,0,1
+"Tara Kirk",22,"United States",2004,Swimming,0,1,0,1
+"Michael Klim",27,Australia,2004,Swimming,0,1,0,1
+"Stanislava Komarova",18,Russia,2004,Swimming,0,1,0,1
+"Annabel Kosten",27,Netherlands,2004,Swimming,0,0,1,1
+"Lenny Krayzelburg",28,"United States",2004,Swimming,1,0,0,1
+"Jens Kruppa",28,Germany,2004,Swimming,0,1,0,1
+"Colleen Lanne",24,"United States",2004,Swimming,0,1,0,1
+"Li Ji",18,China,2004,Swimming,0,1,0,1
+"Luo Xuejuan",20,China,2004,Swimming,1,0,0,1
+"Filippo Magnini",22,Italy,2004,Swimming,0,0,1,1
+"Antony Matkovich",27,Australia,2004,Swimming,0,1,0,1
+"Helge Meeuw",19,Germany,2004,Swimming,0,1,0,1
+"Malia Metella",22,France,2004,Swimming,0,1,0,1
+"Diana Munz",22,"United States",2004,Swimming,0,0,1,1
+"Reiko Nakamura",22,Japan,2004,Swimming,0,0,1,1
+"Yuko Nakanishi",23,Japan,2004,Swimming,0,0,1,1
+"Ryk Neethling",26,"South Africa",2004,Swimming,1,0,0,1
+"Yoshihiro Okumura",21,Japan,2004,Swimming,0,0,1,1
+"Pang Jiaying",19,China,2004,Swimming,0,1,0,1
+"Steve Parry",27,"Great Britain",2004,Swimming,0,0,1,1
+"Todd Pearson",26,Australia,2004,Swimming,0,1,0,1
+"Federica Pellegrini",16,Italy,2004,Swimming,0,1,0,1
+"Matteo Pelliciari",25,Italy,2004,Swimming,0,0,1,1
+"Carly Piper",20,"United States",2004,Swimming,1,0,0,1
+"Sarah Poewe",21,Germany,2004,Swimming,0,0,1,1
+"Anne Poleska",24,Germany,2004,Swimming,0,0,1,1
+"Camelia Potec",22,Romania,2004,Swimming,1,0,0,1
+"Giaan Rooney",21,Australia,2004,Swimming,1,0,0,1
+"Massimiliano Rosolino",26,Italy,2004,Swimming,0,0,1,1
+"Thomas Rupprath",27,Germany,2004,Swimming,0,1,0,1
+"Sarah Ryan",27,Australia,2004,Swimming,1,0,0,1
+"Jess Schipper",17,Australia,2004,Swimming,1,0,0,1
+"Andriy Serdinov",21,Ukraine,2004,Swimming,0,0,1,1
+"Ai Shibata",22,Japan,2004,Swimming,1,0,0,1
+"Nicholas Sprenger",19,Australia,2004,Swimming,0,1,0,1
+"Craig Stevens",24,Australia,2004,Swimming,0,1,0,1
+"Hannah Stockbauer",22,Germany,2004,Swimming,0,0,1,1
+"Darian Townsend",19,"South Africa",2004,Swimming,1,0,0,1
+"Peter Vanderkaay",20,"United States",2004,Swimming,1,0,0,1
+"Mark Veens",26,Netherlands,2004,Swimming,0,1,0,1
+"Marleen Veldhuis",25,Netherlands,2004,Swimming,0,0,1,1
+"Erik Vendt",23,"United States",2004,Swimming,0,1,0,1
+"Dana Vollmer",16,"United States",2004,Swimming,1,0,0,1
+"Gabe Woodward",25,"United States",2004,Swimming,0,0,1,1
+"Xu Yanwei",20,China,2004,Swimming,0,1,0,1
+"Yang Yu",19,China,2004,Swimming,0,1,0,1
+"Mitja Zastrow",27,Netherlands,2004,Swimming,0,1,0,1
+"Zhu Yingwen",22,China,2004,Swimming,0,1,0,1
+"Klaas-Erik Zwering",23,Netherlands,2004,Swimming,0,1,0,1
+"Sandy Allen-Lewis",25,Australia,2004,Softball,0,1,0,1
+"Laura Berg",29,"United States",2004,Softball,1,0,0,1
+"Crystl Bustos",26,"United States",2004,Softball,1,0,0,1
+"Marissa Carpadios",26,Australia,2004,Softball,0,1,0,1
+"Amanda Doman",26,Australia,2004,Softball,0,1,0,1
+"Peta Edebone",35,Australia,2004,Softball,0,1,0,1
+"Lisa Fernandez",33,"United States",2004,Softball,1,0,0,1
+"Jennie Finch",23,"United States",2004,Softball,1,0,0,1
+"Tairia Flowers",23,"United States",2004,Softball,1,0,0,1
+"Amanda Freed",24,"United States",2004,Softball,1,0,0,1
+"Fiona Hanes-Crawford",27,Australia,2004,Softball,0,1,0,1
+"Tanya Harding",32,Australia,2004,Softball,0,1,0,1
+"Lori Harrigan",33,"United States",2004,Softball,1,0,0,1
+"Natalie Hodgskin",28,Australia,2004,Softball,0,1,0,1
+"Kazue Ito",26,Japan,2004,Softball,0,0,1,1
+"Yumi Iwabuchi",24,Japan,2004,Softball,0,0,1,1
+"Lovie Jung",24,"United States",2004,Softball,1,0,0,1
+"Kelly Kretschman",24,"United States",2004,Softball,1,0,0,1
+"Jessica Mendoza",23,"United States",2004,Softball,1,0,0,1
+"Masumi Mishina",22,Japan,2004,Softball,0,0,1,1
+"Simmone Morrow",27,Australia,2004,Softball,0,1,0,1
+"Tracey Mosley",30,Australia,2004,Softball,0,1,0,1
+"Emi Naito",24,Japan,2004,Softball,0,0,1,1
+"Stacey Nuveman",26,"United States",2004,Softball,1,0,0,1
+"Leah O'Brien-Amico",29,"United States",2004,Softball,1,0,0,1
+"Cat Osterman",21,"United States",2004,Softball,1,0,0,1
+"Stacey Porter",22,Australia,2004,Softball,0,1,0,1
+"Melanie Roche",33,Australia,2004,Softball,0,1,0,1
+"Haruka Saito",34,Japan,2004,Softball,0,0,1,1
+"Hiroko Sakai",25,Japan,2004,Softball,0,0,1,1
+"Naoko Sakamoto",19,Japan,2004,Softball,0,0,1,1
+"Rie Sato",24,Japan,2004,Softball,0,0,1,1
+"Yuki Sato",23,Japan,2004,Softball,0,0,1,1
+"Juri Takayama",27,Japan,2004,Softball,0,0,1,1
+"Natalie Titcume",28,Australia,2004,Softball,0,1,0,1
+"Jenny Topping",24,"United States",2004,Softball,1,0,0,1
+"Yukiko Ueno",22,Japan,2004,Softball,0,0,1,1
+"Reika Utsugi",41,Japan,2004,Softball,0,0,1,1
+"Natalie Ward",28,Australia,2004,Softball,0,1,0,1
+"Natasha Watley",22,"United States",2004,Softball,1,0,0,1
+"Brooke Wilkins",30,Australia,2004,Softball,0,1,0,1
+"Kerry Wyborn",26,Australia,2004,Softball,0,1,0,1
+"Eri Yamada",20,Japan,2004,Softball,0,0,1,1
+"Noriko Yamaji",33,Japan,2004,Softball,0,0,1,1
+"Ahmed Al-Maktoum",40,"United Arab Emirates",2004,Shooting,1,0,0,1
+"Sergey Alifirenko",45,Russia,2004,Shooting,0,0,1,1
+"Aleksey Alipov",29,Russia,2004,Shooting,1,0,0,1
+"Michael Anti",40,"United States",2004,Shooting,0,1,0,1
+"Irad? Asumova",46,Azerbaijan,2004,Shooting,0,0,1,1
+"Suzy Balogh",31,Australia,2004,Shooting,1,0,0,1
+"Andrea Benelli",44,Italy,2004,Shooting,1,0,0,1
+"Aleksandr Blinov",22,Russia,2004,Shooting,0,1,0,1
+"Du Li",22,China,2004,Shooting,1,0,0,1
+"Matt Emmons",23,"United States",2004,Shooting,1,0,0,1
+"Gao E",41,China,2004,Shooting,0,0,1,1
+"Jozef Gönci",30,Slovakia,2004,Shooting,0,0,1,1
+"Lenka Hyková-Marušková",19,"Czech Republic",2004,Shooting,0,1,0,1
+"Diána Igaly",39,Hungary,2004,Shooting,1,0,0,1
+"Vladimir Isakov",34,Russia,2004,Shooting,0,0,1,1
+"Jia Zhanbo",30,China,2004,Shooting,1,0,0,1
+"Jin Jong-O",24,"South Korea",2004,Shooting,0,1,0,1
+"Marko Kemppainen",28,Finland,2004,Shooting,0,1,0,1
+"Kim Jong-Su",27,"North Korea",2004,Shooting,0,0,1,1
+"Olena Kostevych",19,Ukraine,2004,Shooting,1,0,0,1
+"Katerina Kurková-Emmons",20,"Czech Republic",2004,Shooting,0,0,1,1
+"Manfred Kurzer",34,Germany,2004,Shooting,1,0,0,1
+"Li Jie",31,China,2004,Shooting,0,1,0,1
+"Christian Lusch",23,Germany,2004,Shooting,0,1,0,1
+"Dmitry Lykin",30,Russia,2004,Shooting,0,0,1,1
+"Sergey Martynov",36,Belarus,2004,Shooting,0,0,1,1
+"Zemfira Meft?kh?tddinova",41,Azerbaijan,2004,Shooting,0,0,1,1
+"Giovanni Pellielo",34,Italy,2004,Shooting,0,1,0,1
+"Christian Planer",29,Austria,2004,Shooting,0,0,1,1
+"Sergey Polyakov",36,Russia,2004,Shooting,0,1,0,1
+"María Quintanal",34,Spain,2004,Shooting,0,1,0,1
+"Rajyavardhan Rathore",34,India,2004,Shooting,0,1,0,1
+"Kim Rhode",25,"United States",2004,Shooting,1,0,0,1
+"Juan Miguel Rodríguez",37,Cuba,2004,Shooting,0,0,1,1
+"Ralf Schumann",42,Germany,2004,Shooting,1,0,0,1
+"Jasna Šekaric",38,"Serbia and Montenegro",2004,Shooting,0,1,0,1
+"Valentina Turisini",35,Italy,2004,Shooting,0,1,0,1
+"Adam Vella",33,Australia,2004,Shooting,0,0,1,1
+"Wang Chengyi",21,China,2004,Shooting,0,0,1,1
+"Wang Yifu",43,China,2004,Shooting,1,0,0,1
+"Wang Zheng",25,China,2004,Shooting,0,0,1,1
+"Wei Ning",22,China,2004,Shooting,0,1,0,1
+"Zhu Qinan",19,China,2004,Shooting,1,0,0,1
+"Ben Ainslie",27,"Great Britain",2004,Sailing,1,0,0,1
+"Sarah Ayton",24,"Great Britain",2004,Sailing,1,0,0,1
+"Sandra Azón",30,Spain,2004,Sailing,0,1,0,1
+"Sofia Bekatorou",26,Greece,2004,Sailing,1,0,0,1
+"Kevin Burnham",47,"United States",2004,Sailing,1,0,0,1
+"Nick Dempsey",24,"Great Britain",2004,Sailing,0,0,1,1
+"Chris Draper",26,"Great Britain",2004,Sailing,0,0,1,1
+"Carlos Espínola",32,Argentina,2004,Sailing,0,0,1,1
+"Xavier Fernández",27,Spain,2004,Sailing,1,0,0,1
+"Marcelo Ferreira",38,Brazil,2004,Sailing,1,0,0,1
+"Paul Foerster",40,"United States",2004,Sailing,1,0,0,1
+"Gal Fridman",28,Israel,2004,Sailing,1,0,0,1
+"Andreas Geritzer",26,Austria,2004,Sailing,0,1,0,1
+"Joe Glanfield",25,"Great Britain",2004,Sailing,0,1,0,1
+"Torben Grael",44,Brazil,2004,Sailing,1,0,0,1
+"Roman Hagara",38,Austria,2004,Sailing,1,0,0,1
+"Simon Hiscocks",31,"Great Britain",2004,Sailing,0,0,1,1
+"Dorte Jensen",31,Denmark,2004,Sailing,0,0,1,1
+"Helle Jespersen",36,Denmark,2004,Sailing,0,0,1,1
+"Nikos Kaklamanakis",35,Greece,2004,Sailing,0,1,0,1
+"Hanna Kalinina",25,Ukraine,2004,Sailing,0,1,0,1
+"Mateusz Kusznierewicz",29,Poland,2004,Sailing,0,0,1,1
+"Santiago Lange",42,Argentina,2004,Sailing,0,0,1,1
+"Heorhiy Leonchuk",30,Ukraine,2004,Sailing,0,1,0,1
+"Signe Livbjerg",24,Denmark,2004,Sailing,0,0,1,1
+"John Lovell",36,"United States",2004,Sailing,0,1,0,1
+"Rodion Luka",31,Ukraine,2004,Sailing,0,1,0,1
+"Ross MacDonald",39,Canada,2004,Sailing,0,1,0,1
+"Iker Martínez",27,Spain,2004,Sailing,1,0,0,1
+"Svitlana Matevusheva",23,Ukraine,2004,Sailing,0,1,0,1
+"Faustine Merret",26,France,2004,Sailing,1,0,0,1
+"Charlie Ogletree",36,"United States",2004,Sailing,0,1,0,1
+"Christina Otzen",28,Denmark,2004,Sailing,0,0,1,1
+"Pascal Rambeau",32,France,2004,Sailing,0,0,1,1
+"Shirley Robertson",36,"Great Britain",2004,Sailing,1,0,0,1
+"Nick Rogers",27,"Great Britain",2004,Sailing,0,1,0,1
+"Xavier Rohart",36,France,2004,Sailing,0,0,1,1
+"Robert Scheidt",31,Brazil,2004,Sailing,1,0,0,1
+"Kazuto Seki",28,Japan,2004,Sailing,0,0,1,1
+"Alessandra Sensini",34,Italy,2004,Sailing,0,0,1,1
+"Lenka Šmídová",29,"Czech Republic",2004,Sailing,0,1,0,1
+"Hans-Peter Steinacher",35,Austria,2004,Sailing,1,0,0,1
+"Siren Sundby",21,Norway,2004,Sailing,1,0,0,1
+"Ruslana Taran",33,Ukraine,2004,Sailing,0,1,0,1
+"Kenjiro Todoroki",28,Japan,2004,Sailing,0,0,1,1
+"Therese Torgersson",28,Sweden,2004,Sailing,0,0,1,1
+"Rafael Trujillo",28,Spain,2004,Sailing,0,1,0,1
+"Aimilia Tsoulfa",31,Greece,2004,Sailing,1,0,0,1
+"Natalia Vía Dufresne",31,Spain,2004,Sailing,0,1,0,1
+"Sarah Webb",27,"Great Britain",2004,Sailing,1,0,0,1
+"Mike Wolfs",33,Canada,2004,Sailing,0,1,0,1
+"Yin Jian",25,China,2004,Sailing,0,1,0,1
+"Vendela Zachrisson-Santén",26,Sweden,2004,Sailing,0,0,1,1
+"Vasilij Žbogar",28,Slovenia,2004,Sailing,0,0,1,1
+"Luca Agamennoni",24,Italy,2004,Rowing,0,0,1,1
+"Chris Ahrens",28,"United States",2004,Rowing,1,0,0,1
+"Wyatt Allen",25,"United States",2004,Rowing,1,0,0,1
+"Catello Amarante",25,Italy,2004,Rowing,0,0,1,1
+"Salvatore Amitrano",28,Italy,2004,Rowing,0,0,1,1
+"Cam Baerg",31,Canada,2004,Rowing,0,1,0,1
+"Michiel Bartman",37,Netherlands,2004,Rowing,0,1,0,1
+"Dan Beery",29,"United States",2004,Rowing,1,0,0,1
+"Lorenzo Bertini",28,Italy,2004,Rowing,0,0,1,1
+"Yuliya Bichik",21,Belarus,2004,Rowing,0,0,1,1
+"Serhiy Biloushchenko",22,Ukraine,2004,Rowing,0,0,1,1
+"Cath Bishop",32,"Great Britain",2004,Rowing,0,1,0,1
+"Claudia Blasberg",29,Germany,2004,Rowing,0,1,0,1
+"Kathrin Boron",34,Germany,2004,Rowing,1,0,0,1
+"Amber Bradley",24,Australia,2004,Rowing,0,0,1,1
+"Simon Burgess",36,Australia,2004,Rowing,0,1,0,1
+"Donnie Cech",30,"South Africa",2004,Rowing,0,0,1,1
+"Chun Wei Cheung",32,Netherlands,2004,Rowing,0,1,0,1
+"Aurica Chirita-Barascu",29,Romania,2004,Rowing,1,0,0,1
+"Pete Cipollone",33,"United States",2004,Rowing,1,0,0,1
+"Ed Coode",29,"Great Britain",2004,Rowing,1,0,0,1
+"Iztok Cop",32,Slovenia,2004,Rowing,0,1,0,1
+"Alison Cox",25,"United States",2004,Rowing,0,1,0,1
+"James Cracknell",32,"Great Britain",2004,Rowing,1,0,0,1
+"Ben Cureton",23,Australia,2004,Rowing,0,1,0,1
+"Caryn Davies",22,"United States",2004,Rowing,0,1,0,1
+"Annemiek de Haan",23,Netherlands,2004,Rowing,0,0,1,1
+"Matt Deakin",24,"United States",2004,Rowing,1,0,0,1
+"Hurnet Dekkers",30,Netherlands,2004,Rowing,0,0,1,1
+"Dario Dentale",21,Italy,2004,Rowing,0,0,1,1
+"Geert-Jan Derksen",29,Netherlands,2004,Rowing,0,1,0,1
+"Ramon di Clemente",29,"South Africa",2004,Rowing,0,0,1,1
+"Megan Dirkmaat",28,"United States",2004,Rowing,0,1,0,1
+"Frédéric Dufour",28,France,2004,Rowing,0,1,0,1
+"Rumyana Dzhadzharova-Neykova",31,Bulgaria,2004,Rowing,0,0,1,1
+"Eskild Ebbesen",32,Denmark,2004,Rowing,1,0,0,1
+"Thomas Ebert",31,Denmark,2004,Rowing,1,0,0,1
+"Anthony Edwards",31,Australia,2004,Rowing,0,1,0,1
+"Gerritjan Eggenkamp",28,Netherlands,2004,Rowing,0,1,0,1
+"Meike Evers",27,Germany,2004,Rowing,1,0,0,1
+"Caroline Evers-Swindell",25,"New Zealand",2004,Rowing,1,0,0,1
+"Georgina Evers-Swindell",25,"New Zealand",2004,Rowing,1,0,0,1
+"Dana Faletic",27,Australia,2004,Rowing,0,0,1,1
+"Sergey Fedorovtsev",24,Russia,2004,Rowing,1,0,0,1
+"Debbie Flood",24,"Great Britain",2004,Rowing,0,1,0,1
+"Rodica Florea-Serban",21,Romania,2004,Rowing,1,0,0,1
+"Jan-Willem Gabriëls",25,Netherlands,2004,Rowing,0,1,0,1
+"Liliana Gafencu",29,Romania,2004,Rowing,1,0,0,1
+"Rossano Galtarossa",32,Italy,2004,Rowing,0,0,1,1
+"Nataliya Gelakh",26,Belarus,2004,Rowing,0,0,1,1
+"Elena Georgescu",40,Romania,2004,Rowing,1,0,0,1
+"Drew Ginn",29,Australia,2004,Rowing,1,0,0,1
+"Katherine Grainger",28,"Great Britain",2004,Rowing,0,1,0,1
+"Jakub Hanák",21,"Czech Republic",2004,Rowing,0,1,0,1
+"Joey Hansen",25,"United States",2004,Rowing,1,0,0,1
+"Bo Hanson",31,Australia,2004,Rowing,0,0,1,1
+"Adrien Hardy",26,France,2004,Rowing,1,0,0,1
+"Tom Herschmiller",26,Canada,2004,Rowing,0,1,0,1
+"Nienke Hommes",27,Netherlands,2004,Rowing,0,0,1,1
+"Beau Hoopman",23,"United States",2004,Rowing,1,0,0,1
+"Kerry Hore",23,Australia,2004,Rowing,0,0,1,1
+"Frances Houghton",23,"Great Britain",2004,Rowing,0,1,0,1
+"Serhiy Hryn",22,Ukraine,2004,Rowing,0,0,1,1
+"Doina Ignat",35,Romania,2004,Rowing,1,0,0,1
+"Jüri Jaanson",38,Estonia,2004,Rowing,0,1,0,1
+"David Jirka",22,"Czech Republic",2004,Rowing,0,1,0,1
+"Katie Johnson",25,"United States",2004,Rowing,0,1,0,1
+"Tomáš Karas",29,"Czech Republic",2004,Rowing,0,1,0,1
+"Yekaterina Khodatovich-Karsten",32,Belarus,2004,Rowing,0,1,0,1
+"David Kopriva",24,"Czech Republic",2004,Rowing,0,1,0,1
+"Laurel Korholz",34,"United States",2004,Rowing,0,1,0,1
+"Kerstin Kowalski-El-Qalqili",28,Germany,2004,Rowing,1,0,0,1
+"Igor Kravtsov",30,Russia,2004,Rowing,1,0,0,1
+"Thor Kristensen",24,Denmark,2004,Rowing,1,0,0,1
+"Tomasz Kucharski",30,Poland,2004,Rowing,1,0,0,1
+"Elise Laverick",29,"Great Britain",2004,Rowing,0,0,1,1
+"Raffaello Leonardo",31,Italy,2004,Rowing,0,0,1,1
+"Glen Loftus",28,Australia,2004,Rowing,0,1,0,1
+"Manuela Lutze",30,Germany,2004,Rowing,1,0,0,1
+"Oleh Lykov",31,Ukraine,2004,Rowing,0,0,1,1
+"Sam Magee",21,"United States",2004,Rowing,0,1,0,1
+"Bruno Mascarenhas",23,Italy,2004,Rowing,0,0,1,1
+"Mike McKay",39,Australia,2004,Rowing,0,0,1,1
+"Daniël Mensch",25,Netherlands,2004,Rowing,0,1,0,1
+"Anna Mickelson-Cummins",24,"United States",2004,Rowing,0,1,0,1
+"Alison Mowbray",33,"Great Britain",2004,Rowing,0,1,0,1
+"Stephan Mølvig",25,Denmark,2004,Rowing,1,0,0,1
+"Lianne Nelson",32,"United States",2004,Rowing,0,1,0,1
+"Elisabeta Oleniuc-Lipa",39,Romania,2004,Rowing,1,0,0,1
+"Britta Oppelt",26,Germany,2004,Rowing,0,1,0,1
+"Ioana Papuc-Rotaru",20,Romania,2004,Rowing,1,0,0,1
+"Matthew Pinsent",33,"Great Britain",2004,Rowing,1,0,0,1
+"Constanta Pipota-Burcica",33,Romania,2004,Rowing,1,0,0,1
+"Vasilios Polymeros",28,Greece,2004,Rowing,0,0,1,1
+"Lorenzo Porzio",22,Italy,2004,Rowing,0,0,1,1
+"Jason Read",26,"United States",2004,Rowing,1,0,0,1
+"Daniela Reimer",21,Germany,2004,Rowing,0,1,0,1
+"Stuart Reside",25,Australia,2004,Rowing,0,0,1,1
+"Rebecca Romero",24,"Great Britain",2004,Rowing,0,1,0,1
+"Katrin Rutschow-Stomporowski",29,Germany,2004,Rowing,1,0,0,1
+"Alessio Sartori",27,Italy,2004,Rowing,0,0,1,1
+"Rebecca Sattin",23,Australia,2004,Rowing,0,0,1,1
+"Leonid Shaposhnykov",34,Ukraine,2004,Rowing,0,0,1,1
+"Sarah Siegelaar",22,Netherlands,2004,Rowing,0,0,1,1
+"Diederik Simon",34,Netherlands,2004,Rowing,0,1,0,1
+"Nikša Skelin",26,Croatia,2004,Rowing,0,1,0,1
+"Siniša Skelin",30,Croatia,2004,Rowing,0,1,0,1
+"Nikos Skiathitis",22,Greece,2004,Rowing,0,0,1,1
+"Marlies Smulders",22,Netherlands,2004,Rowing,0,0,1,1
+"Luka Špik",25,Slovenia,2004,Rowing,0,1,0,1
+"Nikolay Spinev",30,Russia,2004,Rowing,1,0,0,1
+"Geoff Stewart",30,Australia,2004,Rowing,0,0,1,1
+"James Stewart",30,Australia,2004,Rowing,0,0,1,1
+"Steve Stewart",26,Australia,2004,Rowing,0,0,1,1
+"Aleksey Svirin",25,Russia,2004,Rowing,1,0,0,1
+"Robert Sycz",30,Poland,2004,Rowing,1,0,0,1
+"Stefan Szczurowski",22,Australia,2004,Rowing,0,0,1,1
+"Angela Tamas-Alupei",32,Romania,2004,Rowing,1,0,0,1
+"Helen Tanger",25,Netherlands,2004,Rowing,0,0,1,1
+"James Tomkins",38,Australia,2004,Rowing,1,0,0,1
+"Michael Toon",25,Australia,2004,Rowing,0,0,1,1
+"Pascal Touron",31,France,2004,Rowing,0,1,0,1
+"Olaf Tufte",28,Norway,2004,Rowing,1,0,0,1
+"Kirsten van der Kolk",28,Netherlands,2004,Rowing,0,0,1,1
+"Marit van Eupen",34,Netherlands,2004,Rowing,0,0,1,1
+"Annemarieke van Rumpt",24,Netherlands,2004,Rowing,0,0,1,1
+"Matthijs Vellenga",26,Netherlands,2004,Rowing,0,1,0,1
+"Gijs Vermeulen",23,Netherlands,2004,Rowing,0,1,0,1
+"Sébastien Vielledent",27,France,2004,Rowing,1,0,0,1
+"Bryan Volpenhein",27,"United States",2004,Rowing,1,0,0,1
+"Peggy Waleska",24,Germany,2004,Rowing,0,1,0,1
+"Froukje Wegman",25,Netherlands,2004,Rowing,0,0,1,1
+"Stuart Welch",26,Australia,2004,Rowing,0,0,1,1
+"Jake Wetzel",27,Canada,2004,Rowing,0,1,0,1
+"Mary Whipple",24,"United States",2004,Rowing,0,1,0,1
+"Barney Williams",27,Canada,2004,Rowing,0,1,0,1
+"Steve Williams",28,"Great Britain",2004,Rowing,1,0,0,1
+"Sarah Winckless",30,"Great Britain",2004,Rowing,0,0,1,1
+"Ester Workel",29,Netherlands,2004,Rowing,0,0,1,1
+"Ivo Yanakiev",28,Bulgaria,2004,Rowing,0,0,1,1
+"Olesya Belugina",20,Russia,2004,"Rhythmic Gymnastics",1,0,0,1
+"Hanna Bezsonova",20,Ukraine,2004,"Rhythmic Gymnastics",0,0,1,1
+"Elisa Blanchi",16,Italy,2004,"Rhythmic Gymnastics",0,1,0,1
+"Irina Chashchina",22,Russia,2004,"Rhythmic Gymnastics",0,1,0,1
+"Fabrizia D'Ottavio",19,Italy,2004,"Rhythmic Gymnastics",0,1,0,1
+"Marinella Falca",18,Italy,2004,"Rhythmic Gymnastics",0,1,0,1
+"Olga Glatskikh",15,Russia,2004,"Rhythmic Gymnastics",1,0,0,1
+"Zhaneta Ilieva",19,Bulgaria,2004,"Rhythmic Gymnastics",0,0,1,1
+"Alina Kabayeva",21,Russia,2004,"Rhythmic Gymnastics",1,0,0,1
+"Ele?nora Kezhova",18,Bulgaria,2004,"Rhythmic Gymnastics",0,0,1,1
+"Tatyana Kurbakova",18,Russia,2004,"Rhythmic Gymnastics",1,0,0,1
+"Nataliya Lavrova",20,Russia,2004,"Rhythmic Gymnastics",1,0,0,1
+"Zornitsa Marinova",17,Bulgaria,2004,"Rhythmic Gymnastics",0,0,1,1
+"Daniela Masseroni",19,Italy,2004,"Rhythmic Gymnastics",0,1,0,1
+"Yelena Murzina",20,Russia,2004,"Rhythmic Gymnastics",1,0,0,1
+"Yelena Posevina",18,Russia,2004,"Rhythmic Gymnastics",1,0,0,1
+"Kristina Rangelova",19,Bulgaria,2004,"Rhythmic Gymnastics",0,0,1,1
+"Elisa Santoni",16,Italy,2004,"Rhythmic Gymnastics",0,1,0,1
+"Galina Tancheva",17,Bulgaria,2004,"Rhythmic Gymnastics",0,0,1,1
+"Vladislava Tancheva",17,Bulgaria,2004,"Rhythmic Gymnastics",0,0,1,1
+"Laura Vernizzi",18,Italy,2004,"Rhythmic Gymnastics",0,1,0,1
+"Libor Capalini",31,"Czech Republic",2004,"Modern Pentathlon",0,0,1,1
+"Georgina Harland",26,"Great Britain",2004,"Modern Pentathlon",0,0,1,1
+"Andrey Moiseyev",25,Russia,2004,"Modern Pentathlon",1,0,0,1
+"Jelena Rublevska",28,Latvia,2004,"Modern Pentathlon",0,1,0,1
+"Zsuzsa Voros",27,Hungary,2004,"Modern Pentathlon",1,0,0,1
+"Andrejus Zadneprovskis",29,Lithuania,2004,"Modern Pentathlon",0,1,0,1
+"Noriko Anno",28,Japan,2004,Judo,1,0,0,1
+"Yordanis Arencibia",24,Cuba,2004,Judo,0,0,1,1
+"Daima Beltrán",31,Cuba,2004,Judo,0,1,0,1
+"Annett Böhm",24,Germany,2004,Judo,0,0,1,1
+"Yvonne Bönisch",23,Germany,2004,Judo,1,0,0,1
+"Edith Bosch",24,Netherlands,2004,Judo,0,1,0,1
+"Flávio Canto",29,Brazil,2004,Judo,0,0,1,1
+"Choi Min-Ho",23,"South Korea",2004,Judo,0,0,1,1
+"Tea Donguzashvili",28,Russia,2004,Judo,0,0,1,1
+"Gao Feng",22,China,2004,Judo,0,0,1,1
+"Georgi Georgiev",28,Bulgaria,2004,Judo,0,0,1,1
+"Driulys González",30,Cuba,2004,Judo,0,0,1,1
+"Deborah Gravenstijn",29,Netherlands,2004,Judo,0,0,1,1
+"Leandro Guilheiro",21,Brazil,2004,Judo,0,0,1,1
+"Claudia Heill",22,Austria,2004,Judo,0,1,0,1
+"Ilse Heylen",27,Belgium,2004,Judo,0,0,1,1
+"Roman Hontiuk",20,Ukraine,2004,Judo,0,1,0,1
+"Mark Huizinga",30,Netherlands,2004,Judo,0,0,1,1
+"Ilias Iliadis",17,Greece,2004,Judo,1,0,0,1
+"Hiroshi Izumi",22,Japan,2004,Judo,0,1,0,1
+"Jang Seong-Ho",26,"South Korea",2004,Judo,0,1,0,1
+"Frédérique Jossinet",28,France,2004,Judo,0,1,0,1
+"Michael Jurack",25,Germany,2004,Judo,0,0,1,1
+"Khashbaataryn Tsagaanbaatar",20,Mongolia,2004,Judo,0,0,1,1
+"Nest'or Khergiani",29,Georgia,2004,Judo,0,1,0,1
+"Jozef Krnác",26,Slovakia,2004,Judo,0,1,0,1
+"Kye Sun-Hui",25,"North Korea",2004,Judo,0,1,0,1
+"Yurisel Laborde",25,Cuba,2004,Judo,0,0,1,1
+"Lee Won-Hui",23,"South Korea",2004,Judo,1,0,0,1
+"Liu Xia",25,China,2004,Judo,0,1,0,1
+"Yurisleidy Lupetey",23,Cuba,2004,Judo,0,0,1,1
+"Igor Makarov",25,Belarus,2004,Judo,1,0,0,1
+"Vitaly Makarov",30,Russia,2004,Judo,0,1,0,1
+"Julia Matijass",30,Germany,2004,Judo,0,0,1,1
+"Lucia Morico",28,Italy,2004,Judo,0,0,1,1
+"Tadahiro Nomura",29,Japan,2004,Judo,1,0,0,1
+"Dmitry Nosov",24,Russia,2004,Judo,0,0,1,1
+"Jimmy Pedro",33,"United States",2004,Judo,0,0,1,1
+"Indrek Pertelson",33,Estonia,2004,Judo,0,0,1,1
+"Qin Dongya",24,China,2004,Judo,0,0,1,1
+"Amarilys Savón",30,Cuba,2004,Judo,0,0,1,1
+"Sun Fuming",30,China,2004,Judo,0,0,1,1
+"Keiji Suzuki",24,Japan,2004,Judo,1,0,0,1
+"Ryoko Tamura-Tani",28,Japan,2004,Judo,1,0,0,1
+"Ayumi Tanimoto",23,Japan,2004,Judo,1,0,0,1
+"Khasanbi Taov",26,Russia,2004,Judo,0,0,1,1
+"Tamerlan Tmenov",27,Russia,2004,Judo,0,1,0,1
+"Maki Tsukada",22,Japan,2004,Judo,1,0,0,1
+"Masato Uchishiba",26,Japan,2004,Judo,1,0,0,1
+"Masae Ueno",25,Japan,2004,Judo,1,0,0,1
+"Dennis van der Geest",29,Netherlands,2004,Judo,0,0,1,1
+"Xian Dongmei",28,China,2004,Judo,1,0,0,1
+"Yuki Yokosawa",23,Japan,2004,Judo,0,1,0,1
+"Arik Ze'evi",27,Israel,2004,Judo,0,0,1,1
+"Urška Žolnir",22,Slovenia,2004,Judo,0,0,1,1
+"Zurab Zviadauri",23,Georgia,2004,Judo,1,0,0,1
+"Magdalena Aicega",30,Argentina,2004,Hockey,0,0,1,1
+"Mariela Antoniska",29,Argentina,2004,Hockey,0,0,1,1
+"Clemens Arnold",25,Germany,2004,Hockey,0,0,1,1
+"Inés Arrondo",26,Argentina,2004,Hockey,0,0,1,1
+"Lucha Aymar",27,Argentina,2004,Hockey,0,0,1,1
+"Tina Bachmann",26,Germany,2004,Hockey,1,0,0,1
+"Christoph Bechmann",32,Germany,2004,Hockey,0,0,1,1
+"Sebastian Biederlack",22,Germany,2004,Hockey,0,0,1,1
+"Minke Booij",27,Netherlands,2004,Hockey,0,1,0,1
+"Ageeth Boomgaardt",31,Netherlands,2004,Hockey,0,1,0,1
+"Michael Brennan",28,Australia,2004,Hockey,1,0,0,1
+"Travis Brooks",24,Australia,2004,Hockey,1,0,0,1
+"Matthijs Brouwer",24,Netherlands,2004,Hockey,0,1,0,1
+"Ronald Brouwer",25,Netherlands,2004,Hockey,0,1,0,1
+"Claudia Burkart",24,Argentina,2004,Hockey,0,0,1,1
+"Dean Butler",27,Australia,2004,Hockey,1,0,0,1
+"Caroline Casaretto",26,Germany,2004,Hockey,1,0,0,1
+"Philipp Crone",27,Germany,2004,Hockey,0,0,1,1
+"Chantal de Bruijn",28,Netherlands,2004,Hockey,0,1,0,1
+"Teun de Nooijer",28,Netherlands,2004,Hockey,0,1,0,1
+"Lisanne de Roever",25,Netherlands,2004,Hockey,0,1,0,1
+"Liam De Young",22,Australia,2004,Hockey,1,0,0,1
+"Jeroen Delmeé",31,Netherlands,2004,Hockey,0,1,0,1
+"Geert-Jan Derikx",23,Netherlands,2004,Hockey,0,1,0,1
+"Rob Derikx",21,Netherlands,2004,Hockey,0,1,0,1
+"Marina Di Giacomo",28,Argentina,2004,Hockey,0,0,1,1
+"Mijntje Donners",30,Netherlands,2004,Hockey,0,1,0,1
+"Eike Duckwitz",24,Germany,2004,Hockey,0,0,1,1
+"Jamie Dwyer",25,Australia,2004,Hockey,1,0,0,1
+"Nathan Eglington",23,Australia,2004,Hockey,1,0,0,1
+"Marten Eikelboom",30,Netherlands,2004,Hockey,0,1,0,1
+"Christoph Eimer",27,Germany,2004,Hockey,0,0,1,1
+"Troy Elder",26,Australia,2004,Hockey,1,0,0,1
+"Björn Emmerling",28,Germany,2004,Hockey,0,0,1,1
+"Nadine Ernsting-Krienke",30,Germany,2004,Hockey,1,0,0,1
+"Floris Evers",21,Netherlands,2004,Hockey,0,1,0,1
+"Sole García",23,Argentina,2004,Hockey,0,0,1,1
+"Bevan George",27,Australia,2004,Hockey,1,0,0,1
+"Mariana González",28,Argentina,2004,Hockey,0,0,1,1
+"Franziska Gude",28,Germany,2004,Hockey,1,0,0,1
+"Alejandra Gulla",27,Argentina,2004,Hockey,0,0,1,1
+"Mandy Haase",22,Germany,2004,Hockey,1,0,0,1
+"Rob Hammond",23,Australia,2004,Hockey,1,0,0,1
+"Maripi Hernández",27,Argentina,2004,Hockey,0,0,1,1
+"Mark Hickman",30,Australia,2004,Hockey,1,0,0,1
+"Erik Jazet",33,Netherlands,2004,Hockey,0,1,0,1
+"Sylvia Karres",27,Netherlands,2004,Hockey,0,1,0,1
+"Natascha Keller",27,Germany,2004,Hockey,1,0,0,1
+"Karel Klaver",25,Netherlands,2004,Hockey,0,1,0,1
+"Denise Klecker",32,Germany,2004,Hockey,1,0,0,1
+"Mark Knowles",19,Australia,2004,Hockey,1,0,0,1
+"Anke Kühn",23,Germany,2004,Hockey,1,0,0,1
+"Florian Kunz",32,Germany,2004,Hockey,0,0,1,1
+"Badri Latif",27,Germany,2004,Hockey,1,0,0,1
+"Heike Lätzsch",30,Germany,2004,Hockey,1,0,0,1
+"Sonja Lehmann",24,Germany,2004,Hockey,1,0,0,1
+"Brent Livermore",28,Australia,2004,Hockey,1,0,0,1
+"Jesse Mahieu",26,Netherlands,2004,Hockey,0,1,0,1
+"Mechi Margalot",29,Argentina,2004,Hockey,0,0,1,1
+"Michael McCann",26,Australia,2004,Hockey,1,0,0,1
+"Björn Michel",29,Germany,2004,Hockey,0,0,1,1
+"Fátima Moreira de Melo",26,Netherlands,2004,Hockey,0,1,0,1
+"Stephen Mowlam",27,Australia,2004,Hockey,1,0,0,1
+"Eefke Mulder",26,Netherlands,2004,Hockey,0,1,0,1
+"Silke Müller",25,Germany,2004,Hockey,1,0,0,1
+"Vanina Oneto",31,Argentina,2004,Hockey,0,0,1,1
+"Rob Reckers",22,Netherlands,2004,Hockey,0,1,0,1
+"Sascha Reinelt",31,Germany,2004,Hockey,0,0,1,1
+"Fanny Rinne",24,Germany,2004,Hockey,1,0,0,1
+"Marion Rodewald",27,Germany,2004,Hockey,1,0,0,1
+"Ceci Rognoni",27,Argentina,2004,Hockey,0,0,1,1
+"Mariné Russo",24,Argentina,2004,Hockey,0,0,1,1
+"Justus Scharowsky",24,Germany,2004,Hockey,0,0,1,1
+"Maartje Scheepstra",24,Netherlands,2004,Hockey,0,1,0,1
+"Janneke Schopman",27,Netherlands,2004,Hockey,0,1,0,1
+"Grant Schubert",24,Australia,2004,Hockey,1,0,0,1
+"Christian Schulte",28,Germany,2004,Hockey,0,0,1,1
+"Clarinda Sinnige",31,Netherlands,2004,Hockey,0,1,0,1
+"Minke Smabers",25,Netherlands,2004,Hockey,0,1,0,1
+"Jiske Snoeks",26,Netherlands,2004,Hockey,0,1,0,1
+"Ayelén Stepnik",28,Argentina,2004,Hockey,0,0,1,1
+"Taeke Taekema",24,Netherlands,2004,Hockey,0,1,0,1
+"Macha van der Vaart",32,Netherlands,2004,Hockey,0,1,0,1
+"Sander van der Weide",28,Netherlands,2004,Hockey,0,1,0,1
+"Miek van Geenhuizen",22,Netherlands,2004,Hockey,0,1,0,1
+"Lieve van Kessel",26,Netherlands,2004,Hockey,0,1,0,1
+"Klaas Veering",22,Netherlands,2004,Hockey,0,1,0,1
+"Guus Vogels",29,Netherlands,2004,Hockey,0,1,0,1
+"Paola Vukojicic",29,Argentina,2004,Hockey,0,0,1,1
+"Louisa Walter",25,Germany,2004,Hockey,1,0,0,1
+"Tibor Weißenborn",23,Germany,2004,Hockey,0,0,1,1
+"Matt Wells",26,Australia,2004,Hockey,1,0,0,1
+"Timo Weß",22,Germany,2004,Hockey,0,0,1,1
+"Matthias Witthaus",22,Germany,2004,Hockey,0,0,1,1
+"Christopher Zeller",19,Germany,2004,Hockey,0,0,1,1
+"Julia Zwehl",28,Germany,2004,Hockey,1,0,0,1
+"Kristine Andersen",28,Denmark,2004,Handball,1,0,0,1
+"Ivano Balic",25,Croatia,2004,Handball,1,0,0,1
+"Markus Baur",33,Germany,2004,Handball,0,1,0,1
+"Anastasiya Borodina",22,Ukraine,2004,Handball,0,0,1,1
+"Nataliya Borysenko",28,Ukraine,2004,Handball,0,0,1,1
+"Karen Brødsgaard",26,Denmark,2004,Handball,1,0,0,1
+"Hanna Burmistrova",27,Ukraine,2004,Handball,0,0,1,1
+"Mikhail Chipurin",23,Russia,2004,Handball,0,0,1,1
+"Choi Im-Jeong",23,"South Korea",2004,Handball,0,1,0,1
+"Line Daugaard",26,Denmark,2004,Handball,1,0,0,1
+"Davor Dominikovic",26,Croatia,2004,Handball,1,0,0,1
+"Mark Dragunski",33,Germany,2004,Handball,0,1,0,1
+"Mirza Džomba",27,Croatia,2004,Handball,1,0,0,1
+"Henning Fritz",29,Germany,2004,Handball,0,1,0,1
+"Katrine Fruelund",26,Denmark,2004,Handball,1,0,0,1
+"Slavko Goluža",32,Croatia,2004,Handball,1,0,0,1
+"Aleksandr Gorbatikov",22,Russia,2004,Handball,0,0,1,1
+"Vyacheslav Gorpishin",34,Russia,2004,Handball,0,0,1,1
+"Pascal Hens",24,Germany,2004,Handball,0,1,0,1
+"Heo Sun-Yeong",28,"South Korea",2004,Handball,0,1,0,1
+"Heo Yeong-Suk",29,"South Korea",2004,Handball,0,1,0,1
+"Iryna Honcharova",29,Ukraine,2004,Handball,0,0,1,1
+"Rikke Hørlykke",28,Denmark,2004,Handball,1,0,0,1
+"Im O-Gyeong",32,"South Korea",2004,Handball,0,1,0,1
+"Jan-Olaf Immel",28,Germany,2004,Handball,0,1,0,1
+"Vitaly Ivanov",28,Russia,2004,Handball,0,0,1,1
+"Jang So-Hui",26,"South Korea",2004,Handball,0,1,0,1
+"Torsten Jansen",27,Germany,2004,Handball,0,1,0,1
+"Trine Jensen",23,Denmark,2004,Handball,1,0,0,1
+"Nikša Kaleb",31,Croatia,2004,Handball,1,0,0,1
+"Florian Kehrmann",27,Germany,2004,Handball,0,1,0,1
+"Kim Cha-Yeon",23,"South Korea",2004,Handball,0,1,0,1
+"Kim Hyeon-Ok",30,"South Korea",2004,Handball,0,1,0,1
+"Lotte Kiærskou",29,Denmark,2004,Handball,1,0,0,1
+"Eduard Koksharov",28,Russia,2004,Handball,0,0,1,1
+"Aleksey Kostygov",31,Russia,2004,Handball,0,0,1,1
+"Stefan Kretzschmar",31,Germany,2004,Handball,0,1,0,1
+"Denis Krivoshlykov",33,Russia,2004,Handball,0,0,1,1
+"Vasily Kudinov",35,Russia,2004,Handball,0,0,1,1
+"Oleg Kuleshov",30,Russia,2004,Handball,0,0,1,1
+"Blaženko Lackovic",23,Croatia,2004,Handball,1,0,0,1
+"Andrey Lavrov",42,Russia,2004,Handball,0,0,1,1
+"Lee Gong-Ju",24,"South Korea",2004,Handball,0,1,0,1
+"Lee Sang-Eun",29,"South Korea",2004,Handball,0,1,0,1
+"Nataliya Liapina",28,Ukraine,2004,Handball,0,0,1,1
+"Venio Losert",28,Croatia,2004,Handball,1,0,0,1
+"Halyna Markushevska",28,Ukraine,2004,Handball,0,0,1,1
+"Valter Matoševic",34,Croatia,2004,Handball,1,0,0,1
+"Petar Metlicic",27,Croatia,2004,Handball,1,0,0,1
+"Henriette Mikkelsen",23,Denmark,2004,Handball,1,0,0,1
+"Karin Mortensen",26,Denmark,2004,Handball,1,0,0,1
+"Mun Gyeong-Ha",24,"South Korea",2004,Handball,0,1,0,1
+"Mun Pil-Hui",21,"South Korea",2004,Handball,0,1,0,1
+"Myeom Bok-Hui",25,"South Korea",2004,Handball,0,1,0,1
+"Louise Bager Nørgaard",22,Denmark,2004,Handball,1,0,0,1
+"Oh Seong-Ok",31,"South Korea",2004,Handball,0,1,0,1
+"Oh Yeong-Ran",31,"South Korea",2004,Handball,0,1,0,1
+"Klaus-Dieter Petersen",35,Germany,2004,Handball,0,1,0,1
+"Rikke Petersen-Schmidt",29,Denmark,2004,Handball,1,0,0,1
+"Sergey Pogorelov",30,Russia,2004,Handball,0,0,1,1
+"Olena Radchenko",31,Ukraine,2004,Handball,0,0,1,1
+"Oksana Raikhel",27,Ukraine,2004,Handball,0,0,1,1
+"Christian Ramota",31,Germany,2004,Handball,0,1,0,1
+"Aleksey Rastvortsev",26,Russia,2004,Handball,0,0,1,1
+"Christian Schwarzer",34,Germany,2004,Handball,0,1,0,1
+"Liudmyla Shevchenko",34,Ukraine,2004,Handball,0,0,1,1
+"Tetiana Shynkarenko",25,Ukraine,2004,Handball,0,0,1,1
+"Hanna Siukalo",27,Ukraine,2004,Handball,0,0,1,1
+"Rikke Skov",23,Denmark,2004,Handball,1,0,0,1
+"Vlado Šola",35,Croatia,2004,Handball,1,0,0,1
+"Denis Špoljaric",24,Croatia,2004,Handball,1,0,0,1
+"Goran Šprem",25,Croatia,2004,Handball,1,0,0,1
+"Daniel Stephan",31,Germany,2004,Handball,0,1,0,1
+"Camilla Thomsen",29,Denmark,2004,Handball,1,0,0,1
+"Dmitry Torgovanov",32,Russia,2004,Handball,0,0,1,1
+"Josephine Touray",24,Denmark,2004,Handball,1,0,0,1
+"Olena Tsyhytsia",29,Ukraine,2004,Handball,0,0,1,1
+"Aleksandr Tuchkin",40,Russia,2004,Handball,0,0,1,1
+"Maryna Verheliuk",26,Ukraine,2004,Handball,0,0,1,1
+"Mette Vestergaard",28,Denmark,2004,Handball,1,0,0,1
+"Frank von Behren",27,Germany,2004,Handball,0,1,0,1
+"Igor Vori",23,Croatia,2004,Handball,1,0,0,1
+"Drago Vukovic",21,Croatia,2004,Handball,1,0,0,1
+"Wu Seon-Hui",26,"South Korea",2004,Handball,0,1,0,1
+"Olena Yatsenko",26,Ukraine,2004,Handball,0,0,1,1
+"Larysa Zaspa",32,Ukraine,2004,Handball,0,0,1,1
+"Christian Zeitz",23,Germany,2004,Handball,0,1,0,1
+"Volker Zerbe",36,Germany,2004,Handball,0,1,0,1
+"Vedran Zrnic",24,Croatia,2004,Handball,1,0,0,1
+"Oana Ban",18,Romania,2004,Gymnastics,1,0,0,1
+"Mohini Bhardwaj",25,"United States",2004,Gymnastics,0,1,0,1
+"Igor Cassina",26,Italy,2004,Gymnastics,1,0,0,1
+"Jury Chechi",34,Italy,2004,Gymnastics,0,0,1,1
+"Gervasio Deferr",23,Spain,2004,Gymnastics,1,0,0,1
+"Jason Gatson",24,"United States",2004,Gymnastics,0,1,0,1
+"Morgan Hamm",21,"United States",2004,Gymnastics,0,1,0,1
+"Valeriy Honcharov",26,Ukraine,2004,Gymnastics,1,0,0,1
+"Kim Dae-Eun",19,"South Korea",2004,Gymnastics,0,1,0,1
+"Mariya Kryuchkova",16,Russia,2004,Gymnastics,0,0,1,1
+"Émilie Le Pennec",16,France,2004,Gymnastics,1,0,0,1
+"Li Xiaopeng",23,China,2004,Gymnastics,0,0,1,1
+"Brett McClure",23,"United States",2004,Gymnastics,0,1,0,1
+"Courtney McCool",16,"United States",2004,Gymnastics,0,1,0,1
+"Hisashi Mizutori",24,Japan,2004,Gymnastics,1,0,0,1
+"Patricia Moreno",16,Spain,2004,Gymnastics,0,0,1,1
+"Daisuke Nakano",21,Japan,2004,Gymnastics,1,0,0,1
+"Daniel Popescu",21,Romania,2004,Gymnastics,0,0,1,1
+"Dan Potra",26,Romania,2004,Gymnastics,0,0,1,1
+"Jevgenijs Sapronenko",25,Latvia,2004,Gymnastics,0,1,0,1
+"Razvan Selariu",20,Romania,2004,Gymnastics,0,0,1,1
+"Kyle Shewfelt",22,Canada,2004,Gymnastics,1,0,0,1
+"Silvia Stroescu",19,Romania,2004,Gymnastics,1,0,0,1
+"Ioan Suciu",26,Romania,2004,Gymnastics,0,0,1,1
+"Dimosthenis Tambakos",27,Greece,2004,Gymnastics,1,0,0,1
+"Teng Haibin",19,China,2004,Gymnastics,1,0,0,1
+"Naoya Tsukahara",27,Japan,2004,Gymnastics,1,0,0,1
+"Blaine Wilson",30,"United States",2004,Gymnastics,0,1,0,1
+"Yang Tae-Yeong",24,"South Korea",2004,Gymnastics,0,0,1,1
+"Lyudmila Yezhova-Grebenkova",22,Russia,2004,Gymnastics,0,0,1,1
+"Guard Young",27,"United States",2004,Gymnastics,0,1,0,1
+"Yelena Zamolodchikova",21,Russia,2004,Gymnastics,0,0,1,1
+"Zhang Nan",18,China,2004,Gymnastics,0,0,1,1
+"Nataliya Ziganshina",18,Russia,2004,Gymnastics,0,0,1,1
+Aline,22,Brazil,2004,Football,0,1,0,1
+Andréia,26,Brazil,2004,Football,0,1,0,1
+"Roberto Ayala",31,Argentina,2004,Football,1,0,0,1
+"Isabell Bachor",21,Germany,2004,Football,0,0,1,1
+"Fredy Bareiro",22,Paraguay,2004,Football,0,1,0,1
+"Diego Barreto",23,Paraguay,2004,Football,0,1,0,1
+"Édgar Barreto",20,Paraguay,2004,Football,0,1,0,1
+"Andrea Barzagli",23,Italy,2004,Football,0,0,1,1
+"Pedro Benítez",23,Paraguay,2004,Football,0,1,0,1
+"Daniele Bonera",23,Italy,2004,Football,0,0,1,1
+"Cesare Bovo",21,Italy,2004,Football,0,0,1,1
+"Shannon Boxx",27,"United States",2004,Football,1,0,0,1
+"Nicolás Burdisso",23,Argentina,2004,Football,1,0,0,1
+"José Cardozo",33,Paraguay,2004,Football,0,1,0,1
+"Brandi Chastain",36,"United States",2004,Football,1,0,0,1
+"Giorgio Chiellini",19,Italy,2004,Football,0,0,1,1
+"Fabricio Coloccini",22,Argentina,2004,Football,1,0,0,1
+"Ernesto Cristaldo",20,Paraguay,2004,Football,0,1,0,1
+Cristiane,19,Brazil,2004,Football,0,1,0,1
+"Andrés D'Alessandro",23,Argentina,2004,Football,1,0,0,1
+Daniela,20,Brazil,2004,Football,0,1,0,1
+"Daniele De Rossi",21,Italy,2004,Football,0,0,1,1
+"Simone Del Nero",23,Italy,2004,Football,0,0,1,1
+"César Delgado",22,Argentina,2004,Football,1,0,0,1
+"José Devaca",21,Paraguay,2004,Football,0,1,0,1
+"Osvaldo Díaz",22,Paraguay,2004,Football,0,1,0,1
+"Marco Donadel",21,Italy,2004,Football,0,0,1,1
+Elaine,21,Brazil,2004,Football,0,1,0,1
+"Julio César Enciso",30,Paraguay,2004,Football,0,1,0,1
+"Celso Esquivel",23,Paraguay,2004,Football,0,1,0,1
+"Joy Fawcett",36,"United States",2004,Football,1,0,0,1
+"Matteo Ferrari",24,Italy,2004,Football,0,0,1,1
+"Diego Figueredo",22,Paraguay,2004,Football,0,1,0,1
+Formiga,26,Brazil,2004,Football,0,1,0,1
+"Julie Foudy",33,"United States",2004,Football,1,0,0,1
+"Sonja Fuss",25,Germany,2004,Football,0,0,1,1
+"Carlos Gamarra",33,Paraguay,2004,Football,0,1,0,1
+"Kerstin Garefrekes",24,Germany,2004,Football,0,0,1,1
+"Andrea Gasbarroni",23,Italy,2004,Football,0,0,1,1
+"Alberto Gilardino",22,Italy,2004,Football,0,0,1,1
+"Pablo Giménez",23,Paraguay,2004,Football,0,1,0,1
+"Julio González",22,Paraguay,2004,Football,0,1,0,1
+"Kily González",30,Argentina,2004,Football,1,0,0,1
+"Luis González",23,Argentina,2004,Football,1,0,0,1
+"Mariano González",23,Argentina,2004,Football,1,0,0,1
+Grazielle,23,Brazil,2004,Football,0,1,0,1
+"Sarah Günther",21,Germany,2004,Football,0,0,1,1
+"Mia Hamm",32,"United States",2004,Football,1,0,0,1
+"Gabriel Heinze",26,Argentina,2004,Football,1,0,0,1
+"Ariane Hingst",25,Germany,2004,Football,0,0,1,1
+"Angela Hucles",26,"United States",2004,Football,1,0,0,1
+"Steffi Jones",31,Germany,2004,Football,0,0,1,1
+Juliana,22,Brazil,2004,Football,0,1,0,1
+"Kelly Cristina",19,Brazil,2004,Football,0,1,0,1
+Kóki,18,Brazil,2004,Football,0,1,0,1
+"Kristine Lilly",33,"United States",2004,Football,1,0,0,1
+"Renate Lingor",28,Germany,2004,Football,0,0,1,1
+"Germán Lux",22,Argentina,2004,Football,1,0,0,1
+"Julio Manzur",23,Paraguay,2004,Football,0,1,0,1
+Marta,18,Brazil,2004,Football,0,1,0,1
+"Emilio Martínez",23,Paraguay,2004,Football,0,1,0,1
+"Javier Mascherano",20,Argentina,2004,Football,1,0,0,1
+Maycon,27,Brazil,2004,Football,0,1,0,1
+"Nicolás Medina",22,Argentina,2004,Football,1,0,0,1
+"Giandomenico Mesto",22,Italy,2004,Football,0,0,1,1
+"Sandra Minnert",31,Germany,2004,Football,0,0,1,1
+"Heather Mitts",26,"United States",2004,Football,1,0,0,1
+Mônica,26,Brazil,2004,Football,0,1,0,1
+"Emiliano Moretti",23,Italy,2004,Football,0,0,1,1
+"Martina Müller",24,Germany,2004,Football,0,0,1,1
+"Heather O'Reilly",19,"United States",2004,Football,1,0,0,1
+"Viola Odebrecht",21,Germany,2004,Football,0,0,1,1
+"Navina Omilade",22,Germany,2004,Football,0,0,1,1
+"Angelo Palombo",22,Italy,2004,Football,0,0,1,1
+"Cindy Parlow",26,"United States",2004,Football,1,0,0,1
+"Christie Pearce-Rampone",29,"United States",2004,Football,1,0,0,1
+"Ivan Pelizzoli",23,Italy,2004,Football,0,0,1,1
+"Giampiero Pinzi",23,Italy,2004,Football,0,0,1,1
+"Andrea Pirlo",25,Italy,2004,Football,0,0,1,1
+"Conny Pohlers",25,Germany,2004,Football,0,0,1,1
+Pretinha,29,Brazil,2004,Football,0,1,0,1
+"Birgit Prinz",26,Germany,2004,Football,0,0,1,1
+"Cat Reddick",22,"United States",2004,Football,1,0,0,1
+"Clemente Rodríguez",23,Argentina,2004,Football,1,0,0,1
+"Mauro Rosales",23,Argentina,2004,Football,1,0,0,1
+Rosana,22,Brazil,2004,Football,0,1,0,1
+Roseli,34,Brazil,2004,Football,0,1,0,1
+"Silke Rottenberg",32,Germany,2004,Football,0,0,1,1
+"Javier Saviola",22,Argentina,2004,Football,1,0,0,1
+"Giuseppe Sculli",23,Italy,2004,Football,0,0,1,1
+"Briana Scurry",32,"United States",2004,Football,1,0,0,1
+"Kate Sobrero-Markgraf",27,"United States",2004,Football,1,0,0,1
+"Kerstin Stegemann",26,Germany,2004,Football,0,0,1,1
+"Tânia Maranhão",29,Brazil,2004,Football,0,1,0,1
+"Lindsay Tarpley",20,"United States",2004,Football,1,0,0,1
+"Carlos Tévez",20,Argentina,2004,Football,1,0,0,1
+"Aureliano Torres",22,Paraguay,2004,Football,0,1,0,1
+"Aly Wagner",24,"United States",2004,Football,1,0,0,1
+"Abby Wambach",24,"United States",2004,Football,1,0,0,1
+"Petra Wimbersky",21,Germany,2004,Football,0,0,1,1
+"Pia Wunderlich",29,Germany,2004,Football,0,0,1,1
+"Karina Aznavuryan",29,Russia,2004,Fencing,1,0,0,1
+"Gábor Boczkó",27,Hungary,2004,Fencing,0,1,0,1
+"Éric Boisse",24,France,2004,Fencing,1,0,0,1
+"Claudia Bokel",30,Germany,2004,Fencing,0,1,0,1
+"Sarah Daninthe",24,France,2004,Fencing,0,0,1,1
+"Dong Zhaozhi",30,China,2004,Fencing,0,1,0,1
+"Imke Duplitzer",29,Germany,2004,Fencing,0,1,0,1
+"Aleksey Dyachenko",25,Russia,2004,Fencing,0,0,1,1
+"Jörg Fiedler",26,Germany,2004,Fencing,0,0,1,1
+"Marcel Fischer",26,Switzerland,2004,Fencing,1,0,0,1
+"Renal Ganeyev",19,Russia,2004,Fencing,0,0,1,1
+"Sylwia Gruchala",22,Poland,2004,Fencing,0,0,1,1
+"Brice Guyart",23,France,2004,Fencing,1,0,0,1
+"Britta Heidemann",21,Germany,2004,Fencing,0,1,0,1
+"Géza Imre",29,Hungary,2004,Fencing,0,1,0,1
+"Sada Jacobson",21,"United States",2004,Fencing,0,0,1,1
+"Fabrice Jeannet",23,France,2004,Fencing,1,0,0,1
+"Jérôme Jeannet",27,France,2004,Fencing,1,0,0,1
+"Hajnalka Kiraly-Picot",33,France,2004,Fencing,0,0,1,1
+"Pavel Kolobkov",34,Russia,2004,Fencing,0,0,1,1
+"Iván Kovács",34,Hungary,2004,Fencing,0,1,0,1
+"Krisztián Kulcsár",33,Hungary,2004,Fencing,0,1,0,1
+"Tatyana Logunova",24,Russia,2004,Fencing,1,0,0,1
+"Yury Molchan",21,Russia,2004,Fencing,0,0,1,1
+"Tímea Nagy",33,Hungary,2004,Fencing,1,0,0,1
+"Ruslan Nasibulin",23,Russia,2004,Fencing,0,0,1,1
+"Zsolt Nemcsik",26,Hungary,2004,Fencing,0,1,0,1
+"Hugues Obry",31,France,2004,Fencing,1,0,0,1
+"Gianpiero Pastore",28,Italy,2004,Fencing,0,1,0,1
+"Julien Pillet",26,France,2004,Fencing,1,0,0,1
+"Stanislav Pozdnyakov",30,Russia,2004,Fencing,0,0,1,1
+"Vyacheslav Pozdnyakov",26,Russia,2004,Fencing,0,0,1,1
+"Sven Schmid",26,Germany,2004,Fencing,0,0,1,1
+"Sergey Sharikov",30,Russia,2004,Fencing,0,0,1,1
+"Anna Sivkova",22,Russia,2004,Fencing,1,0,0,1
+"Daniel Strigel",29,Germany,2004,Fencing,0,0,1,1
+"Tan Xue",20,China,2004,Fencing,0,1,0,1
+"Luigi Tarantino",31,Italy,2004,Fencing,0,1,0,1
+"Damien Touya",29,France,2004,Fencing,1,0,0,1
+"Gaël Touya",30,France,2004,Fencing,1,0,0,1
+"Vladyslav Tretiak",24,Ukraine,2004,Fencing,0,0,1,1
+"Giovanna Trillini",34,Italy,2004,Fencing,0,1,0,1
+"Simone Vanni",25,Italy,2004,Fencing,1,0,0,1
+"Valentina Vezzali",30,Italy,2004,Fencing,1,0,0,1
+"Wang Haibin",30,China,2004,Fencing,0,1,0,1
+"Wang Lei",23,China,2004,Fencing,0,1,0,1
+"Wu Hanxiong",23,China,2004,Fencing,0,1,0,1
+"Aleksey Yakimenko",20,Russia,2004,Fencing,0,0,1,1
+"Ye Chong",34,China,2004,Fencing,0,1,0,1
+"Oksana Yermakova",31,Russia,2004,Fencing,1,0,0,1
+"Mariel Zagunis",19,"United States",2004,Fencing,1,0,0,1
+"Christian Ahlmann",29,Germany,2004,Equestrian,0,0,1,1
+"Malin Baryard-Johnsson",29,Sweden,2004,Equestrian,0,1,0,1
+"Otto Becker",45,Germany,2004,Equestrian,0,0,1,1
+"Rolf-Göran Bengtsson",42,Sweden,2004,Equestrian,0,1,0,1
+"Julie Black-Burns Richards",33,"United States",2004,Equestrian,0,0,1,1
+"Arnaud Boiteau",30,France,2004,Equestrian,1,0,0,1
+"Jeanette Brakewell",30,"Great Britain",2004,Equestrian,0,1,0,1
+"Darren Chiacchia",39,"United States",2004,Equestrian,0,0,1,1
+"Didier Courrèges",44,France,2004,Equestrian,1,0,0,1
+"Robert Dover",48,"United States",2004,Equestrian,0,0,1,1
+"Peter Eriksson",44,Sweden,2004,Equestrian,0,1,0,1
+"William Fox-Pitt",35,"Great Britain",2004,Equestrian,0,1,0,1
+"Peder Fredricson",32,Sweden,2004,Equestrian,0,1,0,1
+"Juan Antonio Jiménez",45,Spain,2004,Equestrian,0,1,0,1
+"Heike Kemmer",42,Germany,2004,Equestrian,1,0,0,1
+"Cédric Lyard",32,France,2004,Equestrian,1,0,0,1
+"Beezie Madden",40,"United States",2004,Equestrian,1,0,0,1
+"Debbie McDonald",49,"United States",2004,Equestrian,0,0,1,1
+"Rodrigo Pessoa",31,Brazil,2004,Equestrian,1,0,0,1
+"Ignacio Rambla",40,Spain,2004,Equestrian,0,1,0,1
+"Martin Schaudt",45,Germany,2004,Equestrian,1,0,0,1
+"Hubertus Schmidt",44,Germany,2004,Equestrian,1,0,0,1
+"Guenter Seidel",43,"United States",2004,Equestrian,0,0,1,1
+"Rafael Soto",46,Spain,2004,Equestrian,0,1,0,1
+"Jean Teulère",50,France,2004,Equestrian,1,0,0,1
+"Mary Thomson-King",43,"Great Britain",2004,Equestrian,0,1,0,1
+"Nicolas Touzaint",24,France,2004,Equestrian,1,0,0,1
+"Amy Tryon",34,"United States",2004,Equestrian,0,0,1,1
+"Anky van Grunsven",36,Netherlands,2004,Equestrian,1,0,0,1
+"McLain Ward",28,"United States",2004,Equestrian,1,0,0,1
+"Lisa Wilcox",37,"United States",2004,Equestrian,0,0,1,1
+"John Williams",39,"United States",2004,Equestrian,0,0,1,1
+"Peter Wylde",39,"United States",2004,Equestrian,1,0,0,1
+"Steven Barnett",25,Australia,2004,Diving,0,0,1,1
+"Thomas Bimis",29,Greece,2004,Diving,1,0,0,1
+"Alexandre Despatie",19,Canada,2004,Diving,0,1,0,1
+"Nataliya Goncharova",16,Russia,2004,Diving,0,1,0,1
+"Blythe Hartley",22,Canada,2004,Diving,0,0,1,1
+"Emilie Heymans",22,Canada,2004,Diving,0,0,1,1
+"Hu Jia",21,China,2004,Diving,1,0,0,1
+"Vera Ilyina",30,Russia,2004,Diving,0,1,0,1
+"Yuliya Koltunova",15,Russia,2004,Diving,0,1,0,1
+"Irina Lashko",31,Australia,2004,Diving,0,0,1,1
+"Li Ting",17,China,2004,Diving,1,0,0,1
+"Peng Bo",23,China,2004,Diving,1,0,0,1
+"Dmitry Sautin",30,Russia,2004,Diving,0,0,1,1
+"Tobias Schellenberg",25,Germany,2004,Diving,0,1,0,1
+"Nikolaos Siranidis",28,Greece,2004,Diving,1,0,0,1
+"Leon Taylor",26,"Great Britain",2004,Diving,0,1,0,1
+"Loudy Tourky-Wiggins",25,Australia,2004,Diving,0,0,1,1
+"Peter Waterfield",23,"Great Britain",2004,Diving,0,1,0,1
+"Andreas Wels",29,Germany,2004,Diving,0,1,0,1
+"Yang Jinghui",21,China,2004,Diving,1,0,0,1
+"Tamila Abasova",21,Russia,2004,Cycling,0,1,0,1
+"Julien Absalon",24,France,2004,Cycling,1,0,0,1
+"Judith Arndt",28,Germany,2004,Cycling,0,1,0,1
+"Paolo Bettini",30,Italy,2004,Cycling,1,0,0,1
+"Theo Bos",21,Netherlands,2004,Cycling,0,1,0,1
+"Mickaël Bourgain",24,France,2004,Cycling,0,0,1,1
+"Bart Brentjens",35,Netherlands,2004,Cycling,0,0,1,1
+"María Luisa Calle",35,Colombia,2004,Cycling,0,0,1,1
+"Sara Carrigan",23,Australia,2004,Cycling,1,0,0,1
+"Carlos Castaño",25,Spain,2004,Cycling,0,0,1,1
+"Steve Cummings",23,"Great Britain",2004,Cycling,0,1,0,1
+"Gunn Rita Dahle-Flesjå",31,Norway,2004,Cycling,1,0,0,1
+"Peter Dawson",22,Australia,2004,Cycling,1,0,0,1
+"Dede Demet-Barry",31,"United States",2004,Cycling,0,1,0,1
+"José Antonio Escuredo",34,Spain,2004,Cycling,0,1,0,1
+"Jens Fiedler",34,Germany,2004,Cycling,1,0,0,1
+"Guido Fulst",34,Germany,2004,Cycling,0,0,1,1
+"Toshiaki Fushimi",28,Japan,2004,Cycling,0,1,0,1
+"Laurent Gané",31,France,2004,Cycling,0,0,1,1
+"Belem Guerrero",30,Mexico,2004,Cycling,0,1,0,1
+"Tyler Hamilton",33,"United States",2004,Cycling,1,0,0,1
+"José Antonio Hermida",26,Spain,2004,Cycling,0,1,0,1
+"Chris Hoy",28,"Great Britain",2004,Cycling,1,0,0,1
+"Mikhail Ignatyev",19,Russia,2004,Cycling,1,0,0,1
+"Masaki Inoue",25,Japan,2004,Cycling,0,1,0,1
+"Jiang Yonghua",30,China,2004,Cycling,0,1,0,1
+"Bobby Julich",32,"United States",2004,Cycling,0,0,1,1
+"Shane Kelly",32,Australia,2004,Cycling,0,0,1,1
+"Brett Lancaster",24,Australia,2004,Cycling,1,0,0,1
+"Joan Llaneras",35,Spain,2004,Cycling,0,1,0,1
+"Katie Mactier",29,Australia,2004,Cycling,0,1,0,1
+"Asier Maeztu",26,Spain,2004,Cycling,0,0,1,1
+"Paul Manning",29,"Great Britain",2004,Cycling,0,1,0,1
+"Franco Marvulli",25,Switzerland,2004,Cycling,0,1,0,1
+"Axel Merckx",32,Belgium,2004,Cycling,0,0,1,1
+"Lori-Ann Muenzer",38,Canada,2004,Cycling,1,0,0,1
+"Tomohiro Nagatsuka",25,Japan,2004,Cycling,0,1,0,1
+"Chris Newton",30,"Great Britain",2004,Cycling,0,1,0,1
+"Stuart O'Grady",31,Australia,2004,Cycling,1,0,0,1
+"Sérgio Paulinho",24,Portugal,2004,Cycling,0,1,0,1
+"Marie-Hélène Prémont",26,Canada,2004,Cycling,0,1,0,1
+"Bruno Risi",35,Switzerland,2004,Cycling,0,1,0,1
+"Luke Roberts",27,Australia,2004,Cycling,1,0,0,1
+"Sabine Spitz",32,Germany,2004,Cycling,0,0,1,1
+"Bryan Steel",35,"Great Britain",2004,Cycling,0,1,0,1
+"Karin Thürig",32,Switzerland,2004,Cycling,0,0,1,1
+"Carlos Torrent",29,Spain,2004,Cycling,0,0,1,1
+"Nataliya Tsilinskaya",28,Belarus,2004,Cycling,0,0,1,1
+"Sarah Ulmer",28,"New Zealand",2004,Cycling,1,0,0,1
+"Stephen Wooldridge",26,Australia,2004,Cycling,1,0,0,1
+"Vyacheslav Yekimov",38,Russia,2004,Cycling,0,1,0,1
+"Juraj Baca",27,Slovakia,2004,Canoeing,0,0,1,1
+"Björn Bach",28,Germany,2004,Canoeing,0,1,0,1
+"Hanna Balabanova",34,Ukraine,2004,Canoeing,0,0,1,1
+"Ledys Balceiro",29,Cuba,2004,Canoeing,0,1,0,1
+"Marcus Becker",22,Germany,2004,Canoeing,0,1,0,1
+"Beniamino Bonomi",36,Italy,2004,Canoeing,0,1,0,1
+"Kinga Bóta",27,Hungary,2004,Canoeing,0,1,0,1
+"Caroline Brunet",35,Canada,2004,Canoeing,0,0,1,1
+"Olena Cherevatova",34,Ukraine,2004,Canoeing,0,0,1,1
+"Tony Estanguet",26,France,2004,Canoeing,1,0,0,1
+"Nils Olav Fjeldheim",27,Norway,2004,Canoeing,0,0,1,1
+"Ben Fouhy",25,"New Zealand",2004,Canoeing,0,1,0,1
+"Rebecca Giddens",26,"United States",2004,Canoeing,0,1,0,1
+"Christian Gille",28,Germany,2004,Canoeing,1,0,0,1
+"Stefan Henze",23,Germany,2004,Canoeing,0,1,0,1
+"Pavol Hochschorner",24,Slovakia,2004,Canoeing,1,0,0,1
+"Peter Hochschorner",24,Slovakia,2004,Canoeing,1,0,0,1
+"Gábor Horváth",32,Hungary,2004,Canoeing,1,0,0,1
+"Josefa Idem-Guerrini",39,Italy,2004,Canoeing,0,1,0,1
+"Andreas Ihle",25,Germany,2004,Canoeing,0,1,0,1
+"Elena Kaliská",32,Slovakia,2004,Canoeing,1,0,0,1
+"Zoltán Kammerer",26,Hungary,2004,Canoeing,1,0,0,1
+"György Kolonics",32,Hungary,2004,Canoeing,0,0,1,1
+"György Kozmann",26,Hungary,2004,Canoeing,0,0,1,1
+"Fabien Lefèvre",22,France,2004,Canoeing,0,0,1,1
+"Vadim Makhnyov",24,Belarus,2004,Canoeing,0,0,1,1
+"Michal Martikán",25,Slovakia,2004,Canoeing,0,1,0,1
+"Meng Guanliang",27,China,2004,Canoeing,1,0,0,1
+"Henrik Nilsson",28,Sweden,2004,Canoeing,1,0,0,1
+"Maike Nollen",26,Germany,2004,Canoeing,1,0,0,1
+"Maksim Opalev",25,Russia,2004,Canoeing,0,0,1,1
+"Markus Oscarsson",27,Sweden,2004,Canoeing,1,0,0,1
+"Inna Osypenko-Radomska",21,Ukraine,2004,Canoeing,0,0,1,1
+"Aneta Pastuszka-Konieczna",26,Poland,2004,Canoeing,0,0,1,1
+"Benoît Peschier",24,France,2004,Canoeing,1,0,0,1
+"Roman Petrushenko",23,Belarus,2004,Canoeing,0,0,1,1
+"Stefan Pfannmöller",23,Germany,2004,Canoeing,0,0,1,1
+"Ronald Rauhe",22,Germany,2004,Canoeing,1,0,0,1
+"Helen Reeves",23,"Great Britain",2004,Canoeing,0,0,1,1
+"Michal Riszdorfer",27,Slovakia,2004,Canoeing,0,0,1,1
+"Richard Riszdorfer",23,Slovakia,2004,Canoeing,0,0,1,1
+"Clint Robinson",32,Australia,2004,Canoeing,0,1,0,1
+"Ibrahim Rojas",28,Cuba,2004,Canoeing,0,1,0,1
+"Antonio Rossi",35,Italy,2004,Canoeing,0,1,0,1
+"Beata Sokolowska-Kulesza",30,Poland,2004,Canoeing,0,0,1,1
+"Ondrej Štepánek",24,"Czech Republic",2004,Canoeing,0,0,1,1
+"Botond Storcz",29,Hungary,2004,Canoeing,1,0,0,1
+"Szilvia Szabó",25,Hungary,2004,Canoeing,0,1,0,1
+"Tetiana Teklian-Semykina",30,Ukraine,2004,Canoeing,0,0,1,1
+"Stefan Ulm",28,Germany,2004,Canoeing,0,1,0,1
+"Attila Vajda",21,Hungary,2004,Canoeing,0,0,1,1
+"Ákos Vereckei",26,Hungary,2004,Canoeing,1,0,0,1
+"Erzsébet Viski",24,Hungary,2004,Canoeing,0,1,0,1
+"Erik Vlcek",22,Slovakia,2004,Canoeing,0,0,1,1
+"Jaroslav Volf",24,"Czech Republic",2004,Canoeing,0,0,1,1
+"Katrin Wagner-Augustin",26,Germany,2004,Canoeing,1,0,0,1
+"Campbell Walsh",26,"Great Britain",2004,Canoeing,0,1,0,1
+"Tim Wieskötter",25,Germany,2004,Canoeing,1,0,0,1
+"Tomasz Wylenzek",21,Germany,2004,Canoeing,1,0,0,1
+"Ian Wynne",30,"Great Britain",2004,Canoeing,0,0,1,1
+"Yang Wenjun",20,China,2004,Canoeing,1,0,0,1
+"Mark Zabel",31,Germany,2004,Canoeing,0,1,0,1
+"Ryoji Aikawa",28,Japan,2004,Baseball,0,0,1,1
+"Craig Anderson",23,Australia,2004,Baseball,0,1,0,1
+"Yuya Ando",26,Japan,2004,Baseball,0,0,1,1
+"Danny Betancourt",23,Cuba,2004,Baseball,1,0,0,1
+"Luis Borroto",21,Cuba,2004,Baseball,1,0,0,1
+"Tom Brice",22,Australia,2004,Baseball,0,1,0,1
+"Adrian Burnside",27,Australia,2004,Baseball,0,1,0,1
+"Frederich Cepeda",24,Cuba,2004,Baseball,1,0,0,1
+"Yorelvis Charles",25,Cuba,2004,Baseball,1,0,0,1
+"Michel Enríquez",25,Cuba,2004,Baseball,1,0,0,1
+"Gavin Fingleson",28,Australia,2004,Baseball,0,1,0,1
+"Atsushi Fujimoto",26,Japan,2004,Baseball,0,0,1,1
+"Kosuke Fukudome",27,Japan,2004,Baseball,0,0,1,1
+"Norberto González",24,Cuba,2004,Baseball,1,0,0,1
+"Paul Gonzalez",35,Australia,2004,Baseball,0,1,0,1
+"Yulieski Gourriel",20,Cuba,2004,Baseball,1,0,0,1
+"Hirotoshi Ishii",26,Japan,2004,Baseball,0,0,1,1
+"Hisashi Iwakuma",23,Japan,2004,Baseball,0,0,1,1
+"Hitoki Iwase",29,Japan,2004,Baseball,0,0,1,1
+"Kenji Johjima",28,Japan,2004,Baseball,0,0,1,1
+"Makoto Kaneko",28,Japan,2004,Baseball,0,0,1,1
+"Nick Kimpton",20,Australia,2004,Baseball,0,1,0,1
+"Takuya Kimura",32,Japan,2004,Baseball,0,0,1,1
+"Brendan Kingman",31,Australia,2004,Baseball,0,1,0,1
+"Masahide Kobayashi",30,Japan,2004,Baseball,0,0,1,1
+"Hiroki Kuroda",29,Japan,2004,Baseball,0,0,1,1
+"Pedro Luis Lazo",31,Cuba,2004,Baseball,1,0,0,1
+"Craig Lewis",27,Australia,2004,Baseball,0,1,0,1
+"Graeme Lloyd",37,Australia,2004,Baseball,0,1,0,1
+"Roger Machado",30,Cuba,2004,Baseball,1,0,0,1
+"Jonder Martínez",26,Cuba,2004,Baseball,1,0,0,1
+"Daisuke Matsuzaka",23,Japan,2004,Baseball,0,0,1,1
+"Danny Miranda",25,Cuba,2004,Baseball,1,0,0,1
+"Daisuke Miura",30,Japan,2004,Baseball,0,0,1,1
+"Shinya Miyamoto",33,Japan,2004,Baseball,0,0,1,1
+"Frank Montieth",19,Cuba,2004,Baseball,1,0,0,1
+"Arihito Muramatsu",31,Japan,2004,Baseball,0,0,1,1
+"Norihiro Nakamura",31,Japan,2004,Baseball,0,0,1,1
+"Dave Nilsson",34,Australia,2004,Baseball,0,1,0,1
+"Vicyohandri Odelín",24,Cuba,2004,Baseball,1,0,0,1
+"Trent Oeltjen",21,Australia,2004,Baseball,0,1,0,1
+"Michihiro Ogasawara",30,Japan,2004,Baseball,0,0,1,1
+"Wayne Ough",25,Australia,2004,Baseball,0,1,0,1
+"Chris Oxspring",27,Australia,2004,Baseball,0,1,0,1
+"Adiel Palma",33,Cuba,2004,Baseball,1,0,0,1
+"Eduardo Paret",31,Cuba,2004,Baseball,1,0,0,1
+"Ariel Pestano",30,Cuba,2004,Baseball,1,0,0,1
+"Alexei Ramírez",22,Cuba,2004,Baseball,1,0,0,1
+"Brett Roneberg",25,Australia,2004,Baseball,0,1,0,1
+"Ryan Rowland Smith",21,Australia,2004,Baseball,0,1,0,1
+"Eriel Sánchez",29,Cuba,2004,Baseball,1,0,0,1
+"Antonio Scull",38,Cuba,2004,Baseball,1,0,0,1
+"Naoyuki Shimizu",28,Japan,2004,Baseball,0,0,1,1
+"John Stephens",24,Australia,2004,Baseball,0,1,0,1
+"Phil Stockman",24,Australia,2004,Baseball,0,1,0,1
+"Carlos Tabares",30,Cuba,2004,Baseball,1,0,0,1
+"Yoshinobu Takahashi",29,Japan,2004,Baseball,0,0,1,1
+"Brett Tamburrino",22,Australia,2004,Baseball,0,1,0,1
+"Yoshitomo Tani",31,Japan,2004,Baseball,0,0,1,1
+"Richard Thompson",20,Australia,2004,Baseball,0,1,0,1
+"Koji Uehara",29,Japan,2004,Baseball,0,0,1,1
+"Yoandri Urgellés",23,Cuba,2004,Baseball,1,0,0,1
+"Osmani Urrutia",28,Cuba,2004,Baseball,1,0,0,1
+"Andrew Utting",26,Australia,2004,Baseball,0,1,0,1
+"Rodney Van Buizen",23,Australia,2004,Baseball,0,1,0,1
+"Manuel Vega",29,Cuba,2004,Baseball,1,0,0,1
+"Norge Luis Vera",33,Cuba,2004,Baseball,1,0,0,1
+"Kazuhiro Wada",32,Japan,2004,Baseball,0,0,1,1
+"Tsuyoshi Wada",23,Japan,2004,Baseball,0,0,1,1
+"Ben Wigmore",22,Australia,2004,Baseball,0,1,0,1
+"Glenn Williams",27,Australia,2004,Baseball,0,1,0,1
+"Jeff Williams",32,Australia,2004,Baseball,0,1,0,1
+"Mohamed Aly",29,Egypt,2004,Boxing,0,1,0,1
+"Lorenzo Aragon",30,Cuba,2004,Boxing,0,1,0,1
+"Magomed Aripgadzhiyev",26,Belarus,2004,Boxing,0,1,0,1
+"Bakhtiyar Artayev",21,Kazakhstan,2004,Boxing,1,0,0,1
+"Fuad Aslanov",21,Azerbaijan,2004,Boxing,0,0,1,1
+"Yan Barthelemí",24,Cuba,2004,Boxing,1,0,0,1
+"Manus Boonjumnong",24,Thailand,2004,Boxing,1,0,0,1
+"Roberto Cammarelle",24,Italy,2004,Boxing,0,0,1,1
+"Andre Dirrell",21,"United States",2004,Boxing,0,0,1,1
+"Mohamed El-Sayed",31,Egypt,2004,Boxing,0,0,1,1
+"Naser El-Shami",22,Syria,2004,Boxing,0,0,1,1
+"Yuriorkis Gamboa",22,Cuba,2004,Boxing,1,0,0,1
+"Gaydarbek Gaydarbekov",27,Russia,2004,Boxing,1,0,0,1
+"Boris Georgiev",21,Bulgaria,2004,Boxing,0,0,1,1
+"Ionut Gheorghe",20,Romania,2004,Boxing,0,0,1,1
+"Gennady Golovkin",22,Kazakhstan,2004,Boxing,0,1,0,1
+"Ahmed Ismail",28,Egypt,2004,Boxing,0,0,1,1
+"Jo Seok-Hwan",24,"South Korea",2004,Boxing,0,0,1,1
+"Yudel Johnson",23,Cuba,2004,Boxing,0,1,0,1
+"Sergey Kazakov",28,Russia,2004,Boxing,0,0,1,1
+"Amir Khan",17,"Great Britain",2004,Boxing,0,1,0,1
+"Utkirbek Khaydarov",30,Uzbekistan,2004,Boxing,0,0,1,1
+"Murat Khrachov",21,Russia,2004,Boxing,0,0,1,1
+"Kim Jeong-Ju",22,"South Korea",2004,Boxing,0,0,1,1
+"Kim Song-Guk",20,"North Korea",2004,Boxing,0,1,0,1
+"Mario Kindelán",33,Cuba,2004,Boxing,1,0,0,1
+"Michel López",27,Cuba,2004,Boxing,0,0,1,1
+"Agasi M?mm?dov",24,Azerbaijan,2004,Boxing,0,0,1,1
+"Worapoj Petchkoom",23,Thailand,2004,Boxing,0,1,0,1
+"Aleksandr Povetkin",24,Russia,2004,Boxing,1,0,0,1
+"Suriya Prasathinphimai",24,Thailand,2004,Boxing,0,0,1,1
+"Rustam Rahimov",29,Germany,2004,Boxing,0,0,1,1
+"Guillermo Rigondeaux",23,Cuba,2004,Boxing,1,0,0,1
+"Oleg Saitov",30,Russia,2004,Boxing,0,0,1,1
+"Odlanier Solís",24,Cuba,2004,Boxing,1,0,0,1
+"Bakhodirdzhon Sultanov",19,Uzbekistan,2004,Boxing,0,0,1,1
+"Vitali Tajbert",22,Germany,2004,Boxing,0,0,1,1
+"Jérôme Thomas",25,France,2004,Boxing,0,1,0,1
+"Aleksey Tishchenko",20,Russia,2004,Boxing,1,0,0,1
+"André Ward",20,"United States",2004,Boxing,1,0,0,1
+"Atagün Yalçinkaya",17,Turkey,2004,Boxing,0,1,0,1
+"Serik Yeleuov",23,Kazakhstan,2004,Boxing,0,0,1,1
+"Zou Shiming",23,China,2004,Boxing,0,0,1,1
+"Viktor Zuyev",21,Belarus,2004,Boxing,0,1,0,1
+"Adriana Behar",35,Brazil,2004,"Beach Volleyball",0,1,0,1
+"Javier Bosma",34,Spain,2004,"Beach Volleyball",0,1,0,1
+Emanuel,31,Brazil,2004,"Beach Volleyball",1,0,0,1
+"Pablo Herrera",22,Spain,2004,"Beach Volleyball",0,1,0,1
+"Patrick Heuscher",27,Switzerland,2004,"Beach Volleyball",0,0,1,1
+"Stefan Kobel",30,Switzerland,2004,"Beach Volleyball",0,0,1,1
+"Misty May-Treanor",27,"United States",2004,"Beach Volleyball",1,0,0,1
+"Holly McPeak",35,"United States",2004,"Beach Volleyball",0,0,1,1
+Ricardo,29,Brazil,2004,"Beach Volleyball",1,0,0,1
+Shelda,31,Brazil,2004,"Beach Volleyball",0,1,0,1
+"Kerri Walsh",25,"United States",2004,"Beach Volleyball",1,0,0,1
+"Elaine Youngs",34,"United States",2004,"Beach Volleyball",0,0,1,1
+"Carmelo Anthony",20,"United States",2004,Basketball,0,0,1,1
+"Anna Arkhipova",31,Russia,2004,Basketball,0,0,1,1
+"Olga Arteshina",21,Russia,2004,Basketball,0,0,1,1
+"Yelena Baranova",32,Russia,2004,Basketball,0,0,1,1
+"Gianluca Basile",29,Italy,2004,Basketball,0,1,0,1
+"Suzy Batkovic",23,Australia,2004,Basketball,0,1,0,1
+"Sue Bird",23,"United States",2004,Basketball,1,0,0,1
+"Carlos Boozer",22,"United States",2004,Basketball,0,0,1,1
+"Sandy Brondello",35,Australia,2004,Basketball,0,1,0,1
+"Massimo Bulleri",26,Italy,2004,Basketball,0,1,0,1
+"Swin Cash",24,"United States",2004,Basketball,1,0,0,1
+"Tamika Catchings",25,"United States",2004,Basketball,1,0,0,1
+"Roberto Chiacig",29,Italy,2004,Basketball,0,1,0,1
+"Allison Cook-Tranquilli",32,Australia,2004,Basketball,0,1,0,1
+"Carlos Delfino",21,Argentina,2004,Basketball,1,0,0,1
+"Tim Duncan",28,"United States",2004,Basketball,0,0,1,1
+"Trish Fallon",32,Australia,2004,Basketball,0,1,0,1
+"Gabriel Fernández",27,Argentina,2004,Basketball,1,0,0,1
+"Jack Galanda",29,Italy,2004,Basketball,0,1,0,1
+"Luca Garri",22,Italy,2004,Basketball,0,1,0,1
+"Manu Ginóbili",27,Argentina,2004,Basketball,1,0,0,1
+"Yolanda Griffith",34,"United States",2004,Basketball,1,0,0,1
+"Diana Gustilina",30,Russia,2004,Basketball,0,0,1,1
+"Leonardo Gutiérrez",26,Argentina,2004,Basketball,1,0,0,1
+"Kristi Harrower",29,Australia,2004,Basketball,0,1,0,1
+"Walter Herrmann",25,Argentina,2004,Basketball,1,0,0,1
+"Allen Iverson",29,"United States",2004,Basketball,0,0,1,1
+"Lauren Jackson",23,Australia,2004,Basketball,0,1,0,1
+"LeBron James",19,"United States",2004,Basketball,0,0,1,1
+"Richard Jefferson",24,"United States",2004,Basketball,0,0,1,1
+"Shannon Johnson",29,"United States",2004,Basketball,1,0,0,1
+"Mariya Kalmykova",30,Russia,2004,Basketball,0,0,1,1
+"Yelena Karpova",24,Russia,2004,Basketball,0,0,1,1
+"Ilona Korstin",24,Russia,2004,Basketball,0,0,1,1
+"Lisa Leslie",32,"United States",2004,Basketball,1,0,0,1
+"Stephon Marbury",27,"United States",2004,Basketball,0,0,1,1
+"Denis Marconato",29,Italy,2004,Basketball,0,1,0,1
+"Shawn Marion",26,"United States",2004,Basketball,0,0,1,1
+"Michele Mian",31,Italy,2004,Basketball,0,1,0,1
+"Alejandro Ariel Montecchia",32,Argentina,2004,Basketball,1,0,0,1
+"Andrés Nocioni",24,Argentina,2004,Basketball,1,0,0,1
+"Fabricio Oberto",31,Argentina,2004,Basketball,1,0,0,1
+"Lamar Odom",24,"United States",2004,Basketball,0,0,1,1
+"Emeka Okafor",21,"United States",2004,Basketball,0,0,1,1
+"Irina Osipova",23,Russia,2004,Basketball,0,0,1,1
+"Natalie Porter",23,Australia,2004,Basketball,0,1,0,1
+"Alicia Poto",26,Australia,2004,Basketball,0,1,0,1
+"Gianmarco Pozzecco",31,Italy,2004,Basketball,0,1,0,1
+"Nikola Radulovic",31,Italy,2004,Basketball,0,1,0,1
+"Oksana Rakhmatulina",27,Russia,2004,Basketball,0,0,1,1
+"Alex Righetti",27,Italy,2004,Basketball,0,1,0,1
+"Ruth Riley",24,"United States",2004,Basketball,1,0,0,1
+"Rodolfo Rombaldoni",27,Italy,2004,Basketball,0,1,0,1
+"Pepe Sánchez",27,Argentina,2004,Basketball,1,0,0,1
+"Luis Scola",24,Argentina,2004,Basketball,1,0,0,1
+"Hugo Ariel Sconochini",33,Argentina,2004,Basketball,1,0,0,1
+"Tatyana Shchyegoleva",22,Russia,2004,Basketball,0,0,1,1
+"Katie Smith",30,"United States",2004,Basketball,1,0,0,1
+"Belinda Snell",23,Australia,2004,Basketball,0,1,0,1
+"Matteo Soragna",28,Italy,2004,Basketball,0,1,0,1
+"Rachael Sporn",36,Australia,2004,Basketball,0,1,0,1
+"Dawn Staley",34,"United States",2004,Basketball,1,0,0,1
+"Mariya Stepanova",25,Russia,2004,Basketball,0,0,1,1
+"Amar'e Stoudemire",24,"United States",2004,Basketball,0,0,1,1
+"Laura Summerton-Hodges",20,Australia,2004,Basketball,0,1,0,1
+"Sheryl Swoopes",33,"United States",2004,Basketball,1,0,0,1
+"Diana Taurasi",22,"United States",2004,Basketball,1,0,0,1
+"Penny Taylor",23,Australia,2004,Basketball,0,1,0,1
+"Tina Thompson",29,"United States",2004,Basketball,1,0,0,1
+"Nataliya Vodopyanova",23,Russia,2004,Basketball,0,0,1,1
+"Dwyane Wade Jr.",22,"United States",2004,Basketball,0,0,1,1
+"Rubén Wolkowyski",30,Argentina,2004,Basketball,1,0,0,1
+"Gail Emms",27,"Great Britain",2004,Badminton,0,1,0,1
+"Hian Eng",27,Indonesia,2004,Badminton,0,0,1,1
+"Jens Eriksen",34,Denmark,2004,Badminton,0,0,1,1
+"Ha Tae-Gwon",29,"South Korea",2004,Badminton,1,0,0,1
+"Taufik Hidayat",23,Indonesia,2004,Badminton,1,0,0,1
+"Huang Sui",22,China,2004,Badminton,0,1,0,1
+"Kim Dong-Mun",28,"South Korea",2004,Badminton,1,0,0,1
+"Sony Dwi Kuncoro",20,Indonesia,2004,Badminton,0,0,1,1
+"Lee Dong-Su",30,"South Korea",2004,Badminton,0,1,0,1
+"Lee Gyeong-Won",24,"South Korea",2004,Badminton,0,0,1,1
+"Flandy Limpele",30,Indonesia,2004,Badminton,0,0,1,1
+"Mia Audina",24,Netherlands,2004,Badminton,0,1,0,1
+"Na Gyeong-Min",27,"South Korea",2004,Badminton,0,0,1,1
+"Nathan Robertson",27,"Great Britain",2004,Badminton,0,1,0,1
+"Mette Schjoldager",27,Denmark,2004,Badminton,0,0,1,1
+"Son Seung-Mo",24,"South Korea",2004,Badminton,0,1,0,1
+"Yang Wei",25,China,2004,Badminton,1,0,0,1
+"Yu Yong-Seong",29,"South Korea",2004,Badminton,0,1,0,1
+"Zhang Jiewen",23,China,2004,Badminton,1,0,0,1
+"Zhang Jun",26,China,2004,Badminton,1,0,0,1
+"Zhang Ning",29,China,2004,Badminton,1,0,0,1
+"Zhou Mi",25,China,2004,Badminton,0,0,1,1
+"Virgilijus Alekna",32,Lithuania,2004,Athletics,1,0,0,1
+"Deji Aliu",28,Nigeria,2004,Athletics,0,0,1,1
+"Esref Apak",22,Turkey,2004,Athletics,0,0,1,1
+"Christine Arron",30,France,2004,Athletics,0,0,1,1
+"Musa Audu",24,Nigeria,2004,Athletics,0,0,1,1
+"Jaroslav Bába",19,"Czech Republic",2004,Athletics,0,0,1,1
+"Aleen Bailey",23,Jamaica,2004,Athletics,1,0,0,1
+"Stefano Baldini",33,Italy,2004,Athletics,1,0,0,1
+"Hasna Benhassi",26,Morocco,2004,Athletics,0,1,0,1
+"Yuriy Bilonoh",30,Ukraine,2004,Athletics,1,0,0,1
+"Yury Borzakovsky",23,Russia,2004,Athletics,1,0,0,1
+"Ivano Brugnetti",27,Italy,2004,Athletics,1,0,0,1
+"Michelle Burgher",27,Jamaica,2004,Athletics,0,0,1,1
+"Daniil Burkenya",26,Russia,2004,Athletics,0,0,1,1
+"Darren Campbell",30,"Great Britain",2004,Athletics,1,0,0,1
+"Jolanda Ceplak",27,Slovenia,2004,Athletics,0,0,1,1
+"Maria Cioncan",27,Romania,2004,Athletics,0,0,1,1
+"Bryan Clay",24,"United States",2004,Athletics,0,1,0,1
+"Crystal Cox",25,"United States",2004,Athletics,1,0,0,1
+"Yunaika Crawford",21,Cuba,2004,Athletics,0,0,1,1
+"Yumileidi Cumbá",29,Cuba,2004,Athletics,1,0,0,1
+"Nadia Davy",23,Jamaica,2004,Athletics,0,0,1,1
+"Vanderlei de Lima",35,Brazil,2004,Athletics,0,0,1,1
+"Nathan Deakes",27,Australia,2004,Athletics,0,0,1,1
+"Meseret Defar",20,Ethiopia,2004,Athletics,1,0,0,1
+"Pigi Devetzi",28,Greece,2004,Athletics,0,1,0,1
+"Marlon Devonish",28,"Great Britain",2004,Athletics,1,0,0,1
+"Ejegayehu Dibaba",22,Ethiopia,2004,Athletics,0,1,0,1
+"Tirunesh Dibaba",19,Ethiopia,2004,Athletics,0,0,1,1
+"Deena Drossin-Kastor",31,"United States",2004,Athletics,0,0,1,1
+"Pat Dwyer",26,Australia,2004,Athletics,0,1,0,1
+"Aaron Egbele",25,Nigeria,2004,Athletics,0,0,1,1
+"Uchenna Emedolu",27,Nigeria,2004,Athletics,0,0,1,1
+"Olusoji Fasuba",20,Nigeria,2004,Athletics,0,0,1,1
+"Allyson Felix",18,"United States",2004,Athletics,0,1,0,1
+"Sylviane Félix",26,France,2004,Athletics,0,0,1,1
+"Svetlana Feofanova",24,Russia,2004,Athletics,0,1,0,1
+"Debbie Ferguson-McKenzie",28,Bahamas,2004,Athletics,0,0,1,1
+"Francisco Javier Fernández",27,Spain,2004,Athletics,0,1,0,1
+"Tatyana Firova",21,Russia,2004,Athletics,0,1,0,1
+"Olga Fyodorova",21,Russia,2004,Athletics,0,1,0,1
+"Anier García",28,Cuba,2004,Athletics,0,0,1,1
+"Jason Gardener",28,"Great Britain",2004,Athletics,1,0,0,1
+"Giuseppe Gibilisco",25,Italy,2004,Athletics,0,0,1,1
+"Ana Guevara",27,Mexico,2004,Athletics,0,1,0,1
+"Joanna Hayes",27,"United States",2004,Athletics,1,0,0,1
+"Matt Hemingway",31,"United States",2004,Athletics,0,1,0,1
+"Monique Henderson",21,"United States",2004,Athletics,1,0,0,1
+"Monique Hennagan",28,"United States",2004,Athletics,1,0,0,1
+"Clinton Hill",24,Australia,2004,Athletics,0,1,0,1
+"Stefan Holm",28,Sweden,2004,Athletics,1,0,0,1
+"Muriel Hurtis-Houairi",25,France,2004,Athletics,0,0,1,1
+"Yelena Isinbayeva",22,Russia,2004,Athletics,1,0,0,1
+"Nataliya Ivanova",23,Russia,2004,Athletics,0,1,0,1
+"Olimpiada Ivanova",33,Russia,2004,Athletics,0,1,0,1
+"Godday James",20,Nigeria,2004,Athletics,0,0,1,1
+"Dmitry Karpov",23,Kazakhstan,2004,Athletics,0,0,1,1
+"Meb Keflezighi",29,"United States",2004,Athletics,0,1,0,1
+"Naman Keïta",26,France,2004,Athletics,0,0,1,1
+"Anastasia Kelesidou",31,Greece,2004,Athletics,0,1,0,1
+"Ezekiel Kemboi",22,Kenya,2004,Athletics,1,0,0,1
+"Irina Khabarova",38,Russia,2004,Athletics,0,1,0,1
+"Fani Khalkia",25,Greece,2004,Athletics,1,0,0,1
+"Eliud Kipchoge",19,Kenya,2004,Athletics,0,0,1,1
+"Wilson Kipketer",33,Denmark,2004,Athletics,0,0,1,1
+"Brimin Kipruto",19,Kenya,2004,Athletics,0,1,0,1
+"Nadine Kleinert-Schmitt",28,Germany,2004,Athletics,0,1,0,1
+"Carolina Klüft",21,Sweden,2004,Athletics,1,0,0,1
+"Paul Kipsiele Koech",22,Kenya,2004,Athletics,0,0,1,1
+"Robert Korzeniowski",36,Poland,2004,Athletics,1,0,0,1
+"Tatyana Kotova",27,Russia,2004,Athletics,0,0,1,1
+"Zoltán Kovágó",25,Hungary,2004,Athletics,0,1,0,1
+"Olesya Krasnomovets",25,Russia,2004,Athletics,0,1,0,1
+"Svetlana Krivelyova",35,Russia,2004,Athletics,0,0,1,1
+"Larisa Kruglova",31,Russia,2004,Athletics,0,1,0,1
+"Olga Kuzenkova",33,Russia,2004,Athletics,1,0,0,1
+"Bernard Lagat",29,Kenya,2004,Athletics,0,1,0,1
+"Tayna Lawrence",28,Jamaica,2004,Athletics,1,0,0,1
+"Mark Lewis-Francis",21,"Great Britain",2004,Athletics,1,0,0,1
+"Liu Xiang",21,China,2004,Athletics,1,0,0,1
+"Tim Mack",31,"United States",2004,Athletics,1,0,0,1
+"Sergey Makarov",31,Russia,2004,Athletics,0,0,1,1
+"Véronique Mang",19,France,2004,Athletics,0,0,1,1
+"Mirela Maniani-Tzelili",27,Greece,2004,Athletics,0,0,1,1
+"Joan Lino Martínez",26,Spain,2004,Athletics,0,0,1,1
+"Françoise Mbango",28,Cameroon,2004,Athletics,1,0,0,1
+"Beverly McDonald",34,Jamaica,2004,Athletics,1,0,0,1
+"Danny McFarlane",32,Jamaica,2004,Athletics,0,1,0,1
+"Osleidys Menéndez",24,Cuba,2004,Athletics,1,0,0,1
+"Coby Miller",27,"United States",2004,Athletics,0,1,0,1
+"John Moffitt",23,"United States",2004,Athletics,0,1,0,1
+"Yipsi Moreno",23,Cuba,2004,Athletics,0,1,0,1
+"Melissa Morrison",33,"United States",2004,Athletics,0,0,1,1
+"Mbulaeni Mulaudzi",23,"South Africa",2004,Athletics,0,1,0,1
+"Koji Murofushi",29,Japan,2004,Athletics,1,0,0,1
+"Nataliya Nazarova",25,Russia,2004,Athletics,0,1,0,1
+"Catherine Ndereba",32,Kenya,2004,Athletics,0,1,0,1
+"Adam Nelson",29,"United States",2004,Athletics,0,1,0,1
+"Steffi Nerius",32,Germany,2004,Athletics,0,1,0,1
+"Yuliya Nesterenko",25,Belarus,2004,Athletics,1,0,0,1
+"Denis Nizhegorodov",24,Russia,2004,Athletics,0,1,0,1
+"Mizuki Noguchi",26,Japan,2004,Athletics,1,0,0,1
+"Francis Obikwelu",25,Portugal,2004,Athletics,0,1,0,1
+"Isabella Ochichi",24,Kenya,2004,Athletics,0,1,0,1
+"Joachim Olsen",27,Denmark,2004,Athletics,0,0,1,1
+"Christian Olsson",24,Sweden,2004,Athletics,1,0,0,1
+"Marian Oprea",22,Romania,2004,Athletics,0,1,0,1
+"Mark Ormrod",21,Australia,2004,Athletics,0,1,0,1
+"Olena Ovcharova-Krasovska",28,Ukraine,2004,Athletics,0,1,0,1
+"Darvis Patton",26,"United States",2004,Athletics,0,1,0,1
+"Dwight Phillips",26,"United States",2004,Athletics,1,0,0,1
+"Sandie Richards",35,Jamaica,2004,Athletics,0,0,1,1
+"Sanya Richards-Ross",19,"United States",2004,Athletics,1,0,0,1
+"Moushaumi Robinson",23,"United States",2004,Athletics,1,0,0,1
+"Andrew Rock",22,"United States",2004,Athletics,1,0,0,1
+"Anna Rogowska",23,Poland,2004,Athletics,0,0,1,1
+"Nataliya Sadova",32,Russia,2004,Athletics,1,0,0,1
+"Félix Sánchez",26,"Dominican Republic",2004,Athletics,1,0,0,1
+"Jane Saville",29,Australia,2004,Athletics,0,0,1,1
+"Roman Šebrle",29,"Czech Republic",2004,Athletics,1,0,0,1
+"Sileshi Sihine",21,Ethiopia,2004,Athletics,0,1,0,1
+"Rui Silva",27,Portugal,2004,Athletics,0,0,1,1
+"Irina Simagina",22,Russia,2004,Athletics,0,1,0,1
+"Sherone Simpson",20,Jamaica,2004,Athletics,1,0,0,1
+"Austra Skujyte",25,Lithuania,2004,Athletics,0,1,0,1
+"Yelena Slesarenko",22,Russia,2004,Athletics,1,0,0,1
+"Ronetta Smith",24,Jamaica,2004,Athletics,0,0,1,1
+"Kelly Sotherton",27,"Great Britain",2004,Athletics,0,0,1,1
+"John Steffensen",21,Australia,2004,Athletics,0,1,0,1
+"Toby Stevenson",27,"United States",2004,Athletics,0,1,0,1
+"Vita Stopina",28,Ukraine,2004,Athletics,0,0,1,1
+"Hestrie Storbeck-Cloete",26,"South Africa",2004,Athletics,0,1,0,1
+"Yuliya Tabakova",24,Russia,2004,Athletics,0,1,0,1
+"Zersenay Tadesse",22,Eritrea,2004,Athletics,0,0,1,1
+"Aleksander Tammert",31,Estonia,2004,Athletics,0,0,1,1
+"Ionela Târlea-Manolache",28,Romania,2004,Athletics,0,1,0,1
+"Tetiana Tereshchuk-Antypova",34,Ukraine,2004,Athletics,0,0,1,1
+"Andreas Thorkildsen",22,Norway,2004,Athletics,1,0,0,1
+"Ivan Tikhon",28,Belarus,2004,Athletics,0,1,0,1
+"Tatyana Tomashova",29,Russia,2004,Athletics,0,1,0,1
+"Terrence Trammell",25,"United States",2004,Athletics,0,1,0,1
+"DeeDee Trotter",21,"United States",2004,Athletics,1,0,0,1
+"Athanasia Tsoumeleka",22,Greece,2004,Athletics,1,0,0,1
+"Derartu Tulu",32,Ethiopia,2004,Athletics,0,0,1,1
+"Enefiok Udo-Obong",22,Nigeria,2004,Athletics,0,0,1,1
+"Vadims Vasilevskis",22,Latvia,2004,Athletics,0,1,0,1
+"Aleksey Voyevodin",34,Russia,2004,Athletics,0,0,1,1
+"Saul Weigopwa",18,Nigeria,2004,Athletics,0,0,1,1
+"Bernard Williams III",26,"United States",2004,Athletics,0,1,0,1
+"Lauryn Williams",20,"United States",2004,Athletics,0,1,0,1
+"Tonique Williams-Darling",28,Bahamas,2004,Athletics,1,0,0,1
+"Novlene Williams-Mills",22,Jamaica,2004,Athletics,0,0,1,1
+"Darold Williamson",21,"United States",2004,Athletics,1,0,0,1
+"Kelly Willie",21,"United States",2004,Athletics,1,0,0,1
+"Xing Huina",20,China,2004,Athletics,1,0,0,1
+"Irina Yatchenko",38,Belarus,2004,Athletics,0,0,1,1
+"Olesya Zykina",23,Russia,2004,Athletics,0,1,0,1
+"Chen Li-Ju",23,"Chinese Taipei",2004,Archery,0,0,1,1
+"Chen Szu-Yuan",23,"Chinese Taipei",2004,Archery,0,1,0,1
+"Tim Cuddihy",17,Australia,2004,Archery,0,0,1,1
+"Marco Galiazzo",21,Italy,2004,Archery,1,0,0,1
+"He Ying",27,China,2004,Archery,0,1,0,1
+"Dmytro Hrachov",20,Ukraine,2004,Archery,0,0,1,1
+"Im Dong-Hyeon",19,"South Korea",2004,Archery,1,0,0,1
+"Jang Yong-Ho",28,"South Korea",2004,Archery,1,0,0,1
+"Lin Sang",26,China,2004,Archery,0,1,0,1
+"Liu Ming-Huang",19,"Chinese Taipei",2004,Archery,0,1,0,1
+"Park Gyeong-Mo",28,"South Korea",2004,Archery,1,0,0,1
+"Viktor Ruban",23,Ukraine,2004,Archery,0,0,1,1
+"Oleksandr Serdiuk",26,Ukraine,2004,Archery,0,0,1,1
+"Wang Cheng-Pang",17,"Chinese Taipei",2004,Archery,0,1,0,1
+"Alison Williamson",32,"Great Britain",2004,Archery,0,0,1,1
+"Wu Hui-Ju",21,"Chinese Taipei",2004,Archery,0,0,1,1
+"Hiroshi Yamamoto",41,Japan,2004,Archery,0,1,0,1
+"Yuan Shu-Chi",19,"Chinese Taipei",2004,Archery,0,0,1,1
+"Yun Mi-Jin",21,"South Korea",2004,Archery,1,0,0,1
+"Zhang Juanjuan",23,China,2004,Archery,0,1,0,1

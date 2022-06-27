@@ -1,0 +1,408 @@
+athlete,age,country,year,sport,"Gold Medals","Silver Medals","Bronze Medals","Total Medals"
+"Ole Einar Bjørndalen",28,Norway,2002,Biathlon,4,0,0,4
+"Janica Kostelic",20,Croatia,2002,"Alpine Skiing",3,1,0,4
+"Marc Gagnon",26,Canada,2002,"Short-Track Speed Skating",2,0,1,3
+"Yang Yang (A)",25,China,2002,"Short-Track Speed Skating",2,1,0,3
+"Jochem Uytdehaage",25,Netherlands,2002,"Speed Skating",2,1,0,3
+"Sabine Völker",28,Germany,2002,"Speed Skating",0,2,1,3
+"Felix Gottwald",26,Austria,2002,"Nordic Combined",0,0,3,3
+"Samppa Lajunen",22,Finland,2002,"Nordic Combined",3,0,0,3
+"Stefania Belmondo",33,Italy,2002,"Cross Country Skiing",1,1,1,3
+"Yuliya Chepalova",25,Russia,2002,"Cross Country Skiing",1,1,1,3
+"Frode Estil",29,Norway,2002,"Cross Country Skiing",2,1,0,3
+"Bente Skari-Martinsen",29,Norway,2002,"Cross Country Skiing",1,1,1,3
+"Kati Wilhelm",25,Germany,2002,Biathlon,2,1,0,3
+"Stephan Eberharter",32,Austria,2002,"Alpine Skiing",1,1,1,3
+"Choi Eun-Gyeong",17,"South Korea",2002,"Short-Track Speed Skating",1,1,0,2
+"Go Gi-Hyeon",15,"South Korea",2002,"Short-Track Speed Skating",1,1,0,2
+"Jonathan Guilmette",23,Canada,2002,"Short-Track Speed Skating",1,1,0,2
+"Li Jiajun",26,China,2002,"Short-Track Speed Skating",0,1,1,2
+"Apolo Anton Ohno",19,"United States",2002,"Short-Track Speed Skating",1,1,0,2
+"Evgeniya Radanova",24,Bulgaria,2002,"Short-Track Speed Skating",0,1,1,2
+"Mathieu Turcotte",25,Canada,2002,"Short-Track Speed Skating",1,0,1,2
+"Wang Chunlu",23,China,2002,"Short-Track Speed Skating",0,1,1,2
+"Yang Yang (S)",24,China,2002,"Short-Track Speed Skating",0,1,1,2
+"Derek Parra",31,"United States",2002,"Speed Skating",1,1,0,2
+"Claudia Pechstein",29,Germany,2002,"Speed Skating",2,0,0,2
+"Jennifer Rodriguez",25,"United States",2002,"Speed Skating",0,0,2,2
+"Simon Ammann",20,Switzerland,2002,"Ski Jumping",2,0,0,2
+"Sven Hannawald",27,Germany,2002,"Ski Jumping",1,1,0,2
+"Matti Hautamäki",20,Finland,2002,"Ski Jumping",0,1,1,2
+"Adam Malysz",24,Poland,2002,"Ski Jumping",0,1,1,2
+"Ronny Ackermann",24,Germany,2002,"Nordic Combined",0,2,0,2
+"Jaakko Tallus",20,Finland,2002,"Nordic Combined",1,1,0,2
+"Thomas Alsgaard",30,Norway,2002,"Cross Country Skiing",2,0,0,2
+"Viola Bauer",25,Germany,2002,"Cross Country Skiing",1,0,1,2
+"Anita Moen-Guidon",34,Norway,2002,"Cross Country Skiing",0,1,1,2
+"Katerina Neumannová",28,"Czech Republic",2002,"Cross Country Skiing",0,2,0,2
+"Evi Sachenbacher-Stehle",21,Germany,2002,"Cross Country Skiing",1,1,0,2
+"Kristen Skjeldal",34,Norway,2002,"Cross Country Skiing",1,0,1,2
+"Andrus Veerpalu",31,Estonia,2002,"Cross Country Skiing",1,1,0,2
+"Cristian Zorzi",29,Italy,2002,"Cross Country Skiing",0,1,1,2
+"Uschi Disl",31,Germany,2002,Biathlon,1,1,0,2
+"Sven Fischer",30,Germany,2002,Biathlon,0,2,0,2
+"Ricco Groß",31,Germany,2002,Biathlon,0,1,1,2
+"Andrea Henkel",24,Germany,2002,Biathlon,2,0,0,2
+"Frank Luck",34,Germany,2002,Biathlon,0,2,0,2
+"Raphaël Poirée",27,France,2002,Biathlon,0,1,1,2
+"Olga Pylyova-Medvedtseva",26,Russia,2002,Biathlon,1,0,1,2
+"Liv Grete Skjelbreid-Poirée",27,Norway,2002,Biathlon,0,2,0,2
+"Magdalena Wallin-Forsberg",34,Sweden,2002,Biathlon,0,0,2,2
+"Kjetil André Aamodt",30,Norway,2002,"Alpine Skiing",2,0,0,2
+"Renate Götschl",26,Austria,2002,"Alpine Skiing",0,1,1,2
+"Lasse Kjus",31,Norway,2002,"Alpine Skiing",0,1,1,2
+"Bode Miller",24,"United States",2002,"Alpine Skiing",0,2,0,2
+"Anja Pärson",20,Sweden,2002,"Alpine Skiing",0,1,1,2
+"Benjamin Raich",23,Austria,2002,"Alpine Skiing",0,0,2,2
+"An Yulong",23,China,2002,"Short-Track Speed Skating",0,0,1,1
+"Michele Antonioli",25,Italy,2002,"Short-Track Speed Skating",0,1,0,1
+"Éric Bédard",25,Canada,2002,"Short-Track Speed Skating",1,0,0,1
+"Steven Bradbury",28,Australia,2002,"Short-Track Speed Skating",1,0,0,1
+"Maurizio Carnino",26,Italy,2002,"Short-Track Speed Skating",0,1,0,1
+"Fabio Carta",24,Italy,2002,"Short-Track Speed Skating",0,1,0,1
+"Isabelle Charest",31,Canada,2002,"Short-Track Speed Skating",0,0,1,1
+"Choi Min-Kyung",19,"South Korea",2002,"Short-Track Speed Skating",1,0,0,1
+"Marie-Eve Drolet",20,Canada,2002,"Short-Track Speed Skating",0,0,1,1
+"Feng Kai",23,China,2002,"Short-Track Speed Skating",0,0,1,1
+"Nicola Franceschina",24,Italy,2002,"Short-Track Speed Skating",0,1,0,1
+"Amélie Goulet-Nadon",19,Canada,2002,"Short-Track Speed Skating",0,0,1,1
+"Guo Wei",18,China,2002,"Short-Track Speed Skating",0,0,1,1
+"Ju Min-Jin",18,"South Korea",2002,"Short-Track Speed Skating",1,0,0,1
+"Alanna Kraus",24,Canada,2002,"Short-Track Speed Skating",0,0,1,1
+"Li Ye",18,China,2002,"Short-Track Speed Skating",0,0,1,1
+"Park Hye-Won",18,"South Korea",2002,"Short-Track Speed Skating",1,0,0,1
+"Nicola Rodigari",20,Italy,2002,"Short-Track Speed Skating",0,1,0,1
+"Rusty Smith",22,"United States",2002,"Short-Track Speed Skating",0,0,1,1
+"Sun Dandan",23,China,2002,"Short-Track Speed Skating",0,1,0,1
+"François-Louis Tremblay",21,Canada,2002,"Short-Track Speed Skating",1,0,0,1
+"Tania Vicent",26,Canada,2002,"Short-Track Speed Skating",0,0,1,1
+"Jens Boden",23,Germany,2002,"Speed Skating",0,0,1,1
+"Jan Bos",26,Netherlands,2002,"Speed Skating",0,1,0,1
+"Kip Carpenter",22,"United States",2002,"Speed Skating",0,0,1,1
+"Joey Cheek",22,"United States",2002,"Speed Skating",0,0,1,1
+"Casey FitzRandolph",27,"United States",2002,"Speed Skating",1,0,0,1
+"Anni Friesinger-Postma",25,Germany,2002,"Speed Skating",1,0,0,1
+"Monique Garbrecht-Enfeldt",33,Germany,2002,"Speed Skating",0,1,0,1
+"Renate Groenewold",25,Netherlands,2002,"Speed Skating",0,1,0,1
+"Clara Hughes",29,Canada,2002,"Speed Skating",0,0,1,1
+"Cindy Klassen",22,Canada,2002,"Speed Skating",0,0,1,1
+"Catriona Le May Doan",31,Canada,2002,"Speed Skating",1,0,0,1
+"Gianni Romme",29,Netherlands,2002,"Speed Skating",0,1,0,1
+"Hiroyasu Shimizu",27,Japan,2002,"Speed Skating",0,1,0,1
+"Gretha Smit",26,Netherlands,2002,"Speed Skating",0,1,0,1
+"Lasse Sætre",27,Norway,2002,"Speed Skating",0,0,1,1
+"Ådne Søndrål",30,Norway,2002,"Speed Skating",0,0,1,1
+"Gerard van Velde",30,Netherlands,2002,"Speed Skating",1,0,0,1
+"Chris Witty",26,"United States",2002,"Speed Skating",1,0,0,1
+"Isabelle Blanc",26,France,2002,Snowboarding,1,0,0,1
+"Kelly Clark",18,"United States",2002,Snowboarding,1,0,0,1
+"Danny Kass",19,"United States",2002,Snowboarding,0,1,0,1
+"Chris Klug",29,"United States",2002,Snowboarding,0,0,1,1
+"Ross Powers",23,"United States",2002,Snowboarding,1,0,0,1
+"Fabienne Reuteler",22,Switzerland,2002,Snowboarding,0,0,1,1
+"Richard Richardsson",28,Sweden,2002,Snowboarding,0,1,0,1
+"Karine Ruby",24,France,2002,Snowboarding,0,1,0,1
+"Philipp Schoch",22,Switzerland,2002,Snowboarding,1,0,0,1
+"JJ Thomas",20,"United States",2002,Snowboarding,0,0,1,1
+"Lidia Trettel",28,Italy,2002,Snowboarding,0,0,1,1
+"Doriane Vidal",25,France,2002,Snowboarding,0,1,0,1
+"Janne Ahonen",24,Finland,2002,"Ski Jumping",0,1,0,1
+"Damjan Fras",28,Slovenia,2002,"Ski Jumping",0,0,1,1
+"Stephan Hocke",18,Germany,2002,"Ski Jumping",1,0,0,1
+"Risto Jussilainen",26,Finland,2002,"Ski Jumping",0,1,0,1
+"Robert Kranjec",20,Slovenia,2002,"Ski Jumping",0,0,1,1
+"Veli-Matti Lindström",18,Finland,2002,"Ski Jumping",0,1,0,1
+"Primož Peterka",22,Slovenia,2002,"Ski Jumping",0,0,1,1
+"Martin Schmitt",24,Germany,2002,"Ski Jumping",1,0,0,1
+"Michael Uhrmann",23,Germany,2002,"Ski Jumping",1,0,0,1
+"Peter Žonta",23,Slovenia,2002,"Ski Jumping",0,0,1,1
+"Alex Coomber",28,"Great Britain",2002,Skeleton,0,0,1,1
+"Tristan Gale",21,"United States",2002,Skeleton,1,0,0,1
+"Lea Ann Parsley",33,"United States",2002,Skeleton,0,1,0,1
+"Martin Rettl",28,Austria,2002,Skeleton,0,1,0,1
+"Jim Shea Jr.",33,"United States",2002,Skeleton,1,0,0,1
+"Gregor Stähli",33,Switzerland,2002,Skeleton,0,0,1,1
+"Christoph Bieler",24,Austria,2002,"Nordic Combined",0,0,1,1
+"Michael Gruber",22,Austria,2002,"Nordic Combined",0,0,1,1
+"Georg Hettich",23,Germany,2002,"Nordic Combined",0,1,0,1
+"Marcel Höhlig",22,Germany,2002,"Nordic Combined",0,1,0,1
+"Björn Kircheisen",18,Germany,2002,"Nordic Combined",0,1,0,1
+"Hannu Manninen",23,Finland,2002,"Nordic Combined",1,0,0,1
+"Jari Mantila",30,Finland,2002,"Nordic Combined",1,0,0,1
+"Mario Stecher",24,Austria,2002,"Nordic Combined",0,0,1,1
+"Mark Grimmette",31,"United States",2002,Luge,0,1,0,1
+"Georg Hackl",35,Germany,2002,Luge,0,1,0,1
+"Clay Ives",29,"United States",2002,Luge,0,0,1,1
+"Silke Kraushaar",31,Germany,2002,Luge,0,0,1,1
+"Patric Leitner",24,Germany,2002,Luge,1,0,0,1
+"Brian Martin",28,"United States",2002,Luge,0,1,0,1
+"Barbara Niedernhuber",27,Germany,2002,Luge,0,1,0,1
+"Sylke Otto",32,Germany,2002,Luge,1,0,0,1
+"Markus Prock",37,Austria,2002,Luge,0,0,1,1
+"Alexander Resch",22,Germany,2002,Luge,1,0,0,1
+"Chris Thorpe",31,"United States",2002,Luge,0,0,1,1
+"Armin Zöggeler",28,Italy,2002,Luge,1,0,0,1
+"Maksim Afinogenov",22,Russia,2002,"Ice Hockey",0,0,1,1
+"Annica Åhlén",27,Sweden,2002,"Ice Hockey",0,0,1,1
+"Lotta Almblad",29,Sweden,2002,"Ice Hockey",0,0,1,1
+"Tony Amonte",31,"United States",2002,"Ice Hockey",0,1,0,1
+"Anna Andersson",20,Sweden,2002,"Ice Hockey",0,0,1,1
+"Gunilla Andersson",26,Sweden,2002,"Ice Hockey",0,0,1,1
+"Dana Antal",24,Canada,2002,"Ice Hockey",1,0,0,1
+"Chris Bailey",30,"United States",2002,"Ice Hockey",0,1,0,1
+"Laurie Baker",25,"United States",2002,"Ice Hockey",0,1,0,1
+"Tom Barrasso",36,"United States",2002,"Ice Hockey",0,1,0,1
+"Kelly Béchard",24,Canada,2002,"Ice Hockey",1,0,0,1
+"Emelie Berggren",19,Sweden,2002,"Ice Hockey",0,0,1,1
+"Kristina Bergstrand",38,Sweden,2002,"Ice Hockey",0,0,1,1
+"Rob Blake",32,Canada,2002,"Ice Hockey",1,0,0,1
+"Jennifer Botterill",22,Canada,2002,"Ice Hockey",1,0,0,1
+"Eric Brewer",22,Canada,2002,"Ice Hockey",1,0,0,1
+"Thérèse Brisson",35,Canada,2002,"Ice Hockey",1,0,0,1
+"Martin Brodeur",29,Canada,2002,"Ice Hockey",1,0,0,1
+"Pavel Bure",30,Russia,2002,"Ice Hockey",0,0,1,1
+"Valery Bure",27,Russia,2002,"Ice Hockey",0,0,1,1
+"Karyn Bye",30,"United States",2002,"Ice Hockey",0,1,0,1
+"Cassie Campbell",28,Canada,2002,"Ice Hockey",1,0,0,1
+"Isabelle Chartrand",23,Canada,2002,"Ice Hockey",1,0,0,1
+"Chris Chelios",40,"United States",2002,"Ice Hockey",0,1,0,1
+"Julie Chu",19,"United States",2002,"Ice Hockey",0,1,0,1
+"Natalie Darwitz",18,"United States",2002,"Ice Hockey",0,1,0,1
+"Pavel Datsyuk",23,Russia,2002,"Ice Hockey",0,0,1,1
+"Adam Deadmarsh",26,"United States",2002,"Ice Hockey",0,1,0,1
+"Sara DeCosta",24,"United States",2002,"Ice Hockey",0,1,0,1
+"Chris Drury",25,"United States",2002,"Ice Hockey",0,1,0,1
+"Mike Dunham",29,"United States",2002,"Ice Hockey",0,1,0,1
+"Tricia Dunn-Luoma",27,"United States",2002,"Ice Hockey",0,1,0,1
+"Lori Dupuis",29,Canada,2002,"Ice Hockey",1,0,0,1
+"Ann-Louise Edstrand",26,Sweden,2002,"Ice Hockey",0,0,1,1
+"Joa Elfsberg",22,Sweden,2002,"Ice Hockey",0,0,1,1
+"Theo Fleury",33,Canada,2002,"Ice Hockey",1,0,0,1
+"Adam Foote",30,Canada,2002,"Ice Hockey",1,0,0,1
+"Sergey Fyodorov",32,Russia,2002,"Ice Hockey",0,0,1,1
+"Simon Gagné",21,Canada,2002,"Ice Hockey",1,0,0,1
+"Sergey Gonchar",27,Russia,2002,"Ice Hockey",0,0,1,1
+"Danielle Goyette",36,Canada,2002,"Ice Hockey",1,0,0,1
+"Cammi Granato",30,"United States",2002,"Ice Hockey",0,1,0,1
+"Bill Guerin",31,"United States",2002,"Ice Hockey",0,1,0,1
+"Geraldine Heaney",34,Canada,2002,"Ice Hockey",1,0,0,1
+"Jayna Hefford",24,Canada,2002,"Ice Hockey",1,0,0,1
+"Erika Holst",22,Sweden,2002,"Ice Hockey",0,0,1,1
+"Phil Housley",37,"United States",2002,"Ice Hockey",0,1,0,1
+"Brett Hull",37,"United States",2002,"Ice Hockey",0,1,0,1
+"Jarome Iginla",24,Canada,2002,"Ice Hockey",1,0,0,1
+"Nanna Jansson",18,Sweden,2002,"Ice Hockey",0,0,1,1
+"Curtis Joseph",34,Canada,2002,"Ice Hockey",1,0,0,1
+"Ed Jovanovski",25,Canada,2002,"Ice Hockey",1,0,0,1
+"Paul Kariya",27,Canada,2002,"Ice Hockey",1,0,0,1
+"Darius Kasparaitis",29,Russia,2002,"Ice Hockey",0,0,1,1
+"Becky Kellar",27,Canada,2002,"Ice Hockey",1,0,0,1
+"Courtney Kennedy",22,"United States",2002,"Ice Hockey",0,1,0,1
+"Nikolay Khabibulin",29,Russia,2002,"Ice Hockey",0,0,1,1
+"Andrea Kilbourne",21,"United States",2002,"Ice Hockey",0,1,0,1
+"Katie King",26,"United States",2002,"Ice Hockey",0,1,0,1
+"Ilya Kovalchuk",18,Russia,2002,"Ice Hockey",0,0,1,1
+"Aleksey Kovalyov",28,Russia,2002,"Ice Hockey",0,0,1,1
+"Igor Kravchuk",35,Russia,2002,"Ice Hockey",0,0,1,1
+"Oleg Kvasha",23,Russia,2002,"Ice Hockey",0,0,1,1
+"Igor Larionov",41,Russia,2002,"Ice Hockey",0,0,1,1
+"Maria Larsson",22,Sweden,2002,"Ice Hockey",0,0,1,1
+"John LeClair",32,"United States",2002,"Ice Hockey",0,1,0,1
+"Brian Leetch",33,"United States",2002,"Ice Hockey",0,1,0,1
+"Mario Lemieux",36,Canada,2002,"Ice Hockey",1,0,0,1
+"Ylva Lindberg",25,Sweden,2002,"Ice Hockey",0,0,1,1
+"Eric Lindros",28,Canada,2002,"Ice Hockey",1,0,0,1
+"Ulrica Lindström",22,Sweden,2002,"Ice Hockey",0,0,1,1
+"Shelley Looney",30,"United States",2002,"Ice Hockey",0,1,0,1
+"Al MacInnis",38,Canada,2002,"Ice Hockey",1,0,0,1
+"Vladimir Malakhov",33,Russia,2002,"Ice Hockey",0,0,1,1
+"Danny Markov",25,Russia,2002,"Ice Hockey",0,0,1,1
+"Kim Martin",15,Sweden,2002,"Ice Hockey",0,0,1,1
+"Sue Merz",29,"United States",2002,"Ice Hockey",0,1,0,1
+"Aaron Miller",30,"United States",2002,"Ice Hockey",0,1,0,1
+"Boris Mironov",29,Russia,2002,"Ice Hockey",0,0,1,1
+"A. J. Mleczko",26,"United States",2002,"Ice Hockey",0,1,0,1
+"Mike Modano",31,"United States",2002,"Ice Hockey",0,1,0,1
+"Tara Mounsey",23,"United States",2002,"Ice Hockey",0,1,0,1
+"Scott Niedermayer",28,Canada,2002,"Ice Hockey",1,0,0,1
+"Joe Nieuwendyk",35,Canada,2002,"Ice Hockey",1,0,0,1
+"Andrey Nikolishin",28,Russia,2002,"Ice Hockey",0,0,1,1
+"Owen Nolan",29,Canada,2002,"Ice Hockey",1,0,0,1
+"Caroline Ouellette",22,Canada,2002,"Ice Hockey",1,0,0,1
+"Mike Peca",27,Canada,2002,"Ice Hockey",1,0,0,1
+"Josefin Pettersson",18,Sweden,2002,"Ice Hockey",0,0,1,1
+"Cherie Piper",20,Canada,2002,"Ice Hockey",1,0,0,1
+"Tom Poti",24,"United States",2002,"Ice Hockey",0,1,0,1
+"Cheryl Pounder",25,Canada,2002,"Ice Hockey",1,0,0,1
+"Chris Pronger",27,Canada,2002,"Ice Hockey",1,0,0,1
+"Brian Rafalski",28,"United States",2002,"Ice Hockey",0,1,0,1
+"Mike Richter",35,"United States",2002,"Ice Hockey",0,1,0,1
+"Jeremy Roenick",32,"United States",2002,"Ice Hockey",0,1,0,1
+"Brian Rolston",28,"United States",2002,"Ice Hockey",0,1,0,1
+"Maria Rooth",22,Sweden,2002,"Ice Hockey",0,0,1,1
+"Angela Ruggiero",22,"United States",2002,"Ice Hockey",0,1,0,1
+"Danijela Rundqvist",17,Sweden,2002,"Ice Hockey",0,0,1,1
+"Joe Sakic",32,Canada,2002,"Ice Hockey",1,0,0,1
+"Sergey Samsonov",23,Russia,2002,"Ice Hockey",0,0,1,1
+"Evelina Samuelsson",17,Sweden,2002,"Ice Hockey",0,0,1,1
+"Jenny Schmidgall-Potter",23,"United States",2002,"Ice Hockey",0,1,0,1
+"Brendan Shanahan",33,Canada,2002,"Ice Hockey",1,0,0,1
+"Tammy Lee Shewchuk",24,Canada,2002,"Ice Hockey",1,0,0,1
+"Therese Sjölander",20,Sweden,2002,"Ice Hockey",0,0,1,1
+"Sami Jo Small",25,Canada,2002,"Ice Hockey",1,0,0,1
+"Ryan Smyth",25,Canada,2002,"Ice Hockey",1,0,0,1
+"Colleen Sostorics",22,Canada,2002,"Ice Hockey",1,0,0,1
+"Kim St-Pierre",23,Canada,2002,"Ice Hockey",1,0,0,1
+"Vicky Sunohara",31,Canada,2002,"Ice Hockey",1,0,0,1
+"Gary Suter",37,"United States",2002,"Ice Hockey",0,1,0,1
+"Keith Tkachuk",29,"United States",2002,"Ice Hockey",0,1,0,1
+"Sarah Tueting",25,"United States",2002,"Ice Hockey",0,1,0,1
+"Oleg Tverdovsky",25,Russia,2002,"Ice Hockey",0,0,1,1
+"Anna Vikman",21,Sweden,2002,"Ice Hockey",0,0,1,1
+"Lyndsay Wall",16,"United States",2002,"Ice Hockey",0,1,0,1
+"Doug Weight",31,"United States",2002,"Ice Hockey",0,1,0,1
+"Krissy Wendell",20,"United States",2002,"Ice Hockey",0,1,0,1
+"Hayley Wickenheiser",23,Canada,2002,"Ice Hockey",1,0,0,1
+"Aleksey Yashin",28,Russia,2002,"Ice Hockey",0,0,1,1
+"Mike York",24,"United States",2002,"Ice Hockey",0,1,0,1
+"Scott Young",34,"United States",2002,"Ice Hockey",0,1,0,1
+"Steve Yzerman",36,Canada,2002,"Ice Hockey",1,0,0,1
+"Aleksey Zhamnov",31,Russia,2002,"Ice Hockey",0,0,1,1
+"Marina Anissina",26,France,2002,"Figure Skating",1,0,0,1
+"Ilya Averbukh",28,Russia,2002,"Figure Skating",0,1,0,1
+"Yelena Berezhnaya",24,Russia,2002,"Figure Skating",1,0,0,1
+"Barbara Fusar Poli",30,Italy,2002,"Figure Skating",0,0,1,1
+"Timothy Goebel",21,"United States",2002,"Figure Skating",0,0,1,1
+"Sarah Hughes",16,"United States",2002,"Figure Skating",1,0,0,1
+"Michelle Kwan",21,"United States",2002,"Figure Skating",0,0,1,1
+"Irina Lobacheva",28,Russia,2002,"Figure Skating",0,1,0,1
+"Maurizio Margaglio",27,Italy,2002,"Figure Skating",0,0,1,1
+"Gwendal Peizerat",29,France,2002,"Figure Skating",1,0,0,1
+"David Pelletier",27,Canada,2002,"Figure Skating",1,0,0,1
+"Yevgeny Plyushchenko",19,Russia,2002,"Figure Skating",0,1,0,1
+"Jamie Salé",24,Canada,2002,"Figure Skating",1,0,0,1
+"Shen Xue",23,China,2002,"Figure Skating",0,0,1,1
+"Anton Sikharulidze",25,Russia,2002,"Figure Skating",1,0,0,1
+"Irina Slutskaya",23,Russia,2002,"Figure Skating",0,1,0,1
+"Aleksey Yagudin",21,Russia,2002,"Figure Skating",1,0,0,1
+"Zhao Hongbo",28,China,2002,"Figure Skating",0,0,1,1
+"Shannon Bahrke",21,"United States",2002,"Freestyle Skiing",0,1,0,1
+"Veronica Brenner",27,Canada,2002,"Freestyle Skiing",0,1,0,1
+"Alisa Camplin",27,Australia,2002,"Freestyle Skiing",1,0,0,1
+"Deidra Dionne",20,Canada,2002,"Freestyle Skiing",0,0,1,1
+"Richard Gay",30,France,2002,"Freestyle Skiing",0,0,1,1
+"Aleksey Grishin",22,Belarus,2002,"Freestyle Skiing",0,0,1,1
+"Janne Lahtela",27,Finland,2002,"Freestyle Skiing",1,0,0,1
+"Travis Mayer",19,"United States",2002,"Freestyle Skiing",0,1,0,1
+"Joe Pack",23,"United States",2002,"Freestyle Skiing",0,1,0,1
+"Tae Satoya",25,Japan,2002,"Freestyle Skiing",0,0,1,1
+"Kari Traa",28,Norway,2002,"Freestyle Skiing",1,0,0,1
+"Aleš Valenta",29,"Czech Republic",2002,"Freestyle Skiing",1,0,0,1
+"Don Bartlett",41,Canada,2002,Curling,0,1,0,1
+"Laurence Bidaud",33,Switzerland,2002,Curling,0,1,0,1
+"Flemming Davanger",38,Norway,2002,Curling,1,0,0,1
+"Luzia Ebnöther",30,Switzerland,2002,Curling,0,1,0,1
+"Markus Eggler",33,Switzerland,2002,Curling,0,0,1,1
+"Tanya Frei",29,Switzerland,2002,Curling,0,1,0,1
+"Damian Grichting",28,Switzerland,2002,Curling,0,0,1,1
+"Debbie Knox",33,"Great Britain",2002,Curling,1,0,0,1
+"Kelley Law",36,Canada,2002,Curling,0,0,1,1
+"Fiona MacDonald",27,"Great Britain",2002,Curling,1,0,0,1
+"Kevin Martin",35,Canada,2002,Curling,0,1,0,1
+"Rhona Martin",35,"Great Britain",2002,Curling,1,0,0,1
+"Margaret Morton",34,"Great Britain",2002,Curling,1,0,0,1
+"Diane Nelson",43,Canada,2002,Curling,0,0,1,1
+"Torger Nergård",27,Norway,2002,Curling,1,0,0,1
+"Cheryl Noble",45,Canada,2002,Curling,0,0,1,1
+"Mirjam Ott",30,Switzerland,2002,Curling,0,1,0,1
+"Bent Ånund Ramsfjell",34,Norway,2002,Curling,1,0,0,1
+"Marco Ramstein",23,Switzerland,2002,Curling,0,0,1,1
+"Janice Rankin",30,"Great Britain",2002,Curling,1,0,0,1
+"Nadia Röthlisberger",29,Switzerland,2002,Curling,0,1,0,1
+"Carter Rycroft",24,Canada,2002,Curling,0,1,0,1
+"Andi Schwaller",31,Switzerland,2002,Curling,0,0,1,1
+"Christof Schwaller",35,Switzerland,2002,Curling,0,0,1,1
+"Julie Sutton-Skinner",33,Canada,2002,Curling,0,0,1,1
+"Ken Tralnberg",45,Canada,2002,Curling,0,1,0,1
+"Pål Trulsen",39,Norway,2002,Curling,1,0,0,1
+"Lars Vågberg",34,Norway,2002,Curling,1,0,0,1
+"Don Walchuk",38,Canada,2002,Curling,0,1,0,1
+"Georgina Wheatcroft",36,Canada,2002,Curling,0,0,1,1
+"Brigitte Albrecht-Loretan",31,Switzerland,2002,"Cross Country Skiing",0,0,1,1
+"Tobias Angerer",24,Germany,2002,"Cross Country Skiing",0,0,1,1
+"Anders Aukland",29,Norway,2002,"Cross Country Skiing",1,0,0,1
+"Marit Bjørgen",21,Norway,2002,"Cross Country Skiing",0,1,0,1
+"Mikhail Botvinov",34,Austria,2002,"Cross Country Skiing",0,1,0,1
+"Giorgio Di Centa",29,Italy,2002,"Cross Country Skiing",0,1,0,1
+"Per Elofsson",24,Sweden,2002,"Cross Country Skiing",0,0,1,1
+"Jens Filbrich",22,Germany,2002,"Cross Country Skiing",0,0,1,1
+"Manuela Henkel",27,Germany,2002,"Cross Country Skiing",1,0,0,1
+"Tor-Arne Hetland",28,Norway,2002,"Cross Country Skiing",1,0,0,1
+"Odd-Bjørn Hjelmeset",30,Norway,2002,"Cross Country Skiing",0,0,1,1
+"Christian Hoffmann",27,Austria,2002,"Cross Country Skiing",1,0,0,1
+"Andrea Huber",26,Switzerland,2002,"Cross Country Skiing",0,0,1,1
+"Mikhail Ivanov",24,Russia,2002,"Cross Country Skiing",1,0,0,1
+"Claudia Künzel-Nystad",24,Germany,2002,"Cross Country Skiing",1,0,0,1
+"Natascia Leonardi Cortesi",30,Switzerland,2002,"Cross Country Skiing",0,0,1,1
+"Jaak Mae",29,Estonia,2002,"Cross Country Skiing",0,0,1,1
+"Fabio Maj",31,Italy,2002,"Cross Country Skiing",0,1,0,1
+"Gabriella Paruzzi",32,Italy,2002,"Cross Country Skiing",1,0,0,1
+"Hilde Gjermundshaug Pedersen",37,Norway,2002,"Cross Country Skiing",0,1,0,1
+"Pietro Piller Cottrer",27,Italy,2002,"Cross Country Skiing",0,1,0,1
+"Laurence Rochat",22,Switzerland,2002,"Cross Country Skiing",0,0,1,1
+"Peter Schlickenrieder",32,Germany,2002,"Cross Country Skiing",0,1,0,1
+"Andreas Schlütter",29,Germany,2002,"Cross Country Skiing",0,0,1,1
+"Beckie Scott",27,Canada,2002,"Cross Country Skiing",1,0,0,1
+"René Sommerfeldt",27,Germany,2002,"Cross Country Skiing",0,0,1,1
+"Steve Anderhub",31,Switzerland,2002,Bobsleigh,0,1,0,1
+"Martin Annen",28,Switzerland,2002,Bobsleigh,0,0,1,1
+"Jill Bakken",25,"United States",2002,Bobsleigh,1,0,0,1
+"Carsten Embach",33,Germany,2002,Bobsleigh,1,0,0,1
+"Susi Erdmann",34,Germany,2002,Bobsleigh,0,0,1,1
+"Vonetta Flowers",28,"United States",2002,Bobsleigh,1,0,0,1
+"Todd Hays",32,"United States",2002,Bobsleigh,0,1,0,1
+"Beat Hefti",24,Switzerland,2002,Bobsleigh,0,0,1,1
+"Nicole Herschmann",26,Germany,2002,Bobsleigh,0,0,1,1
+"Garrett Hines",32,"United States",2002,Bobsleigh,0,1,0,1
+"Ulrike Holzner",33,Germany,2002,Bobsleigh,0,1,0,1
+"Randy Jones",32,"United States",2002,Bobsleigh,0,1,0,1
+"Mike Kohn",29,"United States",2002,Bobsleigh,0,0,1,1
+"Enrico Kühn",24,Germany,2002,Bobsleigh,1,0,0,1
+"Kevin Kuske",23,Germany,2002,Bobsleigh,1,0,0,1
+"André Lange",28,Germany,2002,Bobsleigh,1,0,0,1
+"Christoph Langen",39,Germany,2002,Bobsleigh,1,0,0,1
+"Sandra Prokoff-Kiriasis",27,Germany,2002,Bobsleigh,0,1,0,1
+"Christian Reich",34,Switzerland,2002,Bobsleigh,0,1,0,1
+"Bill Schuffenhauer",28,"United States",2002,Bobsleigh,0,1,0,1
+"Doug Sharp",32,"United States",2002,Bobsleigh,0,0,1,1
+"Brian Shimer",39,"United States",2002,Bobsleigh,0,0,1,1
+"Dan Steele",32,"United States",2002,Bobsleigh,0,0,1,1
+"Markus Zimmermann",37,Germany,2002,Bobsleigh,1,0,0,1
+"Albina Akhatova",25,Russia,2002,Biathlon,0,0,1,1
+"Gunn Margit Andreassen",28,Norway,2002,Biathlon,0,1,0,1
+"Frode Andresen",28,Norway,2002,Biathlon,1,0,0,1
+"Katrin Apel",28,Germany,2002,Biathlon,1,0,0,1
+"Vincent Defrasne",24,France,2002,Biathlon,0,0,1,1
+"Egil Gjelland",28,Norway,2002,Biathlon,1,0,0,1
+"Halvard Hanevold",32,Norway,2002,Biathlon,1,0,0,1
+"Svetlana Ishmuratova",29,Russia,2002,Biathlon,0,0,1,1
+"Galina Kukleva",29,Russia,2002,Biathlon,0,0,1,1
+"Gilles Marguet",34,France,2002,Biathlon,0,0,1,1
+"Viktor Maygurov",33,Russia,2002,Biathlon,0,0,1,1
+"Irina Nikulchina",27,Bulgaria,2002,Biathlon,0,0,1,1
+"Wolfgang Perner",34,Austria,2002,Biathlon,0,0,1,1
+"Julien Robert",27,France,2002,Biathlon,0,0,1,1
+"Peter Sendel",29,Germany,2002,Biathlon,0,1,0,1
+"Ann Elen Skjelbreid",30,Norway,2002,Biathlon,0,1,0,1
+"Linda Tjørhom",22,Norway,2002,Biathlon,0,1,0,1
+"Sébastien Amiez",29,France,2002,"Alpine Skiing",0,1,0,1
+"Daniela Ceccarelli",26,Italy,2002,"Alpine Skiing",1,0,0,1
+"Martina Ertl-Renz",28,Germany,2002,"Alpine Skiing",0,0,1,1
+"Isolde Kostner",26,Italy,2002,"Alpine Skiing",0,1,0,1
+"Carole Montillet-Carles",28,France,2002,"Alpine Skiing",1,0,0,1
+"Sonja Nef",29,Switzerland,2002,"Alpine Skiing",0,0,1,1
+"Laure Pequegnot",26,France,2002,"Alpine Skiing",0,1,0,1
+"Karen Putzer",23,Italy,2002,"Alpine Skiing",0,0,1,1
+"Andreas Schifferer",27,Austria,2002,"Alpine Skiing",0,0,1,1
+"Fritz Strobl",29,Austria,2002,"Alpine Skiing",1,0,0,1
+"Jean-Pierre Vidal",24,France,2002,"Alpine Skiing",1,0,0,1

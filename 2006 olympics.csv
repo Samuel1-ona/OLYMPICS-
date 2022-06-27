@@ -1,0 +1,444 @@
+athlete,age,country,year,sport,"Gold Medals","Silver Medals","Bronze Medals","Total Medals"
+"Cindy Klassen",26,Canada,2006,"Speed Skating",1,2,2,5
+"An Hyeon-Su",20,"South Korea",2006,"Short-Track Speed Skating",3,0,1,4
+"Jin Seon-Yu",17,"South Korea",2006,"Short-Track Speed Skating",3,0,0,3
+"Lee Ho-Seok",19,"South Korea",2006,"Short-Track Speed Skating",1,2,0,3
+"Apolo Anton Ohno",23,"United States",2006,"Short-Track Speed Skating",1,0,2,3
+"Wang Meng",20,China,2006,"Short-Track Speed Skating",1,1,1,3
+"Enrico Fabris",24,Italy,2006,"Speed Skating",2,0,1,3
+"Chad Hedrick",28,"United States",2006,"Speed Skating",1,1,1,3
+"Lars Bystøl",27,Norway,2006,"Ski Jumping",1,0,2,3
+"Felix Gottwald",30,Austria,2006,"Nordic Combined",2,1,0,3
+"Georg Hettich",27,Germany,2006,"Nordic Combined",1,1,1,3
+"Albina Akhatova",29,Russia,2006,Biathlon,1,0,2,3
+"Ole Einar Bjørndalen",32,Norway,2006,Biathlon,0,2,1,3
+"Sven Fischer",34,Germany,2006,Biathlon,2,0,1,3
+"Martina Glagow-Beck",26,Germany,2006,Biathlon,0,3,0,3
+"Michael Greis",29,Germany,2006,Biathlon,3,0,0,3
+"Kati Wilhelm",29,Germany,2006,Biathlon,1,2,0,3
+"Anja Pärson",24,Sweden,2006,"Alpine Skiing",1,0,2,3
+"Choi Eun-Gyeong",21,"South Korea",2006,"Short-Track Speed Skating",1,1,0,2
+"Anouk Leblanc-Boucher",21,Canada,2006,"Short-Track Speed Skating",0,1,1,2
+"François-Louis Tremblay",25,Canada,2006,"Short-Track Speed Skating",0,2,0,2
+"Joey Cheek",26,"United States",2006,"Speed Skating",1,1,0,2
+"Shani Davis",23,"United States",2006,"Speed Skating",1,1,0,2
+"Anni Friesinger-Postma",29,Germany,2006,"Speed Skating",1,0,1,2
+"Kristina Groves",29,Canada,2006,"Speed Skating",0,2,0,2
+"Clara Hughes",33,Canada,2006,"Speed Skating",1,1,0,2
+"Sven Kramer",19,Netherlands,2006,"Speed Skating",0,1,1,2
+"Claudia Pechstein",33,Germany,2006,"Speed Skating",1,1,0,2
+"Carl Verheijen",30,Netherlands,2006,"Speed Skating",0,0,2,2
+"Erben Wennemars",30,Netherlands,2006,"Speed Skating",0,0,2,2
+"Ireen Wüst",19,Netherlands,2006,"Speed Skating",1,0,1,2
+"Matti Hautamäki",24,Finland,2006,"Ski Jumping",0,2,0,2
+"Andreas Kofler",21,Austria,2006,"Ski Jumping",1,1,0,2
+"Roar Ljøkelsøy",29,Norway,2006,"Ski Jumping",0,0,2,2
+"Thomas Morgenstern",19,Austria,2006,"Ski Jumping",2,0,0,2
+"Magnus Moan",22,Norway,2006,"Nordic Combined",0,1,1,2
+"Tobias Angerer",28,Germany,2006,"Cross Country Skiing",0,1,1,2
+"Yuliya Chepalova",29,Russia,2006,"Cross Country Skiing",1,1,0,2
+"Yevgeny Dementyev",23,Russia,2006,"Cross Country Skiing",1,1,0,2
+"Giorgio Di Centa",33,Italy,2006,"Cross Country Skiing",2,0,0,2
+"Thobias Fredriksson",30,Sweden,2006,"Cross Country Skiing",1,0,1,2
+"Claudia Künzel-Nystad",28,Germany,2006,"Cross Country Skiing",0,2,0,2
+"Björn Lind",27,Sweden,2006,"Cross Country Skiing",2,0,0,2
+"Yevgeniya Medvedeva",29,Russia,2006,"Cross Country Skiing",1,0,1,2
+"Katerina Neumannová",32,"Czech Republic",2006,"Cross Country Skiing",1,1,0,2
+"Pietro Piller Cottrer",31,Italy,2006,"Cross Country Skiing",1,0,1,2
+"Kristina Šmigun-Vähi",28,Estonia,2006,"Cross Country Skiing",2,0,0,2
+"Martin Annen",32,Switzerland,2006,Bobsleigh,0,0,2,2
+"Beat Hefti",28,Switzerland,2006,Bobsleigh,0,0,2,2
+"Kevin Kuske",27,Germany,2006,Bobsleigh,2,0,0,2
+"André Lange",32,Germany,2006,Bobsleigh,2,0,0,2
+"Florence Baverel-Robert",31,France,2006,Biathlon,1,0,1,2
+"Vincent Defrasne",28,France,2006,Biathlon,1,0,1,2
+"Halvard Hanevold",36,Norway,2006,Biathlon,0,1,1,2
+"Svetlana Ishmuratova",33,Russia,2006,Biathlon,2,0,0,2
+"Anna-Carin Olofsson-Zidek",32,Sweden,2006,Biathlon,1,1,0,2
+"Michaela Dorfmeister",32,Austria,2006,"Alpine Skiing",2,0,0,2
+"Janica Kostelic",24,Croatia,2006,"Alpine Skiing",1,1,0,2
+"Hermann Maier",33,Austria,2006,"Alpine Skiing",0,1,1,2
+"Benjamin Raich",27,Austria,2006,"Alpine Skiing",2,0,0,2
+"Marlies Schild",24,Austria,2006,"Alpine Skiing",0,1,1,2
+"Rainer Schönfelder",28,Austria,2006,"Alpine Skiing",0,0,2,2
+"Éric Bédard",29,Canada,2006,"Short-Track Speed Skating",0,1,0,1
+"Byeon Cheon-Sa",18,"South Korea",2006,"Short-Track Speed Skating",1,0,0,1
+"Marta Capurso",25,Italy,2006,"Short-Track Speed Skating",0,0,1,1
+"Arianna Fontana",15,Italy,2006,"Short-Track Speed Skating",0,0,1,1
+"Gang Yun-Mi",18,"South Korea",2006,"Short-Track Speed Skating",1,0,0,1
+"Jonathan Guilmette",27,Canada,2006,"Short-Track Speed Skating",0,1,0,1
+"Charles Hamelin",21,Canada,2006,"Short-Track Speed Skating",0,1,0,1
+"Alex Izykowski",22,"United States",2006,"Short-Track Speed Skating",0,0,1,1
+"Jeon Da-Hye",22,"South Korea",2006,"Short-Track Speed Skating",1,0,0,1
+"J. P. Kepka",21,"United States",2006,"Short-Track Speed Skating",0,0,1,1
+"Alanna Kraus",28,Canada,2006,"Short-Track Speed Skating",0,1,0,1
+"Li Jiajun",30,China,2006,"Short-Track Speed Skating",0,0,1,1
+"O Se-Jong",23,"South Korea",2006,"Short-Track Speed Skating",1,0,0,1
+"Amanda Overland",24,Canada,2006,"Short-Track Speed Skating",0,1,0,1
+"Evgeniya Radanova",28,Bulgaria,2006,"Short-Track Speed Skating",0,1,0,1
+"Kalyna Roberge",19,Canada,2006,"Short-Track Speed Skating",0,1,0,1
+"Seo Ho-Jin",22,"South Korea",2006,"Short-Track Speed Skating",1,0,0,1
+"Rusty Smith",26,"United States",2006,"Short-Track Speed Skating",0,0,1,1
+"Song Seog-U",22,"South Korea",2006,"Short-Track Speed Skating",1,0,0,1
+"Mathieu Turcotte",29,Canada,2006,"Short-Track Speed Skating",0,1,0,1
+"Tania Vicent",30,Canada,2006,"Short-Track Speed Skating",0,1,0,1
+"Yang Yang (A)",29,China,2006,"Short-Track Speed Skating",0,0,1,1
+"Katia Zini",24,Italy,2006,"Short-Track Speed Skating",0,0,1,1
+"Mara Zini",26,Italy,2006,"Short-Track Speed Skating",0,0,1,1
+"Yekaterina Abramova",23,Russia,2006,"Speed Skating",0,0,1,1
+"Matteo Anesi",21,Italy,2006,"Speed Skating",1,0,0,1
+"Daniela Anschütz-Thoms",31,Germany,2006,"Speed Skating",1,0,0,1
+"Varvara Barysheva",28,Russia,2006,"Speed Skating",0,0,1,1
+"Svetlana Boyarkina-Zhurova",34,Russia,2006,"Speed Skating",1,0,0,1
+"Arne Dankers",25,Canada,2006,"Speed Skating",0,1,0,1
+"Bob de Jong",29,Netherlands,2006,"Speed Skating",1,0,0,1
+"Stefano Donagrandi",29,Italy,2006,"Speed Skating",1,0,0,1
+"Dmitry Dorofeyev",29,Russia,2006,"Speed Skating",0,1,0,1
+"Steven Elm",30,Canada,2006,"Speed Skating",0,1,0,1
+"Renate Groenewold",29,Netherlands,2006,"Speed Skating",0,1,0,1
+"Lee Gang-Seok",20,"South Korea",2006,"Speed Skating",0,0,1,1
+"Galina Likhachova",28,Russia,2006,"Speed Skating",0,0,1,1
+"Yekaterina Lobysheva",20,Russia,2006,"Speed Skating",0,0,1,1
+"Denny Morrison",20,Canada,2006,"Speed Skating",0,1,0,1
+"Christine Nesbitt",20,Canada,2006,"Speed Skating",0,1,0,1
+"Lucille Opitz",28,Germany,2006,"Speed Skating",1,0,0,1
+"Jason Parker",30,Canada,2006,"Speed Skating",0,1,0,1
+"Shannon Rempel",21,Canada,2006,"Speed Skating",0,1,0,1
+"Ren Hui",22,China,2006,"Speed Skating",0,0,1,1
+"Rintje Ritsma",35,Netherlands,2006,"Speed Skating",0,0,1,1
+"Ippolito Sanfratello",32,Italy,2006,"Speed Skating",1,0,0,1
+"Marianne Timmer",31,Netherlands,2006,"Speed Skating",1,0,0,1
+"Mark Tuitert",25,Netherlands,2006,"Speed Skating",0,0,1,1
+"Sabine Völker",32,Germany,2006,"Speed Skating",1,0,0,1
+"Svetlana Vysokova",33,Russia,2006,"Speed Skating",0,0,1,1
+"Wang Manli",32,China,2006,"Speed Skating",0,1,0,1
+"Justin Warsylewicz",20,Canada,2006,"Speed Skating",0,1,0,1
+"Gretchen Bleiler",24,"United States",2006,Snowboarding,0,1,0,1
+"Kjersti Buaas",24,Norway,2006,Snowboarding,0,0,1,1
+"Paul-Henri De Le Rue",21,France,2006,Snowboarding,0,0,1,1
+"Rosey Fletcher",30,"United States",2006,Snowboarding,0,0,1,1
+"Tanja Frieden",30,Switzerland,2006,Snowboarding,1,0,0,1
+"Sigi Grabner",31,Austria,2006,Snowboarding,0,0,1,1
+"Lindsey Jacobellis",20,"United States",2006,Snowboarding,0,1,0,1
+"Danny Kass",23,"United States",2006,Snowboarding,0,1,0,1
+"Amelie Kober",18,Germany,2006,Snowboarding,0,1,0,1
+"Markku Koski",24,Finland,2006,Snowboarding,0,0,1,1
+"Dominique Maltais",25,Canada,2006,Snowboarding,0,0,1,1
+"Daniela Meuli",24,Switzerland,2006,Snowboarding,1,0,0,1
+"Philipp Schoch",26,Switzerland,2006,Snowboarding,1,0,0,1
+"Simon Schoch",27,Switzerland,2006,Snowboarding,0,1,0,1
+"Hannah Teter",19,"United States",2006,Snowboarding,1,0,0,1
+"Seth Wescott",29,"United States",2006,Snowboarding,1,0,0,1
+"Shaun White",19,"United States",2006,Snowboarding,1,0,0,1
+"Radoslav Židek",24,Slovakia,2006,Snowboarding,0,1,0,1
+"Janne Ahonen",28,Finland,2006,"Ski Jumping",0,1,0,1
+"Janne Happonen",21,Finland,2006,"Ski Jumping",0,1,0,1
+"Tommy Ingebrigtsen",28,Norway,2006,"Ski Jumping",0,0,1,1
+"Tami Kiuru",29,Finland,2006,"Ski Jumping",0,1,0,1
+"Martin Koch",24,Austria,2006,"Ski Jumping",1,0,0,1
+"Bjørn Einar Romøren",24,Norway,2006,"Ski Jumping",0,0,1,1
+"Andreas Widhölzl",29,Austria,2006,"Ski Jumping",1,0,0,1
+"Duff Gibson",39,Canada,2006,Skeleton,1,0,0,1
+"Mellisa Hollingsworth-Richards",25,Canada,2006,Skeleton,0,0,1,1
+"Jeff Pain",35,Canada,2006,Skeleton,0,1,0,1
+"Maya Pedersen",33,Switzerland,2006,Skeleton,1,0,0,1
+"Shelley Rudman",24,"Great Britain",2006,Skeleton,0,1,0,1
+"Gregor Stähli",37,Switzerland,2006,Skeleton,0,0,1,1
+"Ronny Ackermann",28,Germany,2006,"Nordic Combined",0,1,0,1
+"Christoph Bieler",28,Austria,2006,"Nordic Combined",1,0,0,1
+"Jens Gaiser",27,Germany,2006,"Nordic Combined",0,1,0,1
+"Michael Gruber",26,Austria,2006,"Nordic Combined",1,0,0,1
+"Björn Kircheisen",22,Germany,2006,"Nordic Combined",0,1,0,1
+"Anssi Koivuranta",17,Finland,2006,"Nordic Combined",0,0,1,1
+"Antti Kuisma",27,Finland,2006,"Nordic Combined",0,0,1,1
+"Hannu Manninen",27,Finland,2006,"Nordic Combined",0,0,1,1
+"Mario Stecher",28,Austria,2006,"Nordic Combined",1,0,0,1
+"Jaakko Tallus",24,Finland,2006,"Nordic Combined",0,0,1,1
+"Albert Demchenko",34,Russia,2006,Luge,0,1,0,1
+"André Florschütz",29,Germany,2006,Luge,0,1,0,1
+"Oswald Haselrieder",34,Italy,2006,Luge,0,0,1,1
+"Tatjana Hüfner",22,Germany,2006,Luge,0,0,1,1
+"Silke Kraushaar",35,Germany,2006,Luge,0,1,0,1
+"Andreas Linger",24,Austria,2006,Luge,1,0,0,1
+"Wolfgang Linger",23,Austria,2006,Luge,1,0,0,1
+"Sylke Otto",36,Germany,2006,Luge,1,0,0,1
+"Gerhard Plankensteiner",34,Italy,2006,Luge,0,0,1,1
+"Martinš Rubenis",27,Latvia,2006,Luge,0,0,1,1
+"Torsten Wustlich",29,Germany,2006,Luge,0,1,0,1
+"Armin Zöggeler",32,Italy,2006,Luge,1,0,0,1
+"Meghan Agosta",18,Canada,2006,"Ice Hockey",1,0,0,1
+"Daniel Alfredsson",33,Sweden,2006,"Ice Hockey",1,0,0,1
+"Cecilia Andersson",23,Sweden,2006,"Ice Hockey",0,1,0,1
+"Gunilla Andersson",30,Sweden,2006,"Ice Hockey",0,1,0,1
+"Gillian Apps",22,Canada,2006,"Ice Hockey",1,0,0,1
+"Jenni Asserholt",17,Sweden,2006,"Ice Hockey",0,1,0,1
+"Per-Johan Axelsson",30,Sweden,2006,"Ice Hockey",1,0,0,1
+"Christian Bäckman",25,Sweden,2006,"Ice Hockey",1,0,0,1
+"Aki Berg",28,Finland,2006,"Ice Hockey",0,1,0,1
+"Jennifer Botterill",26,Canada,2006,"Ice Hockey",1,0,0,1
+"Jan Bulis",27,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Caitlin Cahow",20,"United States",2006,"Ice Hockey",0,0,1,1
+"Petr Cajánek",30,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Cassie Campbell",32,Canada,2006,"Ice Hockey",1,0,0,1
+"Julie Chu",23,"United States",2006,"Ice Hockey",0,0,1,1
+"Natalie Darwitz",22,"United States",2006,"Ice Hockey",0,0,1,1
+"Pam Dreyer",24,"United States",2006,"Ice Hockey",0,0,1,1
+"Tricia Dunn-Luoma",31,"United States",2006,"Ice Hockey",0,0,1,1
+"Ann-Louise Edstrand",30,Sweden,2006,"Ice Hockey",0,1,0,1
+"Joa Elfsberg",26,Sweden,2006,"Ice Hockey",0,1,0,1
+"Patrik Eliáš",29,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Emma Eliasson",16,Sweden,2006,"Ice Hockey",0,1,0,1
+"Molly Engstrom",22,"United States",2006,"Ice Hockey",0,0,1,1
+"Martin Erat",24,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Gillian Ferrari",25,Canada,2006,"Ice Hockey",1,0,0,1
+"Peter Forsberg",32,Sweden,2006,"Ice Hockey",1,0,0,1
+"Danielle Goyette",40,Canada,2006,"Ice Hockey",1,0,0,1
+"Chanda Gunn",26,"United States",2006,"Ice Hockey",0,0,1,1
+"Jamie Hagerman",24,"United States",2006,"Ice Hockey",0,0,1,1
+"Niklas Hagman",26,Finland,2006,"Ice Hockey",0,1,0,1
+"Mika Hannula",26,Sweden,2006,"Ice Hockey",1,0,0,1
+"Dominik Hašek",41,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Niclas Hävelid",32,Sweden,2006,"Ice Hockey",1,0,0,1
+"Jayna Hefford",28,Canada,2006,"Ice Hockey",1,0,0,1
+"Milan Hejduk",30,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Aleš Hemský",22,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Jukka Hentunen",31,Finland,2006,"Ice Hockey",0,1,0,1
+"Milan Hnilicka",32,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Tomas Holmström",33,Sweden,2006,"Ice Hockey",1,0,0,1
+"Erika Holst",26,Sweden,2006,"Ice Hockey",0,1,0,1
+"Kim Insalaco",25,"United States",2006,"Ice Hockey",0,0,1,1
+"Jaromír Jágr",34,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Nanna Jansson",22,Sweden,2006,"Ice Hockey",0,1,0,1
+"Jussi Jokinen",22,Finland,2006,"Ice Hockey",0,1,0,1
+"Olli Jokinen",27,Finland,2006,"Ice Hockey",0,1,0,1
+"Jörgen Jönsson",33,Sweden,2006,"Ice Hockey",1,0,0,1
+"Kenny Jönsson",31,Sweden,2006,"Ice Hockey",1,0,0,1
+"František Kaberle",32,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Tomáš Kaberle",27,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Niko Kapanen",27,Finland,2006,"Ice Hockey",0,1,0,1
+"Kathleen Kauth",26,"United States",2006,"Ice Hockey",0,0,1,1
+"Becky Kellar",31,Canada,2006,"Ice Hockey",1,0,0,1
+"Courtney Kennedy",26,"United States",2006,"Ice Hockey",0,0,1,1
+"Katie King",30,"United States",2006,"Ice Hockey",0,0,1,1
+"Kristin King",26,"United States",2006,"Ice Hockey",0,0,1,1
+"Gina Kingsbury",24,Canada,2006,"Ice Hockey",1,0,0,1
+"Mikko Koivu",22,Finland,2006,"Ice Hockey",0,1,0,1
+"Saku Koivu",31,Finland,2006,"Ice Hockey",0,1,0,1
+"Aleš Kotalík",27,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Niklas Kronwall",25,Sweden,2006,"Ice Hockey",1,0,0,1
+"Filip Kuba",29,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Pavel Kubina",28,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Lasse Kukkonen",24,Finland,2006,"Ice Hockey",0,1,0,1
+"Antti Laaksonen",32,Finland,2006,"Ice Hockey",0,1,0,1
+"Charlie Labonté",23,Canada,2006,"Ice Hockey",1,0,0,1
+"Robert Lang",35,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Jere Lehtinen",32,Finland,2006,"Ice Hockey",0,1,0,1
+"Nicklas Lidström",35,Sweden,2006,"Ice Hockey",1,0,0,1
+"Ylva Lindberg",29,Sweden,2006,"Ice Hockey",0,1,0,1
+"Jenny Lindqvist",27,Sweden,2006,"Ice Hockey",0,1,0,1
+"Stefan Liv",25,Sweden,2006,"Ice Hockey",1,0,0,1
+"Kristina Lundberg",20,Sweden,2006,"Ice Hockey",0,1,0,1
+"Henrik Lundqvist",23,Sweden,2006,"Ice Hockey",1,0,0,1
+"Toni Lydman",28,Finland,2006,"Ice Hockey",0,1,0,1
+"Carla MacLeod",23,Canada,2006,"Ice Hockey",1,0,0,1
+"Marek Malík",30,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Kim Martin",19,Sweden,2006,"Ice Hockey",0,1,0,1
+"Fredrik Modin",31,Sweden,2006,"Ice Hockey",1,0,0,1
+"Frida Nevalainen",19,Sweden,2006,"Ice Hockey",0,1,0,1
+"Antti-Jussi Niemi",28,Finland,2006,"Ice Hockey",0,1,0,1
+"Ville Nieminen",28,Finland,2006,"Ice Hockey",0,1,0,1
+"Antero Niittymäki",25,Finland,2006,"Ice Hockey",0,1,0,1
+"Fredrik Norrena",32,Finland,2006,"Ice Hockey",0,1,0,1
+"Petteri Nummelin",33,Finland,2006,"Ice Hockey",0,1,0,1
+"Teppo Numminen",37,Finland,2006,"Ice Hockey",0,1,0,1
+"Emilie O'Konor",22,Sweden,2006,"Ice Hockey",0,1,0,1
+"Mattias Öhlund",29,Sweden,2006,"Ice Hockey",1,0,0,1
+"Rostislav Olesz",20,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Caroline Ouellette",26,Canada,2006,"Ice Hockey",1,0,0,1
+"Samuel Påhlsson",28,Sweden,2006,"Ice Hockey",1,0,0,1
+"Sarah Parsons",18,"United States",2006,"Ice Hockey",0,0,1,1
+"Ville Peltonen",32,Finland,2006,"Ice Hockey",0,1,0,1
+"Cherie Piper",24,Canada,2006,"Ice Hockey",1,0,0,1
+"Cheryl Pounder",29,Canada,2006,"Ice Hockey",1,0,0,1
+"Václav Prospal",30,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Helen Resor",20,"United States",2006,"Ice Hockey",0,0,1,1
+"Maria Rooth",26,Sweden,2006,"Ice Hockey",0,1,0,1
+"Martin Rucinský",34,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Angela Ruggiero",26,"United States",2006,"Ice Hockey",0,0,1,1
+"Danijela Rundqvist",21,Sweden,2006,"Ice Hockey",0,1,0,1
+"Jarkko Ruutu",30,Finland,2006,"Ice Hockey",0,1,0,1
+"Sami Salo",31,Finland,2006,"Ice Hockey",0,1,0,1
+"Mikael Samuelsson",29,Sweden,2006,"Ice Hockey",1,0,0,1
+"Jenny Schmidgall-Potter",27,"United States",2006,"Ice Hockey",0,0,1,1
+"Daniel Sedin",25,Sweden,2006,"Ice Hockey",1,0,0,1
+"Henrik Sedin",25,Sweden,2006,"Ice Hockey",1,0,0,1
+"Teemu Selänne",35,Finland,2006,"Ice Hockey",0,1,0,1
+"Therese Sjölander",24,Sweden,2006,"Ice Hockey",0,1,0,1
+"Colleen Sostorics",26,Canada,2006,"Ice Hockey",1,0,0,1
+"Jaroslav Špacek",32,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Kim St-Pierre",27,Canada,2006,"Ice Hockey",1,0,0,1
+"Kelly Stephens",22,"United States",2006,"Ice Hockey",0,0,1,1
+"Martin Straka",33,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Mats Sundin",35,Sweden,2006,"Ice Hockey",1,0,0,1
+"Ronnie Sundin",35,Sweden,2006,"Ice Hockey",1,0,0,1
+"Vicky Sunohara",35,Canada,2006,"Ice Hockey",1,0,0,1
+"Mikael Tellqvist",26,Sweden,2006,"Ice Hockey",1,0,0,1
+"Katarina Timglas",20,Sweden,2006,"Ice Hockey",0,1,0,1
+"Kimmo Timonen",30,Finland,2006,"Ice Hockey",0,1,0,1
+"Daniel Tjärnqvist",29,Sweden,2006,"Ice Hockey",1,0,0,1
+"Sarah Vaillancourt",20,Canada,2006,"Ice Hockey",1,0,0,1
+"Anna Vikman",25,Sweden,2006,"Ice Hockey",0,1,0,1
+"Tomáš Vokoun",29,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"David Výborný",31,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Lyndsay Wall",20,"United States",2006,"Ice Hockey",0,0,1,1
+"Katie Weatherston",22,Canada,2006,"Ice Hockey",1,0,0,1
+"Krissy Wendell",24,"United States",2006,"Ice Hockey",0,0,1,1
+"Hayley Wickenheiser",27,Canada,2006,"Ice Hockey",1,0,0,1
+"Pernilla Winberg",16,Sweden,2006,"Ice Hockey",0,1,0,1
+"Henrik Zetterberg",25,Sweden,2006,"Ice Hockey",1,0,0,1
+"Marek Židlický",29,"Czech Republic",2006,"Ice Hockey",0,0,1,1
+"Ben Agosto",24,"United States",2006,"Figure Skating",0,1,0,1
+"Shizuka Arakawa",24,Japan,2006,"Figure Skating",1,0,0,1
+"Tanith Belbin",21,"United States",2006,"Figure Skating",0,1,0,1
+"Jeff Buttle",23,Canada,2006,"Figure Skating",0,0,1,1
+"Sasha Cohen",21,"United States",2006,"Figure Skating",0,1,0,1
+"Ruslan Honcharov",33,Ukraine,2006,"Figure Skating",0,0,1,1
+"Olena Hrushyna",31,Ukraine,2006,"Figure Skating",0,0,1,1
+"Roman Kostomarov",29,Russia,2006,"Figure Skating",1,0,0,1
+"Stéphane Lambiel",20,Switzerland,2006,"Figure Skating",0,1,0,1
+"Maksim Marinin",28,Russia,2006,"Figure Skating",1,0,0,1
+"Tatyana Navka",30,Russia,2006,"Figure Skating",1,0,0,1
+"Yevgeny Plyushchenko",23,Russia,2006,"Figure Skating",1,0,0,1
+"Shen Xue",27,China,2006,"Figure Skating",0,0,1,1
+"Irina Slutskaya",27,Russia,2006,"Figure Skating",0,0,1,1
+"Tatyana Totmyanina",24,Russia,2006,"Figure Skating",1,0,0,1
+"Zhang Dan",20,China,2006,"Figure Skating",0,1,0,1
+"Zhang Hao",21,China,2006,"Figure Skating",0,1,0,1
+"Zhao Hongbo",32,China,2006,"Figure Skating",0,0,1,1
+"Dale Begg-Smith",21,Australia,2006,"Freestyle Skiing",1,0,0,1
+"Alisa Camplin",31,Australia,2006,"Freestyle Skiing",0,0,1,1
+"Dmitry Dashchinsky",28,Belarus,2006,"Freestyle Skiing",0,1,0,1
+"Toby Dawson",27,"United States",2006,"Freestyle Skiing",0,0,1,1
+"Han Xiaopeng",22,China,2006,"Freestyle Skiing",1,0,0,1
+"Jennifer Heil",22,Canada,2006,"Freestyle Skiing",1,0,0,1
+"Sandra Laoura",25,France,2006,"Freestyle Skiing",0,0,1,1
+"Vladimir Lebedev",21,Russia,2006,"Freestyle Skiing",0,0,1,1
+"Evelyne Leu",29,Switzerland,2006,"Freestyle Skiing",1,0,0,1
+"Li Nina",23,China,2006,"Freestyle Skiing",0,1,0,1
+"Mikko Ronkainen",27,Finland,2006,"Freestyle Skiing",0,1,0,1
+"Kari Traa",32,Norway,2006,"Freestyle Skiing",0,1,0,1
+"Mike Adam",24,Canada,2006,Curling,1,0,0,1
+"Glenys Bakker",43,Canada,2006,Curling,0,0,1,1
+"Binia Beeli",27,Switzerland,2006,Curling,0,1,0,1
+"Pete Fenson",37,"United States",2006,Curling,0,0,1,1
+"Brad Gushue",25,Canada,2006,Curling,1,0,0,1
+"Russ Howard",49,Canada,2006,Curling,1,0,0,1
+"Sandra Jenkins",44,Canada,2006,Curling,0,0,1,1
+"Christine Keshen",28,Canada,2006,Curling,0,0,1,1
+"Kalle Kiiskinen",30,Finland,2006,Curling,0,1,0,1
+"Shannon Kleibrink",37,Canada,2006,Curling,0,0,1,1
+"Jamie Korab",26,Canada,2006,Curling,1,0,0,1
+"Cathrine Lindahl",35,Sweden,2006,Curling,1,0,0,1
+"Eva Lund",34,Sweden,2006,Curling,1,0,0,1
+"Wille Mäkelä",31,Finland,2006,Curling,0,1,0,1
+"Michèle Moser",26,Switzerland,2006,Curling,0,1,0,1
+"Mark Nichols",26,Canada,2006,Curling,1,0,0,1
+"Amy Nixon",28,Canada,2006,Curling,0,0,1,1
+"Anette Norberg",39,Sweden,2006,Curling,1,0,0,1
+"Mirjam Ott",34,Switzerland,2006,Curling,0,1,0,1
+"Joe Polo",23,"United States",2006,Curling,0,0,1,1
+"Shawn Rojeski",34,"United States",2006,Curling,0,0,1,1
+"Teemu Salo",32,Finland,2006,Curling,0,1,0,1
+"John Shuster",23,"United States",2006,Curling,0,0,1,1
+"Valeria Spälty",22,Switzerland,2006,Curling,0,1,0,1
+"Anna Svärd-Le Moine",32,Sweden,2006,Curling,1,0,0,1
+"Markku Uusipaavalniemi",39,Finland,2006,Curling,0,1,0,1
+"Ivan Alypov",23,Russia,2006,"Cross Country Skiing",0,0,1,1
+"Lina Andersson",24,Sweden,2006,"Cross Country Skiing",1,0,0,1
+"Nataliya Baranova",30,Russia,2006,"Cross Country Skiing",1,0,0,1
+"Lukáš Bauer",28,"Czech Republic",2006,"Cross Country Skiing",0,1,0,1
+"Viola Bauer",29,Germany,2006,"Cross Country Skiing",0,1,0,1
+"Marit Bjørgen",25,Norway,2006,"Cross Country Skiing",0,1,0,1
+"Stefanie Böhler",24,Germany,2006,"Cross Country Skiing",0,1,0,1
+"Mikhail Botvinov",38,Austria,2006,"Cross Country Skiing",0,0,1,1
+"Antonella Confortola-Wyatt",30,Italy,2006,"Cross Country Skiing",0,0,1,1
+"Chandra Crawford",22,Canada,2006,"Cross Country Skiing",1,0,0,1
+"Anna Dahlberg-Olsson",29,Sweden,2006,"Cross Country Skiing",1,0,0,1
+"Roddy Darragon",22,France,2006,"Cross Country Skiing",0,1,0,1
+"Frode Estil",33,Norway,2006,"Cross Country Skiing",0,1,0,1
+"Jens Filbrich",26,Germany,2006,"Cross Country Skiing",0,1,0,1
+"Arianna Follis",28,Italy,2006,"Cross Country Skiing",0,0,1,1
+"Mathias Fredriksson",33,Sweden,2006,"Cross Country Skiing",0,0,1,1
+"Tor-Arne Hetland",32,Norway,2006,"Cross Country Skiing",0,1,0,1
+"Justyna Kowalczyk",23,Poland,2006,"Cross Country Skiing",0,0,1,1
+"Virpi Kuitunen",29,Finland,2006,"Cross Country Skiing",0,0,1,1
+"Larisa Kurkina",32,Russia,2006,"Cross Country Skiing",1,0,0,1
+"Mats Larsson",25,Sweden,2006,"Cross Country Skiing",0,0,1,1
+"Johan Olsson",25,Sweden,2006,"Cross Country Skiing",0,0,1,1
+"Gabriella Paruzzi",36,Italy,2006,"Cross Country Skiing",0,0,1,1
+"Hilde Gjermundshaug Pedersen",41,Norway,2006,"Cross Country Skiing",0,0,1,1
+"Sara Renner",29,Canada,2006,"Cross Country Skiing",0,1,0,1
+"Vasily Rochev",25,Russia,2006,"Cross Country Skiing",0,0,1,1
+"Aino-Kaisa Saarinen",27,Finland,2006,"Cross Country Skiing",0,0,1,1
+"Evi Sachenbacher-Stehle",25,Germany,2006,"Cross Country Skiing",0,1,0,1
+"Andreas Schlütter",33,Germany,2006,"Cross Country Skiing",0,1,0,1
+"Beckie Scott",31,Canada,2006,"Cross Country Skiing",0,1,0,1
+"Alyona Sidko",26,Russia,2006,"Cross Country Skiing",0,0,1,1
+"Anders Södergren",28,Sweden,2006,"Cross Country Skiing",0,0,1,1
+"René Sommerfeldt",31,Germany,2006,"Cross Country Skiing",0,1,0,1
+"Jens Arne Svartedal",30,Norway,2006,"Cross Country Skiing",0,1,0,1
+"Fulvio Valbusa",37,Italy,2006,"Cross Country Skiing",1,0,0,1
+"Sabina Valbusa",34,Italy,2006,"Cross Country Skiing",0,0,1,1
+"Andrus Veerpalu",35,Estonia,2006,"Cross Country Skiing",1,0,0,1
+"Cristian Zorzi",33,Italy,2006,"Cross Country Skiing",1,0,0,1
+"Lascelles Brown",31,Canada,2006,Bobsleigh,0,1,0,1
+"Valerie Fleming",29,"United States",2006,Bobsleigh,0,1,0,1
+"Cédric Grand",30,Switzerland,2006,Bobsleigh,0,0,1,1
+"René Hoppe",29,Germany,2006,Bobsleigh,1,0,0,1
+"Jennifer Isacco",28,Italy,2006,Bobsleigh,0,0,1,1
+"Thomas Lamparter",27,Switzerland,2006,Bobsleigh,0,0,1,1
+"Pierre Lueders",35,Canada,2006,Bobsleigh,0,1,0,1
+"Sandra Prokoff-Kiriasis",31,Germany,2006,Bobsleigh,1,0,0,1
+"Martin Putze",21,Germany,2006,Bobsleigh,1,0,0,1
+"Shauna Rohbock",28,"United States",2006,Bobsleigh,0,1,0,1
+"Anja Schneiderheinze",27,Germany,2006,Bobsleigh,1,0,0,1
+"Aleksey Seliverstov",29,Russia,2006,Bobsleigh,0,1,0,1
+"Aleksey Voyevoda",25,Russia,2006,Bobsleigh,0,1,0,1
+"Gerda Weissensteiner",37,Italy,2006,Bobsleigh,0,0,1,1
+"Filipp Yegorov",27,Russia,2006,Bobsleigh,0,1,0,1
+"Aleksandr Zubkov",31,Russia,2006,Bobsleigh,0,1,0,1
+"Frode Andresen",32,Norway,2006,Biathlon,0,0,1,1
+"Katrin Apel",32,Germany,2006,Biathlon,0,1,0,1
+"Sandrine Bailly",26,France,2006,Biathlon,0,0,1,1
+"Sylvie Becaert",30,France,2006,Biathlon,0,0,1,1
+"Anna Bogaly-Titovets",26,Russia,2006,Biathlon,1,0,0,1
+"Ferréol Cannard",27,France,2006,Biathlon,0,0,1,1
+"Sergey Chepikov",39,Russia,2006,Biathlon,0,1,0,1
+"Ivan Cherezov",25,Russia,2006,Biathlon,0,1,0,1
+"Uschi Disl",35,Germany,2006,Biathlon,0,0,1,1
+"Ricco Groß",35,Germany,2006,Biathlon,1,0,0,1
+"Andrea Henkel",28,Germany,2006,Biathlon,0,1,0,1
+"Nikolay Kruglov",24,Russia,2006,Biathlon,0,1,0,1
+"Delphine Peretto",24,France,2006,Biathlon,0,0,1,1
+"Raphaël Poirée",31,France,2006,Biathlon,0,0,1,1
+"Julien Robert",31,France,2006,Biathlon,0,0,1,1
+"Michael Rösch",22,Germany,2006,Biathlon,1,0,0,1
+"Pavel Rostovtsev",34,Russia,2006,Biathlon,0,1,0,1
+"Tomasz Sikora",32,Poland,2006,Biathlon,0,1,0,1
+"Liliya Yefremova",28,Ukraine,2006,Biathlon,0,0,1,1
+"Olga Zaytseva",27,Russia,2006,Biathlon,1,0,0,1
+"Kjetil André Aamodt",34,Norway,2006,"Alpine Skiing",1,0,0,1
+"Joël Chenal",32,France,2006,"Alpine Skiing",0,1,0,1
+"Antoine Dénériaz",29,France,2006,"Alpine Skiing",1,0,0,1
+"Reinfried Herbst",27,Austria,2006,"Alpine Skiing",0,1,0,1
+"Ambrosi Hoffmann",28,Switzerland,2006,"Alpine Skiing",0,0,1,1
+"Nicole Hosp",22,Austria,2006,"Alpine Skiing",0,1,0,1
+"Bruno Kernen",33,Switzerland,2006,"Alpine Skiing",0,0,1,1
+"Ivica Kostelic",26,Croatia,2006,"Alpine Skiing",0,1,0,1
+"Ted Ligety",21,"United States",2006,"Alpine Skiing",1,0,0,1
+"Julia Mancuso",21,"United States",2006,"Alpine Skiing",1,0,0,1
+"Alexandra Meissnitzer",32,Austria,2006,"Alpine Skiing",0,0,1,1
+"Anna Ottosson",29,Sweden,2006,"Alpine Skiing",0,0,1,1
+"Tanja Poutiainen",25,Finland,2006,"Alpine Skiing",0,1,0,1
+"Martina Schild",24,Switzerland,2006,"Alpine Skiing",0,1,0,1
+"Michael Walchhofer",30,Austria,2006,"Alpine Skiing",0,1,0,1

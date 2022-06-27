@@ -1,0 +1,1777 @@
+athlete,age,country,year,sport,"Gold Medals","Silver Medals","Bronze Medals","Total Medals"
+"Michael Phelps",27,"United States",2012,Swimming,4,2,0,6
+"Alicia Coutts",24,Australia,2012,Swimming,1,3,1,5
+"Missy Franklin",17,"United States",2012,Swimming,4,0,1,5
+"Ryan Lochte",27,"United States",2012,Swimming,2,2,1,5
+"Allison Schmitt",22,"United States",2012,Swimming,3,1,1,5
+"Sun Yang",20,China,2012,Swimming,2,1,1,4
+"Aliya Mustafina",17,Russia,2012,Gymnastics,1,1,2,4
+"Nathan Adrian",23,"United States",2012,Swimming,2,1,0,3
+"Yannick Agnel",20,France,2012,Swimming,2,1,0,3
+"Brittany Elmslie",18,Australia,2012,Swimming,1,2,0,3
+"Matt Grevers",27,"United States",2012,Swimming,2,1,0,3
+"Ryosuke Irie",22,Japan,2012,Swimming,0,2,1,3
+"Cullen Jones",28,"United States",2012,Swimming,1,2,0,3
+"Ranomi Kromowidjojo",21,Netherlands,2012,Swimming,2,1,0,3
+"Camille Muffat",22,France,2012,Swimming,1,1,1,3
+"Mel Schlanger",25,Australia,2012,Swimming,1,2,0,3
+"Emily Seebohm",20,Australia,2012,Swimming,1,2,0,3
+"Rebecca Soni",25,"United States",2012,Swimming,2,1,0,3
+"Satomi Suzuki",21,Japan,2012,Swimming,0,1,2,3
+"Dana Vollmer",24,"United States",2012,Swimming,3,0,0,3
+"Aly Raisman",18,"United States",2012,Gymnastics,2,0,1,3
+"Kohei Uchimura",23,Japan,2012,Gymnastics,1,2,0,3
+"Zou Kai",24,China,2012,Gymnastics,2,0,1,3
+"Guo Shuang",26,China,2012,Cycling,0,2,1,3
+"Yohan Blake",22,Jamaica,2012,Athletics,1,2,0,3
+"Usain Bolt",25,Jamaica,2012,Athletics,3,0,0,3
+"Allyson Felix",26,"United States",2012,Athletics,3,0,0,3
+"Shelly-Ann Fraser-Pryce",25,Jamaica,2012,Athletics,1,2,0,3
+"Carmelita Jeter",32,"United States",2012,Athletics,1,1,1,3
+"Ding Ning",22,China,2012,"Table Tennis",1,1,0,2
+"Feng Tian Wei",25,Singapore,2012,"Table Tennis",0,0,2,2
+"Li Xiaoxia",24,China,2012,"Table Tennis",2,0,0,2
+"Dmitrij Ovtcharov",23,Germany,2012,"Table Tennis",0,0,2,2
+"Wang Hao",28,China,2012,"Table Tennis",1,1,0,2
+"Zhang Jike",24,China,2012,"Table Tennis",2,0,0,2
+"Viktoriya Azarenko",22,Belarus,2012,Tennis,1,0,1,2
+"Mike Bryan",34,"United States",2012,Tennis,1,0,1,2
+"Andy Murray",25,"Great Britain",2012,Tennis,1,1,0,2
+"Serena Williams",30,"United States",2012,Tennis,2,0,0,2
+"Ona Carbonell",22,Spain,2012,"Synchronized Swimming",0,1,1,2
+"Andrea Fuentes",29,Spain,2012,"Synchronized Swimming",0,1,1,2
+"Huang Xuechen",22,China,2012,"Synchronized Swimming",0,1,1,2
+"Nataliya Ishchenko",26,Russia,2012,"Synchronized Swimming",2,0,0,2
+"Liu Ou",25,China,2012,"Synchronized Swimming",0,1,1,2
+"Svetlana Romashina",22,Russia,2012,"Synchronized Swimming",2,0,0,2
+"Becky Adlington",23,"Great Britain",2012,Swimming,0,0,2,2
+"Bronte Barratt",23,Australia,2012,Swimming,0,1,1,2
+"Elizabeth Beisel",19,"United States",2012,Swimming,0,1,1,2
+"Mireia Belmonte",21,Spain,2012,Swimming,0,2,0,2
+"Ricky Berens",24,"United States",2012,Swimming,1,1,0,2
+"Aleksandra Gerasimenya",26,Belarus,2012,Swimming,0,2,0,2
+"Brendan Hansen",30,"United States",2012,Swimming,1,0,1,2
+"Jessica Hardy",25,"United States",2012,Swimming,1,0,1,2
+"Chad le Clos",20,"South Africa",2012,Swimming,1,1,0,2
+"Clément Lefert",24,France,2012,Swimming,1,1,0,2
+"Amaury Leveaux",26,France,2012,Swimming,1,1,0,2
+"James Magnussen",21,Australia,2012,Swimming,0,1,1,2
+"Takeshi Matsuda",28,Japan,2012,Swimming,0,1,1,2
+"Oussama Mellouli",28,Tunisia,2012,Swimming,1,0,1,2
+"Park Tae-Hwan",22,"South Korea",2012,Swimming,0,2,0,2
+"Christian Sprenger",26,Australia,2012,Swimming,0,1,1,2
+"Jeremy Stravius",24,France,2012,Swimming,1,1,0,2
+"Aya Terakawa",27,Japan,2012,Swimming,0,0,2,2
+"Nick Thoman",26,"United States",2012,Swimming,1,1,0,2
+"Marleen Veldhuis",33,Netherlands,2012,Swimming,0,1,1,2
+"Ye Shiwen",16,China,2012,Swimming,2,0,0,2
+"Niccolò Campriani",24,Italy,2012,Shooting,1,1,0,2
+"Jin Jong-O",32,"South Korea",2012,Shooting,2,0,0,2
+"Olena Kostevych",27,Ukraine,2012,Shooting,0,0,2,2
+"Kim Crow",26,Australia,2012,Rowing,0,1,1,2
+"Denis Ablyazin",19,Russia,2012,Gymnastics,0,1,1,2
+"Chen Yibing",27,China,2012,Gymnastics,1,1,0,2
+"Gabby Douglas",16,"United States",2012,Gymnastics,2,0,0,2
+"Feng Zhe",24,China,2012,Gymnastics,2,0,0,2
+"Sandra Izbasa",22,Romania,2012,Gymnastics,1,0,1,2
+"Viktoriya Komova",17,Russia,2012,Gymnastics,0,2,0,2
+"McKayla Maroney",16,"United States",2012,Gymnastics,1,1,0,2
+"Marcel Nguyen",24,Germany,2012,Gymnastics,0,2,0,2
+"Mariya Paseka",17,Russia,2012,Gymnastics,0,1,1,2
+"Catalina Ponor",24,Romania,2012,Gymnastics,0,1,1,2
+"Louis Smith",23,"Great Britain",2012,Gymnastics,0,1,1,2
+"Max Whitlock",19,"Great Britain",2012,Gymnastics,0,0,2,2
+"Elisa Di Francisca",29,Italy,2012,Fencing,2,0,0,2
+"Arianna Errigo",24,Italy,2012,Fencing,1,1,0,2
+"Diego Occhiuzzi",31,Italy,2012,Fencing,0,1,1,2
+"Sun Yujie",19,China,2012,Fencing,1,0,1,2
+"Valentina Vezzali",38,Italy,2012,Fencing,1,0,1,2
+"Sandra Auffarth",25,Germany,2012,Equestrian,1,0,1,2
+"Laura Bechtolsheimer",27,"Great Britain",2012,Equestrian,1,0,1,2
+"Adelinde Cornelissen",33,Netherlands,2012,Equestrian,0,1,1,2
+"Charlotte Dujardin",27,"Great Britain",2012,Equestrian,2,0,0,2
+"Michael Jung",29,Germany,2012,Equestrian,2,0,0,2
+"Gerco Schröder",34,Netherlands,2012,Equestrian,0,2,0,2
+"David Boudia",23,"United States",2012,Diving,1,0,1,2
+"Chen Ruolin",19,China,2012,Diving,2,0,0,2
+"He Zi",21,China,2012,Diving,1,1,0,2
+"Qin Kai",26,China,2012,Diving,1,1,0,2
+"Wu Minxia",26,China,2012,Diving,2,0,0,2
+"Ilya Zakharov",21,Russia,2012,Diving,1,1,0,2
+"Grégory Baugé",27,France,2012,Cycling,0,2,0,2
+"Ed Clancy",27,"Great Britain",2012,Cycling,1,0,1,2
+"Sarah Hammer",28,"United States",2012,Cycling,0,2,0,2
+"Chris Hoy",36,"Great Britain",2012,Cycling,2,0,0,2
+"Jason Kenny",24,"Great Britain",2012,Cycling,2,0,0,2
+"Maximilian Levy",25,Germany,2012,Cycling,0,1,1,2
+"Anna Meares",28,Australia,2012,Cycling,1,0,1,2
+"Vicki Pendleton",31,"Great Britain",2012,Cycling,1,1,0,2
+"Laura Trott",20,"Great Britain",2012,Cycling,2,0,0,2
+"Olga Zabelinskaya",32,Russia,2012,Cycling,0,0,2,2
+"Tina Dietze",24,Germany,2012,Canoeing,1,1,0,2
+"Natasa Douchev-Janics",30,Hungary,2012,Canoeing,0,1,1,2
+"Katalin Kovács",36,Hungary,2012,Canoeing,1,1,0,2
+"Danuta Kozák",25,Hungary,2012,Canoeing,2,0,0,2
+"Inna Osypenko-Radomska",29,Ukraine,2012,Canoeing,0,2,0,2
+"Franziska Weber",23,Germany,2012,Canoeing,1,1,0,2
+"Zhao Yunlei",25,China,2012,Badminton,2,0,0,2
+"Nataliya Antyukh",31,Russia,2012,Athletics,1,1,0,2
+"Veronica Campbell-Brown",30,Jamaica,2012,Athletics,0,1,1,2
+"Vivian Cheruiyot",28,Kenya,2012,Athletics,0,1,1,2
+"Will Claye",21,"United States",2012,Athletics,0,1,1,2
+"Tirunesh Dibaba",27,Ethiopia,2012,Athletics,1,0,1,2
+"Mo Farah",29,"Great Britain",2012,Athletics,2,0,0,2
+"Justin Gatlin",30,"United States",2012,Athletics,0,1,1,2
+"Lalonde Gordon",23,"Trinidad and Tobago",2012,Athletics,0,0,2,2
+"Sanya Richards-Ross",27,"United States",2012,Athletics,2,0,0,2
+"DeeDee Trotter",29,"United States",2012,Athletics,1,0,1,2
+"Ki Bo-Bae",24,"South Korea",2012,Archery,2,0,0,2
+"Oh Jin-Hyek",30,"South Korea",2012,Archery,1,0,1,2
+"Artur Aleksanyan",20,Armenia,2012,Wrestling,0,0,1,1
+"Valeriy Andriitsev",25,Ukraine,2012,Wrestling,0,1,0,1
+"Rövs?n Bayramov",25,Azerbaijan,2012,Wrestling,0,1,0,1
+"Jordan Burroughs",24,"United States",2012,Wrestling,1,0,0,1
+"Clarissa Chun",30,"United States",2012,Wrestling,0,0,1,1
+"Yogeshwar Dutt",29,India,2012,Wrestling,0,0,1,1
+"Jaime Espinal",27,"Puerto Rico",2012,Wrestling,0,1,0,1
+"Johan Eurén",27,Sweden,2012,Wrestling,0,0,1,1
+"Karam Gaber",32,Egypt,2012,Wrestling,0,1,0,1
+"Daniyal Gadzhiyev",26,Kazakhstan,2012,Wrestling,0,0,1,1
+"Komeil Ghasemi",24,Iran,2012,Wrestling,0,0,1,1
+"Giorgi Gogshelidze",32,Georgia,2012,Wrestling,0,0,1,1
+"Sadegh Goudarzi",24,Iran,2012,Wrestling,0,1,0,1
+"Steeve Guénot",26,France,2012,Wrestling,0,0,1,1
+"Carol Huynh",31,Canada,2012,Wrestling,0,0,1,1
+"Kaori Icho",28,Japan,2012,Wrestling,1,0,0,1
+"Damian Janikowski",23,Poland,2012,Wrestling,0,0,1,1
+"Jing Ruixue",24,China,2012,Wrestling,0,1,0,1
+"Arsen Julfalakyan",25,Armenia,2012,Wrestling,0,1,0,1
+"Riza Kayaalp",22,Turkey,2012,Wrestling,0,0,1,1
+"Aleksandras Kazakevicius",26,Lithuania,2012,Wrestling,0,0,1,1
+"Vladimer Khinchegashvili",21,Georgia,2012,Wrestling,0,1,0,1
+"Alan Khugayev",23,Russia,2012,Wrestling,1,0,0,1
+"Kim Hyeon-Wu",23,"South Korea",2012,Wrestling,1,0,0,1
+"Besik Kudukhov",25,Russia,2012,Wrestling,0,1,0,1
+"Sushil Kumar",29,India,2012,Wrestling,0,1,0,1
+"Zaur Kuramagomedov",24,Russia,2012,Wrestling,0,0,1,1
+"Ehsan Naser Lashgari",26,Iran,2012,Wrestling,0,0,1,1
+"Revaz Lashkhi",24,Georgia,2012,Wrestling,0,1,0,1
+"Jimmy Lidberg",30,Sweden,2012,Wrestling,0,0,1,1
+"Liván López",30,Cuba,2012,Wrestling,0,0,1,1
+"Mijaín López",29,Cuba,2012,Wrestling,1,0,0,1
+"Tamás Lorincz",25,Hungary,2012,Wrestling,0,1,0,1
+"Bilyal Makhov",24,Russia,2012,Wrestling,0,0,1,1
+"Gyuzel Manyurova",34,Kazakhstan,2012,Wrestling,0,0,1,1
+"Dato Marsagishvili",21,Georgia,2012,Wrestling,0,0,1,1
+"Ryutaro Matsumoto",26,Japan,2012,Wrestling,0,0,1,1
+"Péter Módos",24,Hungary,2012,Wrestling,0,0,1,1
+"Davit Modzmanashvili",25,Georgia,2012,Wrestling,0,1,0,1
+"Heiki Nabi",27,Estonia,2012,Wrestling,0,1,0,1
+"Omid Noroozi",26,Iran,2012,Wrestling,1,0,0,1
+"Hitomi Obara",31,Japan,2012,Wrestling,1,0,0,1
+"Dzhamal Otarsultanov",25,Russia,2012,Wrestling,1,0,0,1
+"Xetaq Qazyumov",29,Azerbaijan,2012,Wrestling,0,0,1,1
+"Yuliya Ratkeviç",27,Azerbaijan,2012,Wrestling,0,0,1,1
+"Jackeline Rentería",26,Colombia,2012,Wrestling,0,0,1,1
+"Ghasem Rezaei",26,Iran,2012,Wrestling,1,0,0,1
+"Coleman Scott",26,"United States",2012,Wrestling,0,0,1,1
+"Mingiyan Semyonov",22,Russia,2012,Wrestling,0,0,1,1
+"Soronzonboldyn Battsetseg",22,Mongolia,2012,Wrestling,0,0,1,1
+"Hamid Soryan",26,Iran,2012,Wrestling,1,0,0,1
+"Mariya Stadnik",24,Azerbaijan,2012,Wrestling,0,1,0,1
+"S?rif S?rifov",23,Azerbaijan,2012,Wrestling,1,0,0,1
+"Akzhurek Tanatarov",25,Kazakhstan,2012,Wrestling,0,0,1,1
+"Artur Taymazov",33,Uzbekistan,2012,Wrestling,1,0,0,1
+"Soslan Tigiyev",28,Uzbekistan,2012,Wrestling,0,0,1,1
+"Rustam Totrov",28,Russia,2012,Wrestling,0,1,0,1
+"Denis Tsargush",24,Russia,2012,Wrestling,0,0,1,1
+"Manuchar Tskhadaia",27,Georgia,2012,Wrestling,0,0,1,1
+"Maider Unda",35,Spain,2012,Wrestling,0,0,1,1
+"Jake Varner",26,"United States",2012,Wrestling,1,0,0,1
+"Tonya Verbeek",34,Canada,2012,Wrestling,0,1,0,1
+"Roman Vlasov",21,Russia,2012,Wrestling,1,0,0,1
+"Lyubov Volosova",29,Russia,2012,Wrestling,0,0,1,1
+"Nataliya Vorobyova",21,Russia,2012,Wrestling,1,0,0,1
+"Yang Kyong-Il",23,"North Korea",2012,Wrestling,0,0,1,1
+"Tatsuhiro Yonemitsu",26,Japan,2012,Wrestling,1,0,0,1
+"Saori Yoshida",29,Japan,2012,Wrestling,1,0,0,1
+"Shinichi Yumoto",27,Japan,2012,Wrestling,0,0,1,1
+"Stanka Zlateva",29,Bulgaria,2012,Wrestling,0,1,0,1
+"Emin ?hm?dov",25,Azerbaijan,2012,Wrestling,0,0,1,1
+"Togrul ?sg?rov",19,Azerbaijan,2012,Wrestling,1,0,0,1
+"Ruslan Albegov",24,Russia,2012,Weightlifting,0,0,1,1
+"Sajjad Anoushiravani",28,Iran,2012,Weightlifting,0,1,0,1
+"Apti Aukhadov",19,Russia,2012,Weightlifting,0,1,0,1
+"Bartlomiej Bonk",27,Poland,2012,Weightlifting,0,0,1,1
+"Iván Cambar",28,Cuba,2012,Weightlifting,0,0,1,1
+"Zulfiya Chinshanlo",19,Kazakhstan,2012,Weightlifting,1,0,0,1
+"Anatolii Cîrîcu",23,Moldova,2012,Weightlifting,0,0,1,1
+"Roxana Cocos",23,Romania,2012,Weightlifting,0,1,0,1
+"Oscar Figueroa",29,Colombia,2012,Weightlifting,0,1,0,1
+"Christine Girard",27,Canada,2012,Weightlifting,0,0,1,1
+"Hsu Shu-Ching",21,"Chinese Taipei",2012,Weightlifting,0,1,0,1
+"Ilya Ilyin",24,Kazakhstan,2012,Weightlifting,1,0,0,1
+"Cristina Iovu",19,Moldova,2012,Weightlifting,0,0,1,1
+"Eko Irawan",23,Indonesia,2012,Weightlifting,0,0,1,1
+"Aleksandr Ivanov",23,Russia,2012,Weightlifting,0,1,0,1
+"Yuliya Kalina",23,Ukraine,2012,Weightlifting,0,0,1,1
+"Tatyana Kashirina",21,Russia,2012,Weightlifting,0,1,0,1
+"Hripsime Khurshudyan",25,Armenia,2012,Weightlifting,0,0,1,1
+"Kim Un-Guk",23,"North Korea",2012,Weightlifting,1,0,0,1
+"Irina Kulesha",26,Belarus,2012,Weightlifting,0,0,1,1
+"Li Xueying",22,China,2012,Weightlifting,1,0,0,1
+"Lin Qingfeng",23,China,2012,Weightlifting,1,0,0,1
+"Lu Haojie",21,China,2012,Weightlifting,0,1,0,1
+"Lu Xiaojun",28,China,2012,Weightlifting,1,0,0,1
+"Maiya Maneza",26,Kazakhstan,2012,Weightlifting,1,0,0,1
+"Razvan Martin",20,Romania,2012,Weightlifting,0,0,1,1
+"Hiromi Miyake",26,Japan,2012,Weightlifting,0,1,0,1
+"Navab Nasirshelal",23,Iran,2012,Weightlifting,0,1,0,1
+"Om Yun-Chol",20,"North Korea",2012,Weightlifting,1,0,0,1
+"Svetlana Podobedova",26,Kazakhstan,2012,Weightlifting,1,0,0,1
+"Rim Jong-Sim",19,"North Korea",2012,Weightlifting,1,0,0,1
+"Kianoush Rostami",21,Iran,2012,Weightlifting,0,0,1,1
+"Ryang Chun-Hwa",21,"North Korea",2012,Weightlifting,0,0,1,1
+"Behdad Salimi",22,Iran,2012,Weightlifting,1,0,0,1
+"Marina Shkermankova",22,Belarus,2012,Weightlifting,0,0,1,1
+"Pimsiri Sirikaew",22,Thailand,2012,Weightlifting,0,1,0,1
+"Oleksiy Torokhtiy",26,Ukraine,2012,Weightlifting,1,0,0,1
+Triyatno,24,Indonesia,2012,Weightlifting,0,1,0,1
+"Svetlana Tsarukayeva",24,Russia,2012,Weightlifting,0,1,0,1
+"Wang Mingjuan",26,China,2012,Weightlifting,1,0,0,1
+"Wu Jingbiao",23,China,2012,Weightlifting,0,1,0,1
+"Valentin Xristov",18,Azerbaijan,2012,Weightlifting,0,0,1,1
+"Nataliya Zabolotnaya",26,Russia,2012,Weightlifting,0,1,0,1
+"Zhou Lulu",24,China,2012,Weightlifting,1,0,0,1
+"Adrian Zielinski",23,Poland,2012,Weightlifting,1,0,0,1
+"Matteo Aicardi",26,Italy,2012,Waterpolo,0,1,0,1
+"Milan Aleksic",26,Serbia,2012,Waterpolo,0,0,1,1
+"Betsey Armstrong",29,"United States",2012,Waterpolo,1,0,0,1
+"Marta Bach",19,Spain,2012,Waterpolo,0,1,0,1
+"Samir Barac",38,Croatia,2012,Waterpolo,1,0,0,1
+"Gemma Beadsworth",25,Australia,2012,Waterpolo,0,0,1,1
+"Andrea Blas",20,Spain,2012,Waterpolo,0,1,0,1
+"Miho Boškovic",29,Croatia,2012,Waterpolo,1,0,0,1
+"Victoria Brown",27,Australia,2012,Waterpolo,0,0,1,1
+"Ivan Buljubašic",24,Croatia,2012,Waterpolo,1,0,0,1
+"Damir Buric",31,Croatia,2012,Waterpolo,1,0,0,1
+"Andro Bušlje",26,Croatia,2012,Waterpolo,1,0,0,1
+"Kami Craig",25,"United States",2012,Waterpolo,1,0,0,1
+"Nikša Dobud",26,Croatia,2012,Waterpolo,1,0,0,1
+"Annika Dries",20,"United States",2012,Waterpolo,1,0,0,1
+"Anna Espar",19,Spain,2012,Waterpolo,0,1,0,1
+"Laura Ester",22,Spain,2012,Waterpolo,0,1,0,1
+"Maurizio Felugo",31,Italy,2012,Waterpolo,0,1,0,1
+"Pietro Figlioli",28,Italy,2012,Waterpolo,0,1,0,1
+"Filip Filipovic",25,Serbia,2012,Waterpolo,0,0,1,1
+"Deni Fiorentini",28,Italy,2012,Waterpolo,0,1,0,1
+"Valentino Gallo",27,Italy,2012,Waterpolo,0,1,0,1
+"Maica García",21,Spain,2012,Waterpolo,0,1,0,1
+"Massimo Giacoppo",29,Italy,2012,Waterpolo,0,1,0,1
+"Alex Giorgetti",24,Italy,2012,Waterpolo,0,1,0,1
+"Niccolò Gitto",25,Italy,2012,Waterpolo,0,1,0,1
+"Živko Gocic",29,Serbia,2012,Waterpolo,0,0,1,1
+"Kate Gynther",30,Australia,2012,Waterpolo,0,0,1,1
+"Igor Hinic",36,Croatia,2012,Waterpolo,1,0,0,1
+"Maro Jokovic",24,Croatia,2012,Waterpolo,1,0,0,1
+"Bronwen Knox",26,Australia,2012,Waterpolo,0,0,1,1
+"Holly Lincoln-Smith",24,Australia,2012,Waterpolo,0,0,1,1
+"Laura López",24,Spain,2012,Waterpolo,0,1,0,1
+"Dušan Mandic",18,Serbia,2012,Waterpolo,0,0,1,1
+"Courtney Mathewson",25,"United States",2012,Waterpolo,1,0,0,1
+"Alicia McCormack",29,Australia,2012,Waterpolo,0,0,1,1
+"Ona Meseguer",24,Spain,2012,Waterpolo,0,1,0,1
+"Lorena Miranda",21,Spain,2012,Waterpolo,0,1,0,1
+"Stefan Mitrovic",24,Serbia,2012,Waterpolo,0,0,1,1
+"Jane Moran",27,Australia,2012,Waterpolo,0,0,1,1
+"Petar Muslim",24,Croatia,2012,Waterpolo,1,0,0,1
+"Slobodan Nikic",29,Serbia,2012,Waterpolo,0,0,1,1
+"Paulo Obradovic",26,Croatia,2012,Waterpolo,1,0,0,1
+"Mati Ortíz",21,Spain,2012,Waterpolo,0,1,0,1
+"Jenny Pareja",28,Spain,2012,Waterpolo,0,1,0,1
+"Giacomo Pastorino",32,Italy,2012,Waterpolo,0,1,0,1
+"Josip Pavic",30,Croatia,2012,Waterpolo,1,0,0,1
+"Pilar Peña",26,Spain,2012,Waterpolo,0,1,0,1
+"Amaurys Perez",36,Italy,2012,Waterpolo,0,1,0,1
+"Heather Petri",34,"United States",2012,Waterpolo,1,0,0,1
+"Duško Pijetlovic",27,Serbia,2012,Waterpolo,0,0,1,1
+"Gojko Pijetlovic",28,Serbia,2012,Waterpolo,0,0,1,1
+"Danijel Premuš",31,Italy,2012,Waterpolo,0,1,0,1
+"Christian Presciutti",29,Italy,2012,Waterpolo,0,1,0,1
+"Andrija Prlainovic",25,Serbia,2012,Waterpolo,0,0,1,1
+"Glencora Ralph",24,Australia,2012,Waterpolo,0,0,1,1
+"Nikola Raden",27,Serbia,2012,Waterpolo,0,0,1,1
+"Mel Rippon",31,Australia,2012,Waterpolo,0,0,1,1
+"Kelly Rulon",28,"United States",2012,Waterpolo,1,0,0,1
+"Aleksa Šaponjic",20,Serbia,2012,Waterpolo,0,0,1,1
+"Melissa Seidemann",22,"United States",2012,Waterpolo,1,0,0,1
+"Sophie Smith",26,Australia,2012,Waterpolo,0,0,1,1
+"Slobodan Soro",33,Serbia,2012,Waterpolo,0,0,1,1
+"Ash Southern",19,Australia,2012,Waterpolo,0,0,1,1
+"Jessica Steffens",25,"United States",2012,Waterpolo,1,0,0,1
+"Maggie Steffens",19,"United States",2012,Waterpolo,1,0,0,1
+"Sandro Sukno",22,Croatia,2012,Waterpolo,1,0,0,1
+"Roser Tarragó",19,Spain,2012,Waterpolo,0,1,0,1
+"Stefano Tempesti",33,Italy,2012,Waterpolo,0,1,0,1
+"Vanja Udovicic",29,Serbia,2012,Waterpolo,0,0,1,1
+"Frano Vican",36,Croatia,2012,Waterpolo,1,0,0,1
+"Brenda Villa",32,"United States",2012,Waterpolo,1,0,0,1
+"Rowie Webster",24,Australia,2012,Waterpolo,0,0,1,1
+"Lauren Wenger",28,"United States",2012,Waterpolo,1,0,0,1
+"Elsie Windes",27,"United States",2012,Waterpolo,1,0,0,1
+"Nicola Zagame",22,Australia,2012,Waterpolo,0,0,1,1
+,0,Brazil,2012,Volleyball,0,1,0,1
+,0,Brazil,2012,Volleyball,0,1,0,1
+,0,Brazil,2012,Volleyball,0,1,0,1
+"Foluke Akinradewo",24,"United States",2012,Volleyball,0,1,0,1
+"Thiago Alves",26,Brazil,2012,Volleyball,0,1,0,1
+"Nikolay Apalikov",29,Russia,2012,Volleyball,1,0,0,1
+"Erika Araki",27,Japan,2012,Volleyball,0,0,1,1
+"Andrea Bari",32,Italy,2012,Volleyball,0,0,1,1
+"Yury Berezhko",28,Russia,2012,Volleyball,1,0,0,1
+"Lindsey Berg",32,"United States",2012,Volleyball,0,1,0,1
+"Emanuele Birarelli",31,Italy,2012,Volleyball,0,0,1,1
+"Dante Boninfante",35,Italy,2012,Volleyball,0,0,1,1
+"Aleksandr Butko",26,Russia,2012,Volleyball,1,0,0,1
+"Tandara Caixeta",23,Brazil,2012,Volleyball,1,0,0,1
+"Adenízia da Silva",25,Brazil,2012,Volleyball,1,0,0,1
+Dante,31,Brazil,2012,Volleyball,0,1,0,1
+"Nicole Davis",30,"United States",2012,Volleyball,0,1,0,1
+"Wallace de Souza",25,Brazil,2012,Volleyball,0,1,0,1
+"Yukiko Ebata",22,Japan,2012,Volleyball,0,0,1,1
+Fabi,32,Brazil,2012,Volleyball,1,0,0,1
+Fabiana,27,Brazil,2012,Volleyball,1,0,0,1
+"Alessandro Fei",33,Italy,2012,Volleyball,0,0,1,1
+Fernandinha,32,Brazil,2012,Volleyball,1,0,0,1
+Giba,35,Brazil,2012,Volleyball,0,1,0,1
+"Andrea Giovi",28,Italy,2012,Volleyball,0,0,1,1
+"Sergey Grankin",27,Russia,2012,Volleyball,1,0,0,1
+"Tayyiba Haneef-Park",33,"United States",2012,Volleyball,0,1,0,1
+"Christa Harmotto",25,"United States",2012,Volleyball,0,1,0,1
+"Megan Hodge",23,"United States",2012,Volleyball,0,1,0,1
+"Destinee Hooker",24,"United States",2012,Volleyball,0,1,0,1
+"Dmitry Ilyinykh",25,Russia,2012,Volleyball,1,0,0,1
+"Kaori Inoue",29,Japan,2012,Volleyball,0,0,1,1
+"Pereira de Carvalho Endres Jaque",28,Brazil,2012,Volleyball,1,0,0,1
+"Maiko Kano",24,Japan,2012,Volleyball,0,0,1,1
+"Taras Khtey",30,Russia,2012,Volleyball,1,0,0,1
+"Saori Kimura",25,Japan,2012,Volleyball,0,0,1,1
+"Jordan Larson",25,"United States",2012,Volleyball,0,1,0,1
+"Michal Lasko",31,Italy,2012,Volleyball,0,0,1,1
+"Dani Lins",27,Brazil,2012,Volleyball,1,0,0,1
+"Luigi Mastrangelo",36,Italy,2012,Volleyball,0,0,1,1
+"Maksim Mikhaylov",24,Russia,2012,Volleyball,1,0,0,1
+"Tamari Miyashiro",25,"United States",2012,Volleyball,0,1,0,1
+Murilo,31,Brazil,2012,Volleyball,0,1,0,1
+"Dmitry Musersky",23,Russia,2012,Volleyball,1,0,0,1
+"Hitomi Nakamichi",26,Japan,2012,Volleyball,0,0,1,1
+"Leandro Neves",29,Brazil,2012,Volleyball,0,1,0,1
+"Aleksey Obmochayev",23,Russia,2012,Volleyball,1,0,0,1
+"Ai Otomo-Yamamoto",30,Japan,2012,Volleyball,0,0,1,1
+"Samuele Papi",39,Italy,2012,Volleyball,0,0,1,1
+"Simone Parodi",26,Italy,2012,Volleyball,0,0,1,1
+Paula,30,Brazil,2012,Volleyball,1,0,0,1
+"Natália Pereira",23,Brazil,2012,Volleyball,1,0,0,1
+Rodrigão,33,Brazil,2012,Volleyball,0,1,0,1
+"Fernanda Rodrigues",26,Brazil,2012,Volleyball,1,0,0,1
+"Lucas Saatkamp",26,Brazil,2012,Volleyball,0,1,0,1
+"Saori Sakoda",24,Japan,2012,Volleyball,0,0,1,1
+"Yuko Sano",33,Japan,2012,Volleyball,0,0,1,1
+"Cristian Savani",30,Italy,2012,Volleyball,0,0,1,1
+"Danielle Scott-Arruda",39,"United States",2012,Volleyball,0,1,0,1
+Sheilla,29,Brazil,2012,Volleyball,1,0,0,1
+"Risa Shinnabe",22,Japan,2012,Volleyball,0,0,1,1
+Sidão,30,Brazil,2012,Volleyball,0,1,0,1
+"Aleksandr Sokolov",30,Russia,2012,Volleyball,1,0,0,1
+"Yoshie Takeshita",34,Japan,2012,Volleyball,0,0,1,1
+"Sergey Tetyukhin",36,Russia,2012,Volleyball,1,0,0,1
+Thaísa,25,Brazil,2012,Volleyball,1,0,0,1
+"Courtney Thompson",27,"United States",2012,Volleyball,0,1,0,1
+"Logan Tom",31,"United States",2012,Volleyball,0,1,0,1
+"Dragan Travica",25,Italy,2012,Volleyball,0,0,1,1
+"Aleksandr Volkov",27,Russia,2012,Volleyball,1,0,0,1
+"Mai Yamaguchi",29,Japan,2012,Volleyball,0,0,1,1
+"Ivan Zaytsev",23,Italy,2012,Volleyball,0,0,1,1
+"Timo Boll",31,Germany,2012,"Table Tennis",0,0,1,1
+"Ai Fukuhara",23,Japan,2012,"Table Tennis",0,1,0,1
+"Guo Yue",24,China,2012,"Table Tennis",1,0,0,1
+"Sayaka Hirano",27,Japan,2012,"Table Tennis",0,1,0,1
+"Kasumi Ishikawa",19,Japan,2012,"Table Tennis",0,1,0,1
+"Ju Se-Hyeok",32,"South Korea",2012,"Table Tennis",0,1,0,1
+"Li Jia Wei",30,Singapore,2012,"Table Tennis",0,0,1,1
+"Ma Long",23,China,2012,"Table Tennis",1,0,0,1
+"O Sang-Eun",35,"South Korea",2012,"Table Tennis",0,1,0,1
+"Bastian Steger",31,Germany,2012,"Table Tennis",0,0,1,1
+"Wang Jue Gu",32,Singapore,2012,"Table Tennis",0,0,1,1
+"Yu Seung-Min",29,"South Korea",2012,"Table Tennis",0,1,0,1
+"Alistair Brownlee",24,"Great Britain",2012,Triathlon,1,0,0,1
+"Jonny Brownlee",22,"Great Britain",2012,Triathlon,0,0,1,1
+"Erin Densham",27,Australia,2012,Triathlon,0,0,1,1
+"Javier Gómez",29,Spain,2012,Triathlon,0,1,0,1
+"Lisa Nordén",27,Sweden,2012,Triathlon,0,1,0,1
+"Nicola Spirig",30,Switzerland,2012,Triathlon,1,0,0,1
+"Dong Dong",23,China,2012,Trampoline,1,0,0,1
+"He Wenna",23,China,2012,Trampoline,0,0,1,1
+"Huang Shanshan",26,China,2012,Trampoline,0,1,0,1
+"Lu Chunlong",23,China,2012,Trampoline,0,0,1,1
+"Rosie MacLennan",23,Canada,2012,Trampoline,1,0,0,1
+"Dmitry Ushakov",23,Russia,2012,Trampoline,0,1,0,1
+"Anastasiya Baryshnikova",21,Russia,2012,Taekwondo,0,0,1,1
+"Sebastian Crismanich",25,Argentina,2012,Taekwondo,1,0,0,1
+"Aleksey Denisenko",18,Russia,2012,Taekwondo,0,0,1,1
+"Robelis Despaigne",24,Cuba,2012,Taekwondo,0,0,1,1
+"María Espinoza",24,Mexico,2012,Taekwondo,0,0,1,1
+"Helena Fromm",25,Germany,2012,Taekwondo,0,0,1,1
+"Nicolás García",24,Spain,2012,Taekwondo,0,1,0,1
+"Joel González",22,Spain,2012,Taekwondo,1,0,0,1
+"Anne-Caroline Graffe",26,France,2012,Taekwondo,0,1,0,1
+"Marlene Harnois",25,France,2012,Taekwondo,0,0,1,1
+"Hou Yuzhuo",24,China,2012,Taekwondo,0,1,0,1
+"Hwang Gyeong-Seon",26,"South Korea",2012,Taekwondo,1,0,0,1
+"Terrence Jennings",26,"United States",2012,Taekwondo,0,0,1,1
+"Jade Jones",19,"Great Britain",2012,Taekwondo,1,0,0,1
+"Lee Dae-Hun",20,"South Korea",2012,Taekwondo,0,1,0,1
+"Liu Xiaobo",28,China,2012,Taekwondo,0,0,1,1
+"Milica Mandic",20,Serbia,2012,Taekwondo,1,0,0,1
+"Paige McPherson",21,"United States",2012,Taekwondo,0,0,1,1
+"Carlo Molfetta",28,Italy,2012,Taekwondo,1,0,0,1
+"Mohammad Bagheri Motamed",26,Iran,2012,Taekwondo,0,1,0,1
+"Lutalo Muhammad",21,"Great Britain",2012,Taekwondo,0,0,1,1
+"Oscar Muñoz",19,Colombia,2012,Taekwondo,0,0,1,1
+"Rohullah Nikpai",25,Afghanistan,2012,Taekwondo,0,0,1,1
+"Anthony Obame",23,Gabon,2012,Taekwondo,0,1,0,1
+"Mauro Sarmiento",29,Italy,2012,Taekwondo,0,0,1,1
+"Chanatip Sonkham",21,Thailand,2012,Taekwondo,0,0,1,1
+"Nur Tatar",19,Turkey,2012,Taekwondo,0,1,0,1
+"Servet Tazegül",23,Turkey,2012,Taekwondo,1,0,0,1
+"Tseng Li-Cheng",25,"Chinese Taipei",2012,Taekwondo,0,0,1,1
+"Wu Jingyu",25,China,2012,Taekwondo,1,0,0,1
+"Brigitte Yagüe",31,Spain,2012,Taekwondo,0,1,0,1
+"Lucija Zaninovic",25,Croatia,2012,Taekwondo,0,0,1,1
+"Julien Benneteau",30,France,2012,Tennis,0,0,1,1
+"Bob Bryan",34,"United States",2012,Tennis,1,0,0,1
+"Juan Martín del Potro",23,Argentina,2012,Tennis,0,0,1,1
+"Roger Federer",30,Switzerland,2012,Tennis,0,1,0,1
+"Richard Gasquet",26,France,2012,Tennis,0,0,1,1
+"Andrea Hlavácková",25,"Czech Republic",2012,Tennis,0,1,0,1
+"Lucie Hradecká",27,"Czech Republic",2012,Tennis,0,1,0,1
+"Mariya Kirilenko",25,Russia,2012,Tennis,0,0,1,1
+"Michaël Llodra",32,France,2012,Tennis,0,1,0,1
+"Max Mirnyi",35,Belarus,2012,Tennis,1,0,0,1
+"Nadiya Petrova",30,Russia,2012,Tennis,0,0,1,1
+"Lisa Raymond",38,"United States",2012,Tennis,0,0,1,1
+"Laura Robson",18,"Great Britain",2012,Tennis,0,1,0,1
+"Mariya Sharapova",25,Russia,2012,Tennis,0,1,0,1
+"Jo-Wilfried Tsonga",27,France,2012,Tennis,0,1,0,1
+"Venus Williams",32,"United States",2012,Tennis,1,0,0,1
+"Clara Basiana",21,Spain,2012,"Synchronized Swimming",0,0,1,1
+"Alba Cabello",26,Spain,2012,"Synchronized Swimming",0,0,1,1
+"Chang Si",25,China,2012,"Synchronized Swimming",0,1,0,1
+"Chen Xiaojun",20,China,2012,"Synchronized Swimming",0,1,0,1
+"Margalida Crespi",21,Spain,2012,"Synchronized Swimming",0,0,1,1
+"Anastasiya Davydova",29,Russia,2012,"Synchronized Swimming",1,0,0,1
+"Mariya Gromova",28,Russia,2012,"Synchronized Swimming",1,0,0,1
+"Thais Henríquez",29,Spain,2012,"Synchronized Swimming",0,0,1,1
+"Jiang Tingting",25,China,2012,"Synchronized Swimming",0,1,0,1
+"Jiang Wenwen",25,China,2012,"Synchronized Swimming",0,1,0,1
+"Elvira Khasyanova",31,Russia,2012,"Synchronized Swimming",1,0,0,1
+"Paula Klamburg",22,Spain,2012,"Synchronized Swimming",0,0,1,1
+"Darya Korobova",23,Russia,2012,"Synchronized Swimming",1,0,0,1
+"Luo Xi",24,China,2012,"Synchronized Swimming",0,1,0,1
+"Irene Montrucchio",20,Spain,2012,"Synchronized Swimming",0,0,1,1
+"Aleksandra Patskevich",23,Russia,2012,"Synchronized Swimming",1,0,0,1
+"Laia Pons",19,Spain,2012,"Synchronized Swimming",0,0,1,1
+"Alla Shishkina",23,Russia,2012,"Synchronized Swimming",1,0,0,1
+"Sun Wenyan",22,China,2012,"Synchronized Swimming",0,1,0,1
+"Anzhelika Timanina",23,Russia,2012,"Synchronized Swimming",1,0,0,1
+"Wu Yiwen",26,China,2012,"Synchronized Swimming",0,1,0,1
+"Alyssa Anderson",21,"United States",2012,Swimming,1,0,0,1
+"Haley Anderson",20,"United States",2012,Swimming,0,1,0,1
+"Angie Bainbridge",22,Australia,2012,Swimming,0,1,0,1
+"Coralie Balmy",25,France,2012,Swimming,0,0,1,1
+"Alain Bernard",29,France,2012,Swimming,1,0,0,1
+"Charlotte Bonnet",17,France,2012,Swimming,0,0,1,1
+"Rachel Bootsma",18,"United States",2012,Swimming,1,0,0,1
+"Cate Campbell",20,Australia,2012,Swimming,1,0,0,1
+"César Cielo Filho",25,Brazil,2012,Swimming,0,0,1,1
+"Tyler Clary",23,"United States",2012,Swimming,1,0,0,1
+"Ryan Cochrane",23,Canada,2012,Swimming,0,1,0,1
+"Natalie Coughlin",29,"United States",2012,Swimming,0,0,1,1
+"László Cseh Jr.",26,Hungary,2012,Swimming,0,0,1,1
+"Tommaso D'Orsogna",21,Australia,2012,Swimming,0,0,1,1
+"Dai Jun",20,China,2012,Swimming,0,0,1,1
+"Inge Dekker",26,Netherlands,2012,Swimming,0,1,0,1
+"Claire Donahue",23,"United States",2012,Swimming,1,0,0,1
+"Conor Dwyer",23,"United States",2012,Swimming,1,0,0,1
+"Ophélie Etienne",21,France,2012,Swimming,0,0,1,1
+"Blair Evans",21,Australia,2012,Swimming,0,1,0,1
+"Margaux Farrell",21,France,2012,Swimming,0,0,1,1
+"Jimmy Feigen",22,"United States",2012,Swimming,0,1,0,1
+"Sergey Fesikov",23,Russia,2012,Swimming,0,0,1,1
+"Takuro Fujii",27,Japan,2012,Swimming,0,1,0,1
+"Fabien Gilot",28,France,2012,Swimming,1,0,0,1
+"Andrey Grechin",24,Russia,2012,Swimming,0,0,1,1
+"Martina Grimaldi",23,Italy,2012,Swimming,0,0,1,1
+"Dániel Gyurta",23,Hungary,2012,Swimming,1,0,0,1
+"Kosuke Hagino",17,Japan,2012,Swimming,0,0,1,1
+"Hao Yun",17,China,2012,Swimming,0,0,1,1
+"Brent Hayden",28,Canada,2012,Swimming,0,0,1,1
+"Femke Heemskerk",24,Netherlands,2012,Swimming,0,1,0,1
+"Natsumi Hoshi",21,Japan,2012,Swimming,0,0,1,1
+"Charlie Houchin",24,"United States",2012,Swimming,1,0,0,1
+"Dan Izotov",20,Russia,2012,Swimming,0,0,1,1
+"Michael Jamieson",23,"Great Britain",2012,Swimming,0,1,0,1
+"Jiang Haiqi",20,China,2012,Swimming,0,0,1,1
+"Jiao Liuyang",22,China,2012,Swimming,1,0,0,1
+"Leisel Jones",26,Australia,2012,Swimming,0,1,0,1
+"Yuka Kato",25,Japan,2012,Swimming,0,0,1,1
+"Kosuke Kitajima",29,Japan,2012,Swimming,0,1,0,1
+"Yevgeny Korotyshkin",29,Russia,2012,Swimming,0,1,0,1
+"Yolane Kukla",16,Australia,2012,Swimming,1,0,0,1
+"Yevgeny Lagunov",26,Russia,2012,Swimming,0,0,1,1
+"Breeja Larson",20,"United States",2012,Swimming,1,0,0,1
+"Mylene Lazare",24,France,2012,Swimming,0,0,1,1
+"Katie Ledecky",15,"United States",2012,Swimming,1,0,0,1
+"Libby Lenton-Trickett",27,Australia,2012,Swimming,1,0,0,1
+"Caitlin Leverenz",21,"United States",2012,Swimming,0,0,1,1
+"Jason Lezak",36,"United States",2012,Swimming,0,1,0,1
+"Li Xuanxu",18,China,2012,Swimming,0,0,1,1
+"Li Yunqi",18,China,2012,Swimming,0,0,1,1
+"Nikita Lobintsev",23,Russia,2012,Swimming,0,0,1,1
+"Lu Ying",23,China,2012,Swimming,0,1,0,1
+"Lu Zhiwu",23,China,2012,Swimming,0,0,1,1
+"Thomas Lurz",32,Germany,2012,Swimming,0,1,0,1
+"Grégory Mallet",28,France,2012,Swimming,0,1,0,1
+"Florent Manaudou",21,France,2012,Swimming,1,0,0,1
+"Tyler McGill",24,"United States",2012,Swimming,1,0,0,1
+"Matt McLean",24,"United States",2012,Swimming,1,0,0,1
+"Ruta Meilutyte",15,Lithuania,2012,Swimming,1,0,0,1
+"Vladimir Morozov",20,Russia,2012,Swimming,0,0,1,1
+"Lia Neal",17,"United States",2012,Swimming,0,0,1,1
+"Jade Neilsen",21,Australia,2012,Swimming,0,1,0,1
+"Kylie Palmer",22,Australia,2012,Swimming,0,1,0,1
+"Lauren Perdue",21,"United States",2012,Swimming,1,0,0,1
+"Thiago Pereira",26,Brazil,2012,Swimming,0,1,0,1
+"Brenton Rickard",28,Australia,2012,Swimming,0,0,1,1
+"Éva Risztov",26,Hungary,2012,Swimming,1,0,0,1
+"Hinkelien Schreuder",28,Netherlands,2012,Swimming,0,1,0,1
+"Eric Shanteau",28,"United States",2012,Swimming,1,0,0,1
+"Hayden Stoeckel",27,Australia,2012,Swimming,0,0,1,1
+"Tang Yi",19,China,2012,Swimming,0,0,1,1
+"Matt Targett",26,Australia,2012,Swimming,0,0,1,1
+"Davis Tarwater",28,"United States",2012,Swimming,1,0,0,1
+"Ryo Tateishi",23,Japan,2012,Swimming,0,0,1,1
+"Haruka Ueda",24,Japan,2012,Swimming,0,0,1,1
+"Cameron van der Burgh",24,"South Africa",2012,Swimming,1,0,0,1
+"Peter Vanderkaay",28,"United States",2012,Swimming,0,0,1,1
+"Shannon Vreeland",20,"United States",2012,Swimming,1,0,0,1
+"Richard Weinberger",22,Canada,2012,Swimming,0,0,1,1
+"Amanda Weir",26,"United States",2012,Swimming,0,0,1,1
+"Yuliya Yefimova",20,Russia,2012,Swimming,0,0,1,1
+"Anastasiya Zuyeva",22,Russia,2012,Swimming,0,1,0,1
+"Nasser Al-Attiya",41,Qatar,2012,Shooting,0,0,1,1
+"Fehaid Al-Deehani",45,Kuwait,2012,Shooting,0,0,1,1
+"Danka Barteková",27,Slovakia,2012,Shooting,0,0,1,1
+"Jamie Beyerle-Gray",28,"United States",2012,Shooting,1,0,0,1
+"Sylwia Bogacka",30,Poland,2012,Shooting,0,1,0,1
+"Giovanni Cernogoraz",29,Croatia,2012,Shooting,1,0,0,1
+"Chen Ying",34,China,2012,Shooting,0,1,0,1
+"Choi Yeong-Rae",30,"South Korea",2012,Shooting,0,1,0,1
+"Lionel Cox",31,Belgium,2012,Shooting,0,1,0,1
+"Håkan Dahlby",46,Sweden,2012,Shooting,0,1,0,1
+"Rajmond Debevec",49,Slovenia,2012,Shooting,0,0,1,1
+"Ding Feng",25,China,2012,Shooting,0,0,1,1
+"Matt Emmons",31,"United States",2012,Shooting,0,0,1,1
+"Massimo Fabbrizi",34,Italy,2012,Shooting,0,1,0,1
+"Celine Goberville",25,France,2012,Shooting,0,1,0,1
+"Anders Golding",28,Denmark,2012,Shooting,0,1,0,1
+"Guo Wenjun",28,China,2012,Shooting,1,0,0,1
+"Vincent Hancock",23,"United States",2012,Shooting,1,0,0,1
+"Kim Jang-Mi",19,"South Korea",2012,Shooting,1,0,0,1
+"Kim Jong-Hyeon",27,"South Korea",2012,Shooting,0,1,0,1
+"Vijay Kumar",26,India,2012,Shooting,0,1,0,1
+"Ivana Maksimovic",22,Serbia,2012,Shooting,0,1,0,1
+"Sergey Martynov",44,Belarus,2012,Shooting,1,0,0,1
+"Alin Moldoveanu",29,Romania,2012,Shooting,1,0,0,1
+"Vasily Mosin",40,Russia,2012,Shooting,0,0,1,1
+"Gagan Narang",29,India,2012,Shooting,0,0,1,1
+"Leuris Pupo",35,Cuba,2012,Shooting,1,0,0,1
+"Delphine Racinet-Reau",38,France,2012,Shooting,0,0,1,1
+"Kim Rhode",33,"United States",2012,Shooting,1,0,0,1
+"Jessica Rossi",20,Italy,2012,Shooting,1,0,0,1
+"Zuzana Štefeceková",28,Slovakia,2012,Shooting,0,1,0,1
+"Adéla Sýkorová",25,"Czech Republic",2012,Shooting,0,0,1,1
+"Luca Tesconi",30,Italy,2012,Shooting,0,1,0,1
+"Wang Zhiwei",24,China,2012,Shooting,0,0,1,1
+"Wei Ning",29,China,2012,Shooting,0,1,0,1
+"Peter Wilson",25,"Great Britain",2012,Shooting,1,0,0,1
+"Yi Siling",23,China,2012,Shooting,1,0,0,1
+"Yu Dan",24,China,2012,Shooting,0,0,1,1
+"Andrija Zlatic",34,Serbia,2012,Shooting,0,0,1,1
+"Ben Ainslie",35,"Great Britain",2012,Sailing,1,0,0,1
+"Marina Alabau",26,Spain,2012,Sailing,1,0,0,1
+"Jo Aleh",26,"New Zealand",2012,Sailing,1,0,0,1
+"Mathew Belcher",29,Australia,2012,Sailing,1,0,0,1
+"Lobke Berkhout",31,Netherlands,2012,Sailing,0,0,1,1
+"Stuart Bithell",25,"Great Britain",2012,Sailing,0,1,0,1
+"Marit Bouwmeester",24,Netherlands,2012,Sailing,0,1,0,1
+"Peter Burling",21,"New Zealand",2012,Sailing,0,1,0,1
+"Lucas Calabrese",25,Argentina,2012,Sailing,0,0,1,1
+"Saskia Clark",32,"Great Britain",2012,Sailing,0,1,0,1
+"Nina Curtis",24,Australia,2012,Sailing,0,1,0,1
+"Juan de la Fuente",35,Argentina,2012,Sailing,0,0,1,1
+"Nick Dempsey",31,"Great Britain",2012,Sailing,0,1,0,1
+"Támara Echegoyen",28,Spain,2012,Sailing,1,0,0,1
+"Jonas Høgh Christensen",31,Denmark,2012,Sailing,0,1,0,1
+"Iain Jensen",24,Australia,2012,Sailing,1,0,0,1
+"Silja Kanerva",27,Finland,2012,Sailing,0,0,1,1
+"Pavlos Kontides",22,Cyprus,2012,Sailing,0,1,0,1
+"Peter Lang",23,Denmark,2012,Sailing,0,0,1,1
+"Silja Lehtinen",26,Finland,2012,Sailing,0,0,1,1
+"Jonathan Lobert",27,France,2012,Sailing,0,0,1,1
+"Fredrik Lööf",42,Sweden,2012,Sailing,1,0,0,1
+"Przemyslaw Miarczynski",32,Poland,2012,Sailing,0,0,1,1
+"Hannah Mills",24,"Great Britain",2012,Sailing,0,1,0,1
+"Rasmus Myrgren",33,Sweden,2012,Sailing,0,0,1,1
+"Zofia Noceti-Klepacka",26,Poland,2012,Sailing,0,0,1,1
+"Allan Nørregaard",31,Denmark,2012,Sailing,0,0,1,1
+"Nathan Outteridge",26,Australia,2012,Sailing,1,0,0,1
+"Malcolm Page",40,Australia,2012,Sailing,1,0,0,1
+"Luke Patience",25,"Great Britain",2012,Sailing,0,1,0,1
+"Iain Percy",36,"Great Britain",2012,Sailing,0,1,0,1
+"Tuuli Petäjä",28,Finland,2012,Sailing,0,1,0,1
+"Olivia Powrie",24,"New Zealand",2012,Sailing,1,0,0,1
+"Bruno Prada",40,Brazil,2012,Sailing,0,0,1,1
+"Olivia Price",19,Australia,2012,Sailing,0,1,0,1
+"Angela Pumariega",27,Spain,2012,Sailing,1,0,0,1
+"Max Salminen",23,Sweden,2012,Sailing,1,0,0,1
+"Robert Scheidt",39,Brazil,2012,Sailing,0,0,1,1
+"Andrew Simpson",35,"Great Britain",2012,Sailing,0,1,0,1
+"Tom Slingsby",27,Australia,2012,Sailing,1,0,0,1
+"Sofia Toro",21,Spain,2012,Sailing,1,0,0,1
+"Blair Tuke",23,"New Zealand",2012,Sailing,0,1,0,1
+"Evi Van Acker",26,Belgium,2012,Sailing,0,0,1,1
+"Dorian van Rijsselberge",23,Netherlands,2012,Sailing,1,0,0,1
+"Lisa Westerhof",30,Netherlands,2012,Sailing,0,0,1,1
+"Lucinda Whitty",22,Australia,2012,Sailing,0,1,0,1
+"Mikaela Wulff",22,Finland,2012,Sailing,0,0,1,1
+"Xu Lijia",24,China,2012,Sailing,1,0,0,1
+"Chantal Achterberg",27,Netherlands,2012,Rowing,0,0,1,1
+"Filip Adamski",29,Germany,2012,Rowing,1,0,0,1
+"Carina Bär",22,Germany,2012,Rowing,0,1,0,1
+"Jacob Barsøe",23,Denmark,2012,Rowing,0,0,1,1
+"Chris Bartley",28,"Great Britain",2012,Rowing,0,1,0,1
+"Romano Battisti",25,Italy,2012,Rowing,0,1,0,1
+"Anna Bebington-Watkins",29,"Great Britain",2012,Rowing,1,0,0,1
+"Claudia Belderbos",27,Netherlands,2012,Rowing,0,0,1,1
+"Gabe Bergen",30,Canada,2012,Rowing,0,1,0,1
+"Hamish Bond",26,"New Zealand",2012,Rowing,1,0,0,1
+"Carline Bouw",27,Netherlands,2012,Rowing,0,0,1,1
+"Matthew Brittain",25,"South Africa",2012,Rowing,1,0,0,1
+"Jeremiah Brown",26,Canada,2012,Rowing,0,1,0,1
+"Ashley Brzozowicz",29,Canada,2012,Rowing,0,1,0,1
+"Andrew Byrnes",29,Canada,2012,Rowing,0,1,0,1
+"Erin Cafaro",29,"United States",2012,Rowing,1,0,0,1
+"Alan Campbell",29,"Great Britain",2012,Rowing,0,0,1,1
+"Peter Chambers",22,"Great Britain",2012,Rowing,0,1,0,1
+"Richard Chambers",27,"Great Britain",2012,Rowing,0,1,0,1
+"James Chapman",32,Australia,2012,Rowing,0,1,0,1
+"Germain Chardin",29,France,2012,Rowing,0,1,0,1
+"Nathan Cohen",26,"New Zealand",2012,Rowing,1,0,0,1
+"Charlie Cole",26,"United States",2012,Rowing,0,0,1,1
+"Iztok Cop",40,Slovenia,2012,Rowing,0,0,1,1
+"Kat Copeland",21,"Great Britain",2012,Rowing,1,0,0,1
+"Will Crothers",25,Canada,2012,Rowing,0,1,0,1
+"Douglas Csima",26,Canada,2012,Rowing,0,1,0,1
+"Caryn Davies",30,"United States",2012,Rowing,1,0,0,1
+"Sytske de Groot",26,Netherlands,2012,Rowing,0,0,1,1
+"Annemiek de Haan",31,Netherlands,2012,Rowing,0,0,1,1
+"Rachelle De Jong-Viinberg",33,Canada,2012,Rowing,0,1,0,1
+"Natalie Dell",27,"United States",2012,Rowing,0,0,1,1
+"Yana Dementieva",33,Ukraine,2012,Rowing,1,0,0,1
+"Nataliya Dovhodko",21,Ukraine,2012,Rowing,1,0,0,1
+"Mahé Drysdale",33,"New Zealand",2012,Rowing,1,0,0,1
+"Joshua Dunkley-Smith",23,Australia,2012,Rowing,0,1,0,1
+"Eskild Ebbesen",40,Denmark,2012,Rowing,0,0,1,1
+"Ric Egington",33,"Great Britain",2012,Rowing,0,0,1,1
+"Fie Udby Erichsen",27,Denmark,2012,Rowing,0,1,0,1
+"James Foad",25,"Great Britain",2012,Rowing,0,0,1,1
+"Karsten Forsterling",32,Australia,2012,Rowing,0,0,1,1
+"Susan Francia",29,"United States",2012,Rowing,1,0,0,1
+"Magdalena Fularczyk",25,Poland,2012,Rowing,0,0,1,1
+"Scott Gault",29,"United States",2012,Rowing,0,0,1,1
+"Khristina Giazitzidou",22,Greece,2012,Rowing,0,0,1,1
+"Rob Gibson",26,Canada,2012,Rowing,0,1,0,1
+"Drew Ginn",37,Australia,2012,Rowing,0,1,0,1
+"Helen Glover",26,"Great Britain",2012,Rowing,1,0,0,1
+"Katherine Grainger",36,"Great Britain",2012,Rowing,1,0,0,1
+"Alex Gregory",28,"Great Britain",2012,Rowing,1,0,0,1
+"Tim Grohmann",23,Germany,2012,Rowing,1,0,0,1
+"Krista Guloien",32,Canada,2012,Rowing,0,1,0,1
+"Juliette Haigh",29,"New Zealand",2012,Rowing,0,0,1,1
+"Janine Hanson",29,Canada,2012,Rowing,0,1,0,1
+"Phelan Hill",33,"Great Britain",2012,Rowing,0,0,1,1
+"Kate Hornsey",30,Australia,2012,Rowing,0,1,0,1
+"Sophie Hosking",26,"Great Britain",2012,Rowing,1,0,0,1
+"Malcolm Howard",29,Canada,2012,Rowing,0,1,0,1
+"Huang Wenyi",21,China,2012,Rowing,0,1,0,1
+"Mark Hunter",34,"Great Britain",2012,Rowing,0,1,0,1
+"Tom James",28,"Great Britain",2012,Rowing,1,0,0,1
+"Eric Johannesen",24,Germany,2012,Rowing,1,0,0,1
+"Morten Jørgensen",27,Denmark,2012,Rowing,0,0,1,1
+"Megan Kalmoe",28,"United States",2012,Rowing,0,0,1,1
+"Nienke Kingma",30,Netherlands,2012,Rowing,0,0,1,1
+"Mirka Knapková",31,"Czech Republic",2012,Rowing,1,0,0,1
+"Kara Kohler",21,"United States",2012,Rowing,0,0,1,1
+"Anastasiya Kozhenkova",26,Ukraine,2012,Rowing,1,0,0,1
+"Andreas Kuffner",25,Germany,2012,Rowing,1,0,0,1
+"Matt Langridge",29,"Great Britain",2012,Rowing,0,0,1,1
+"Caroline Lind",29,"United States",2012,Rowing,1,0,0,1
+"William Lockwood",24,Australia,2012,Rowing,0,1,0,1
+"Esther Lofgren",27,"United States",2012,Rowing,1,0,0,1
+"Elle Logan",24,"United States",2012,Rowing,1,0,0,1
+"Constantine Louloudis",20,"Great Britain",2012,Rowing,0,0,1,1
+"Darcy Marquardt",33,Canada,2012,Rowing,0,1,0,1
+"Adrienne Martelli",24,"United States",2012,Rowing,0,0,1,1
+"Damir Martin",24,Croatia,2012,Rowing,0,1,0,1
+"Natalie Mastracci",23,Canada,2012,Rowing,0,1,0,1
+"Conlin McCabe",21,Canada,2012,Rowing,0,1,0,1
+"James McRae",25,Australia,2012,Rowing,0,0,1,1
+"Florian Mennigen",30,Germany,2012,Rowing,1,0,0,1
+"Julia Michalska",27,Poland,2012,Rowing,0,0,1,1
+"Chris Morgan",29,Australia,2012,Rowing,0,0,1,1
+"Andréanne Morin",30,Canada,2012,Rowing,0,1,0,1
+"Dorian Mortelette",28,France,2012,Rowing,0,1,0,1
+"Lukas Müller",25,Germany,2012,Rowing,1,0,0,1
+"Eric Murray",30,"New Zealand",2012,Rowing,1,0,0,1
+"Meghan Musnicki",29,"United States",2012,Rowing,1,0,0,1
+"George Nash",22,"Great Britain",2012,Rowing,0,0,1,1
+"Sizwe Ndlovu",31,"South Africa",2012,Rowing,1,0,0,1
+"Daniel Noonan",32,Australia,2012,Rowing,0,0,1,1
+"Glenn Ochal",26,"United States",2012,Rowing,0,0,1,1
+"Britta Oppelt",34,Germany,2012,Rowing,0,1,0,1
+"Sarah Outhwaite-Tait",29,Australia,2012,Rowing,0,1,0,1
+"Alex Partridge",31,"Great Britain",2012,Rowing,0,0,1,1
+"Brooke Pratley",32,Australia,2012,Rowing,0,1,0,1
+"Brian Price",36,Canada,2012,Rowing,0,1,0,1
+"Zac Purchase",26,"Great Britain",2012,Rowing,0,1,0,1
+"Rasmus Quist",32,Denmark,2012,Rowing,1,0,0,1
+"Tom Ransley",26,"Great Britain",2012,Rowing,0,0,1,1
+"Mads Rasmussen",30,Denmark,2012,Rowing,1,0,0,1
+"Pete Reed",31,"Great Britain",2012,Rowing,1,0,0,1
+"Maximilian Reinelt",23,Germany,2012,Rowing,1,0,0,1
+"Roline Repelaer van Driel",28,Netherlands,2012,Rowing,0,0,1,1
+"Julia Richter",23,Germany,2012,Rowing,0,1,0,1
+"Taylor Ritzel",23,"United States",2012,Rowing,1,0,0,1
+"Henrik Rummel",24,"United States",2012,Rowing,0,0,1,1
+"David Šain",24,Croatia,2012,Rowing,0,1,0,1
+"Alessio Sartori",35,Italy,2012,Rowing,0,1,0,1
+"Will Satch",23,"Great Britain",2012,Rowing,0,0,1,1
+"Martin Sauer",29,Germany,2012,Rowing,1,0,0,1
+"Moe Sbihi",24,"Great Britain",2012,Rowing,0,0,1,1
+"Anne Schellekens",26,Netherlands,2012,Rowing,0,0,1,1
+"Richard Schmidt",25,Germany,2012,Rowing,1,0,0,1
+"Lauritz Schoof",21,Germany,2012,Rowing,1,0,0,1
+"Karl Schulze",24,Germany,2012,Rowing,1,0,0,1
+"Rebecca Scown",28,"New Zealand",2012,Rowing,0,0,1,1
+"Greg Searle",40,"Great Britain",2012,Rowing,0,0,1,1
+"Martin Sinkovic",22,Croatia,2012,Rowing,0,1,0,1
+"Valent Sinkovic",23,Croatia,2012,Rowing,0,1,0,1
+"John Smith",22,"South Africa",2012,Rowing,1,0,0,1
+"Luka Špik",33,Slovenia,2012,Rowing,0,0,1,1
+"Heather Stanning",27,"Great Britain",2012,Rowing,1,0,0,1
+"Joseph Sullivan",25,"New Zealand",2012,Rowing,1,0,0,1
+"Ondrej Synek",29,"Czech Republic",2012,Rowing,0,1,0,1
+"Kateryna Tarasenko",24,Ukraine,2012,Rowing,1,0,0,1
+"Peter Taylor",28,"New Zealand",2012,Rowing,0,0,1,1
+"Annekatrin Thiele",27,Germany,2012,Rowing,0,1,0,1
+"James Thompson",25,"South Africa",2012,Rowing,1,0,0,1
+"Lesley Thompson-Willie",52,Canada,2012,Rowing,0,1,0,1
+"Andrew Triggs Hodge",33,"Great Britain",2012,Rowing,1,0,0,1
+"Alexandra Tsiavou",26,Greece,2012,Rowing,0,0,1,1
+"Storm Uru",27,"New Zealand",2012,Rowing,0,0,1,1
+"Jacobine Veenhoven",28,Netherlands,2012,Rowing,0,0,1,1
+"Phillipp Wende",27,Germany,2012,Rowing,1,0,0,1
+"Mary Whipple",32,"United States",2012,Rowing,1,0,0,1
+"Kristof Wilke",27,Germany,2012,Rowing,1,0,0,1
+"Lauren Wilkinson",22,Canada,2012,Rowing,0,1,0,1
+"Rob Williams",27,"Great Britain",2012,Rowing,0,1,0,1
+"Kasper Winther Jørgensen",27,Denmark,2012,Rowing,0,0,1,1
+"Xu Dongxiang",29,China,2012,Rowing,0,1,0,1
+"Elisa Blanchi",24,Italy,2012,"Rhythmic Gymnastics",0,0,1,1
+"Anastasiya Bliznyuk",18,Russia,2012,"Rhythmic Gymnastics",1,0,0,1
+"Lyubov Cherkashina",24,Belarus,2012,"Rhythmic Gymnastics",0,0,1,1
+"Darya Dmitriyeva",19,Russia,2012,"Rhythmic Gymnastics",0,1,0,1
+"Ulyana Donskova",19,Russia,2012,"Rhythmic Gymnastics",1,0,0,1
+"Kseniya Dudkina",17,Russia,2012,"Rhythmic Gymnastics",1,0,0,1
+"Marina Goncharova",22,Belarus,2012,"Rhythmic Gymnastics",0,1,0,1
+"Anastasiya Ivankova",20,Belarus,2012,"Rhythmic Gymnastics",0,1,0,1
+"Yevgeniya Kanayeva",22,Russia,2012,"Rhythmic Gymnastics",1,0,0,1
+"Romina Laurito",25,Italy,2012,"Rhythmic Gymnastics",0,0,1,1
+"Nataliya Leshchik",17,Belarus,2012,"Rhythmic Gymnastics",0,1,0,1
+"Alina Makarenko",17,Russia,2012,"Rhythmic Gymnastics",1,0,0,1
+"Aleksandra Narkevich",17,Belarus,2012,"Rhythmic Gymnastics",0,1,0,1
+"Anastasiya Nazarenko",19,Russia,2012,"Rhythmic Gymnastics",1,0,0,1
+"Marta Pagnini",21,Italy,2012,"Rhythmic Gymnastics",0,0,1,1
+"Kseniya Sankovich",22,Belarus,2012,"Rhythmic Gymnastics",0,1,0,1
+"Elisa Santoni",24,Italy,2012,"Rhythmic Gymnastics",0,0,1,1
+"Angelica Savrayuk",22,Italy,2012,"Rhythmic Gymnastics",0,0,1,1
+"Karolina Sevastyanova",17,Russia,2012,"Rhythmic Gymnastics",1,0,0,1
+"Andreea Stefanescu",18,Italy,2012,"Rhythmic Gymnastics",0,0,1,1
+"Alina Tumilovich",22,Belarus,2012,"Rhythmic Gymnastics",0,1,0,1
+"Laura Asadauskaite",28,Lithuania,2012,"Modern Pentathlon",1,0,0,1
+"Cao Zhongrong",30,China,2012,"Modern Pentathlon",0,1,0,1
+"Ádám Marosi",28,Hungary,2012,"Modern Pentathlon",0,0,1,1
+"Yane Marques",28,Brazil,2012,"Modern Pentathlon",0,0,1,1
+"Samantha Murray",22,"Great Britain",2012,"Modern Pentathlon",0,1,0,1
+"David Svoboda",27,"Czech Republic",2012,"Modern Pentathlon",1,0,0,1
+"Yuri Alvear",26,Colombia,2012,Judo,0,0,1,1
+"An Kum-Ae",32,"North Korea",2012,Judo,1,0,0,1
+"Yanet Bermoy",25,Cuba,2012,Judo,0,1,0,1
+"Ole Bischof",32,Germany,2012,Judo,0,1,0,1
+"Edith Bosch",32,Netherlands,2012,Judo,0,0,1,1
+"Karina Bryant",33,"Great Britain",2012,Judo,0,0,1,1
+"Corina Caprioriu",26,Romania,2012,Judo,0,1,0,1
+"Éva Csernoviczki",25,Hungary,2012,Judo,0,0,1,1
+"Rafael da Silva",25,Brazil,2012,Judo,0,0,1,1
+"Lucie Décosse",30,France,2012,Judo,1,0,0,1
+"Alina Dumitru",29,Romania,2012,Judo,0,1,0,1
+"Masashi Ebinuma",22,Japan,2012,Judo,0,0,1,1
+"Gevrise Emane",30,France,2012,Judo,0,0,1,1
+"Rosalba Forciniti",26,Italy,2012,Judo,0,0,1,1
+"Arsen Galstyan",23,Russia,2012,Judo,1,0,0,1
+"Gemma Gibbons",25,"Great Britain",2012,Judo,0,1,0,1
+"Priscilla Gneto",20,France,2012,Judo,0,0,1,1
+"Asley González",22,Cuba,2012,Judo,0,1,0,1
+"Henk Grol",27,Netherlands,2012,Judo,0,0,1,1
+"Kayla Harrison",22,"United States",2012,Judo,1,0,0,1
+"Hiroaki Hiraoka",27,Japan,2012,Judo,0,1,0,1
+"Ilias Iliadis",25,Greece,2012,Judo,0,0,1,1
+"Mansur Isayev",25,Russia,2012,Judo,1,0,0,1
+"Jo Jun-Ho",23,"South Korea",2012,Judo,0,0,1,1
+"Tagir Khaybulayev",28,Russia,2012,Judo,1,0,0,1
+"Kim Jae-Beom",27,"South Korea",2012,Judo,1,0,0,1
+"Felipe Kitadai",23,Brazil,2012,Judo,0,0,1,1
+"Ugo Legrand",23,France,2012,Judo,0,0,1,1
+"Marti Malloy",26,"United States",2012,Judo,0,0,1,1
+"Kaori Matsumoto",24,Japan,2012,Judo,1,0,0,1
+"Sarah Menezes",22,Brazil,2012,Judo,1,0,0,1
+"Aleksandr Mikhaylin",32,Russia,2012,Judo,0,1,0,1
+"Naidangiin Tüvshinbayar",28,Mongolia,2012,Judo,0,1,0,1
+"Riki Nakaya",23,Japan,2012,Judo,0,1,0,1
+"Ivan Nifontov",25,Russia,2012,Judo,0,0,1,1
+"Masashi Nishiyama",27,Japan,2012,Judo,0,0,1,1
+"Idalys Ortíz",22,Cuba,2012,Judo,1,0,0,1
+"Automne Pavia",23,France,2012,Judo,0,0,1,1
+"Dimitri Peters",28,Germany,2012,Judo,0,0,1,1
+"Teddy Riner",23,France,2012,Judo,1,0,0,1
+"Saynjargalyn Nyam-Ochir",26,Mongolia,2012,Judo,0,0,1,1
+"Lasha Shavdatuashvili",20,Georgia,2012,Judo,1,0,0,1
+"Mayra Silva",20,Brazil,2012,Judo,0,0,1,1
+"Rishod Sobirov",25,Uzbekistan,2012,Judo,0,0,1,1
+"Song Dae-Nam",33,"South Korea",2012,Judo,1,0,0,1
+"Mika Sugimoto",27,Japan,2012,Judo,0,1,0,1
+"Audrey Tcheumeo",22,France,2012,Judo,0,0,1,1
+"Kerstin Thiele",25,Germany,2012,Judo,0,1,0,1
+"Andreas Tölzer",32,Germany,2012,Judo,0,0,1,1
+"Tong Wen",29,China,2012,Judo,0,0,1,1
+"Yoshie Ueno",29,Japan,2012,Judo,0,0,1,1
+"Miklós Ungvári",31,Hungary,2012,Judo,0,1,0,1
+"Antoine Valois-Fortier",22,Canada,2012,Judo,0,0,1,1
+"Charline Van Snick",21,Belgium,2012,Judo,0,0,1,1
+"Xu Lili",24,China,2012,Judo,0,1,0,1
+"Urška Žolnir",30,Slovenia,2012,Judo,1,0,0,1
+,0,Argentina,2012,Hockey,0,1,0,1
+,0,Argentina,2012,Hockey,0,1,0,1
+"Marilyn Agliotti",33,Netherlands,2012,Hockey,1,0,0,1
+"Lucha Aymar",34,Argentina,2012,Hockey,0,1,0,1
+"Sander Baart",24,Netherlands,2012,Hockey,0,1,0,1
+"Billy Bakker",23,Netherlands,2012,Hockey,0,1,0,1
+"Marcel Balkestein",31,Netherlands,2012,Hockey,0,1,0,1
+"Ashleigh Ball",26,"Great Britain",2012,Hockey,0,0,1,1
+"Noel Barrionuevo",28,Argentina,2012,Hockey,0,1,0,1
+"Laura Bartlett",24,"Great Britain",2012,Hockey,0,0,1,1
+"Nathan Burgers",33,Australia,2012,Hockey,0,0,1,1
+"Matthew Butturini",24,Australia,2012,Hockey,0,0,1,1
+"Joel Carroll",25,Australia,2012,Hockey,0,0,1,1
+"Martina Cavallero",22,Argentina,2012,Hockey,0,1,0,1
+"Chris Ciriello",26,Australia,2012,Hockey,0,0,1,1
+"Crista Cullen",26,"Great Britain",2012,Hockey,0,0,1,1
+"Silvina D'Elia",26,Argentina,2012,Hockey,0,1,0,1
+"Alex Danson",27,"Great Britain",2012,Hockey,0,0,1,1
+"Merel de Blaey",25,Netherlands,2012,Hockey,1,0,0,1
+"Eva de Goede",23,Netherlands,2012,Hockey,1,0,0,1
+"Teun de Nooijer",36,Netherlands,2012,Hockey,0,1,0,1
+"Bob de Voogd",23,Netherlands,2012,Hockey,0,1,0,1
+"Sander de Wijn",22,Netherlands,2012,Hockey,0,1,0,1
+"Liam De Young",30,Australia,2012,Hockey,0,0,1,1
+"Timothy Deavin",28,Australia,2012,Hockey,0,0,1,1
+"Oskar Deecke",26,Germany,2012,Hockey,1,0,0,1
+"Carlien Dirkse van den Heuvel",25,Netherlands,2012,Hockey,1,0,0,1
+"Jamie Dwyer",33,Australia,2012,Hockey,0,0,1,1
+"Floris Evers",29,Netherlands,2012,Hockey,0,1,0,1
+"Russell Ford",28,Australia,2012,Hockey,0,0,1,1
+"Florian Fuchs",20,Germany,2012,Hockey,1,0,0,1
+"Moritz Fürste",27,Germany,2012,Hockey,1,0,0,1
+"Maartje Goderie",28,Netherlands,2012,Hockey,1,0,0,1
+"Matt Gohdes",22,Australia,2012,Hockey,0,0,1,1
+"Kieran Govers",24,Australia,2012,Hockey,0,0,1,1
+"Florencia Habif",18,Argentina,2012,Hockey,0,1,0,1
+"Martin Häner",23,Germany,2012,Hockey,1,0,0,1
+"Tobias Hauke",24,Germany,2012,Hockey,1,0,0,1
+"Rogier Hofman",25,Netherlands,2012,Hockey,0,1,0,1
+"Ellen Hoog",26,Netherlands,2012,Hockey,1,0,0,1
+"Tim Jenniskens",25,Netherlands,2012,Hockey,0,1,0,1
+"Wouter Jolie",27,Netherlands,2012,Hockey,0,1,0,1
+"Kelly Jonker",22,Netherlands,2012,Hockey,1,0,0,1
+"Fergus Kavanagh",27,Australia,2012,Hockey,0,0,1,1
+"Robbert Kemperman",22,Netherlands,2012,Hockey,0,1,0,1
+"Mark Knowles",27,Australia,2012,Hockey,0,0,1,1
+"Oliver Korn",28,Germany,2012,Hockey,1,0,0,1
+"Kim Lammers",31,Netherlands,2012,Hockey,1,0,0,1
+"Rosario Luchetti",28,Argentina,2012,Hockey,0,1,0,1
+"Sofia Maccari",28,Argentina,2012,Hockey,0,1,0,1
+"Hannah Macleod",28,"Great Britain",2012,Hockey,0,0,1,1
+"Emily Maguire",24,"Great Britain",2012,Hockey,0,0,1,1
+"Delfina Merino",22,Argentina,2012,Hockey,0,1,0,1
+"Max Müller",25,Germany,2012,Hockey,1,0,0,1
+"María Mutio",27,Argentina,2012,Hockey,0,1,0,1
+"Eddie Ockenden",25,Australia,2012,Hockey,0,0,1,1
+"Simon Orchard",26,Australia,2012,Hockey,0,0,1,1
+"Ann Panter",28,"Great Britain",2012,Hockey,0,0,1,1
+"Maartje Paumen",26,Netherlands,2012,Hockey,1,0,0,1
+"Sophie Polkamp",27,Netherlands,2012,Hockey,1,0,0,1
+"Jan Philipp Rabente",25,Germany,2012,Hockey,1,0,0,1
+"Carla Rebecchi",27,Argentina,2012,Hockey,0,1,0,1
+"Helen Richardson",30,"Great Britain",2012,Hockey,0,0,1,1
+"Ana Rodríguez",31,Argentina,2012,Hockey,0,1,0,1
+"Chloe Rogers",27,"Great Britain",2012,Hockey,0,0,1,1
+"Rocio Sánchez",23,Argentina,2012,Hockey,0,1,0,1
+"Maru Scarone",25,Argentina,2012,Hockey,0,1,0,1
+"Joyce Sombroek",21,Netherlands,2012,Hockey,1,0,0,1
+"Dani Sruoga",24,Argentina,2012,Hockey,0,1,0,1
+"Jose Sruoga",21,Argentina,2012,Hockey,0,1,0,1
+"Jaap Stockmann",28,Netherlands,2012,Hockey,0,1,0,1
+"Beth Storry",34,"Great Britain",2012,Hockey,0,0,1,1
+"Thilo Stralkowski",25,Germany,2012,Hockey,1,0,0,1
+"Matthew Swann",23,Australia,2012,Hockey,0,0,1,1
+"Sarah Thomas",31,"Great Britain",2012,Hockey,0,0,1,1
+"Glenn Turner",28,Australia,2012,Hockey,0,0,1,1
+"Georgie Twigg",21,"Great Britain",2012,Hockey,0,0,1,1
+"Laura Unsworth",24,"Great Britain",2012,Hockey,0,0,1,1
+"Naomi van As",29,Netherlands,2012,Hockey,1,0,0,1
+"Robert van der Horst",27,Netherlands,2012,Hockey,0,1,0,1
+"Mink van der Weerden",23,Netherlands,2012,Hockey,0,1,0,1
+"Margot van Geffen",22,Netherlands,2012,Hockey,1,0,0,1
+"Caia van Maasakker",23,Netherlands,2012,Hockey,1,0,0,1
+"Kitty van Male",24,Netherlands,2012,Hockey,1,0,0,1
+"Valentin Verga",22,Netherlands,2012,Hockey,0,1,0,1
+"Klaas Vermeulen",24,Netherlands,2012,Hockey,0,1,0,1
+"Kate Walsh",32,"Great Britain",2012,Hockey,0,0,1,1
+"Sally Walton",31,"Great Britain",2012,Hockey,0,0,1,1
+"Max Weinhold",30,Germany,2012,Hockey,1,0,0,1
+"Lidewij Welten",22,Netherlands,2012,Hockey,1,0,0,1
+"Christopher Wesley",25,Germany,2012,Hockey,1,0,0,1
+"Roderick Weusthof",30,Netherlands,2012,Hockey,0,1,0,1
+"Benjamin Weß",27,Germany,2012,Hockey,1,0,0,1
+"Timo Weß",30,Germany,2012,Hockey,1,0,0,1
+"Nicola White",24,"Great Britain",2012,Hockey,0,0,1,1
+"Matthias Witthaus",30,Germany,2012,Hockey,1,0,0,1
+"Christopher Zeller",27,Germany,2012,Hockey,1,0,0,1
+"Philipp Zeller",29,Germany,2012,Hockey,1,0,0,1
+"Luc Abalo",27,France,2012,Handball,1,0,0,1
+"William Accambray",24,France,2012,Handball,1,0,0,1
+"Macarena Aguilar",27,Spain,2012,Handball,0,0,1,1
+"Nely Alberto",29,Spain,2012,Handball,0,0,1,1
+"Mirko Alilovic",26,Croatia,2012,Handball,0,0,1,1
+"Jessica Alonso",28,Spain,2012,Handball,0,0,1,1
+"Ida Alstad",27,Norway,2012,Handball,1,0,0,1
+"Vanessa Amorós",29,Spain,2012,Handball,0,0,1,1
+"Kim Andersson",29,Sweden,2012,Handball,0,1,0,1
+"Mattias Andersson",34,Sweden,2012,Handball,0,1,0,1
+"Ivano Balic",33,Croatia,2012,Handball,0,0,1,1
+"Xavier Barachet",23,France,2012,Handball,1,0,0,1
+"Sonja Barjaktarovic",25,Montenegro,2012,Handball,0,1,0,1
+"Andrea Barno",32,Spain,2012,Handball,0,0,1,1
+"Damir Bicanic",27,Croatia,2012,Handball,0,0,1,1
+"Karoline Dyhre Breivang",32,Norway,2012,Handball,1,0,0,1
+"Andela Bulatovic",25,Montenegro,2012,Handball,0,1,0,1
+"Katarina Bulatovic",27,Montenegro,2012,Handball,0,1,0,1
+"Denis Buntic",29,Croatia,2012,Handball,0,0,1,1
+"Mihaela Ciobanu",39,Spain,2012,Handball,0,0,1,1
+"Verónica Cuadrado",33,Spain,2012,Handball,0,0,1,1
+"Ivan Cupic",26,Croatia,2012,Handball,0,0,1,1
+"Didier Dinart",35,France,2012,Handball,1,0,0,1
+"Dalibor Doder",33,Sweden,2012,Handball,0,1,0,1
+"Domagoj Duvnjak",24,Croatia,2012,Handball,0,0,1,1
+"Niclas Ekberg",23,Sweden,2012,Handball,0,1,0,1
+"Kim Ekdahl du Rietz",23,Sweden,2012,Handball,0,1,0,1
+"Patricia Elorza",28,Spain,2012,Handball,0,0,1,1
+"Beatriz Fernández",27,Spain,2012,Handball,0,0,1,1
+"Begoña Fernández",32,Spain,2012,Handball,0,0,1,1
+"Jérôme Fernandez",35,France,2012,Handball,1,0,0,1
+"Marit Malm Frafjord",26,Norway,2012,Handball,1,0,0,1
+"Bertrand Gille",34,France,2012,Handball,1,0,0,1
+"Guillaume Gille",36,France,2012,Handball,1,0,0,1
+"Jakov Gojun",26,Croatia,2012,Handball,0,0,1,1
+"Kari Aalvik Grimsbø",27,Norway,2012,Handball,1,0,0,1
+"Michaël Guigou",30,France,2012,Handball,1,0,0,1
+"Mattias Gustafsson",34,Sweden,2012,Handball,0,1,0,1
+"Katrine Lunde Haraldsen",32,Norway,2012,Handball,1,0,0,1
+"Camilla Herrem",25,Norway,2012,Handball,1,0,0,1
+"Samuel Honrubia",26,France,2012,Handball,1,0,0,1
+"Zlatko Horvat",27,Croatia,2012,Handball,0,0,1,1
+"Johan Jakobsson",25,Sweden,2012,Handball,0,1,0,1
+"Magnus Jernemyr",36,Sweden,2012,Handball,0,1,0,1
+"Kari Mette Johansen",33,Norway,2012,Handball,1,0,0,1
+"Guillaume Joli",27,France,2012,Handball,1,0,0,1
+"Marija Jovanovic",26,Montenegro,2012,Handball,0,1,0,1
+"Jonas Källman",31,Sweden,2012,Handball,0,1,0,1
+"Nikola Karabatic",28,France,2012,Handball,1,0,0,1
+"Daouda Karaboué",36,France,2012,Handball,1,0,0,1
+"Tobias Karlsson",31,Sweden,2012,Handball,0,1,0,1
+"Milena Kneževic",22,Montenegro,2012,Handball,0,1,0,1
+"Marko Kopljar",26,Croatia,2012,Handball,0,0,1,1
+"Amanda Kurtovic",21,Norway,2012,Handball,1,0,0,1
+"Blaženko Lackovic",31,Croatia,2012,Handball,0,0,1,1
+"Jonas Larholm",30,Sweden,2012,Handball,0,1,0,1
+"Suzana Lazovic",20,Montenegro,2012,Handball,0,1,0,1
+"Marta López",22,Spain,2012,Handball,0,0,1,1
+"Venio Losert",36,Croatia,2012,Handball,0,0,1,1
+"Kristine Lunde-Borgersen",32,Norway,2012,Handball,1,0,0,1
+"Heidi Løke",29,Norway,2012,Handball,1,0,0,1
+"Marta Mangué",29,Spain,2012,Handball,0,0,1,1
+"Carmen Martín",24,Spain,2012,Handball,0,0,1,1
+"Majda Mehmedovic",22,Montenegro,2012,Handball,0,1,0,1
+"Radmila Miljanic",24,Montenegro,2012,Handball,0,1,0,1
+"Daniel Narcisse",32,France,2012,Handball,1,0,0,1
+"Silvia Navarro",33,Spain,2012,Handball,0,0,1,1
+"Andreas Nilsson",22,Sweden,2012,Handball,0,1,0,1
+"Ivan Nincevic",30,Croatia,2012,Handball,0,0,1,1
+"Tonje Nøstvold",27,Norway,2012,Handball,1,0,0,1
+"Thierry Omeyer",35,France,2012,Handball,1,0,0,1
+"Fredrik Petersen",28,Sweden,2012,Handball,0,1,0,1
+"Eli Pinedo",31,Spain,2012,Handball,0,0,1,1
+"Bojana Popovic",32,Montenegro,2012,Handball,0,1,0,1
+"Jova Radicevic",25,Montenegro,2012,Handball,0,1,0,1
+"Ana Radovic",25,Montenegro,2012,Handball,0,1,0,1
+"Linn-Kristin Riegelhuth Koren",27,Norway,2012,Handball,1,0,0,1
+"Maja Savic",36,Montenegro,2012,Handball,0,1,0,1
+"Johan Sjöstrand",25,Sweden,2012,Handball,0,1,0,1
+"Gøril Snorroeggen",27,Norway,2012,Handball,1,0,0,1
+"Cédric Sorhaindo",28,France,2012,Handball,1,0,0,1
+"Manuel Štrlek",23,Croatia,2012,Handball,0,0,1,1
+"Linn Jørum Sulland",28,Norway,2012,Handball,1,0,0,1
+"Igor Vori",31,Croatia,2012,Handball,0,0,1,1
+"Marina Vukcevic",18,Montenegro,2012,Handball,0,1,0,1
+"Drago Vukovic",28,Croatia,2012,Handball,0,0,1,1
+"Ana Ðokic",33,Montenegro,2012,Handball,0,1,0,1
+"Kseniya Afanasyeva",20,Russia,2012,Gymnastics,0,1,0,1
+"Krisztián Berki",27,Hungary,2012,Gymnastics,1,0,0,1
+"Diana Bulimar",16,Romania,2012,Gymnastics,0,0,1,1
+"Diana Maria Chelaru",18,Romania,2012,Gymnastics,0,0,1,1
+"Deng Linlin",20,China,2012,Gymnastics,1,0,0,1
+"Anastasiya Grishina",16,Russia,2012,Gymnastics,0,1,0,1
+"Guo Weiyang",24,China,2012,Gymnastics,1,0,0,1
+"Fabian Hambüchen",24,Germany,2012,Gymnastics,0,1,0,1
+"He Kexin",20,China,2012,Gymnastics,0,1,0,1
+"Larisa Iordache",16,Romania,2012,Gymnastics,0,0,1,1
+"Ryohei Kato",18,Japan,2012,Gymnastics,0,1,0,1
+"Danell Leyva",20,"United States",2012,Gymnastics,0,0,1,1
+"Matteo Morandi",30,Italy,2012,Gymnastics,0,0,1,1
+"Sam Oldham",19,"Great Britain",2012,Gymnastics,0,0,1,1
+"Daniel Purvis",21,"Great Britain",2012,Gymnastics,0,0,1,1
+"Ihor Radivilov",19,Ukraine,2012,Gymnastics,0,0,1,1
+"Kyla Ross",15,"United States",2012,Gymnastics,1,0,0,1
+"Hamilton Sabot",25,France,2012,Gymnastics,0,0,1,1
+"Sui Lu",20,China,2012,Gymnastics,0,1,0,1
+"Kazuhito Tanaka",27,Japan,2012,Gymnastics,0,1,0,1
+"Yusuke Tanaka",22,Japan,2012,Gymnastics,0,1,0,1
+"Kristian Thomas",23,"Great Britain",2012,Gymnastics,0,0,1,1
+"Beth Tweddle",27,"Great Britain",2012,Gymnastics,0,0,1,1
+"Jordyn Wieber",17,"United States",2012,Gymnastics,1,0,0,1
+"Koji Yamamuro",23,Japan,2012,Gymnastics,0,1,0,1
+"Yang Hak-Seon",19,"South Korea",2012,Gymnastics,1,0,0,1
+"Arthur Zanetti",22,Brazil,2012,Gymnastics,1,0,0,1
+"Zhang Chenglong",23,China,2012,Gymnastics,1,0,0,1
+"Epke Zonderland",26,Netherlands,2012,Gymnastics,1,0,0,1
+"Alex Sandro",21,Brazil,2012,Football,0,1,0,1
+"Alexandre Pato",22,Brazil,2012,Football,0,1,0,1
+"Kozue Ando",30,Japan,2012,Football,0,1,0,1
+"Javier Aquino",22,Mexico,2012,Football,1,0,0,1
+"Baek Seong-Dong",20,"South Korea",2012,Football,0,0,1,1
+"Shannon Boxx",35,"United States",2012,Football,1,0,0,1
+"Rachel Buehler",26,"United States",2012,Football,1,0,0,1
+"Candace Chapman",29,Canada,2012,Football,0,0,1,1
+"Darvin Chávez",22,Mexico,2012,Football,1,0,0,1
+"Lauren Cheney",24,"United States",2012,Football,1,0,0,1
+"José Corona",31,Mexico,2012,Football,1,0,0,1
+"Javier Cortés",23,Mexico,2012,Football,1,0,0,1
+"Leandro Damião",23,Brazil,2012,Football,0,1,0,1
+Danilo,21,Brazil,2012,Football,0,1,0,1
+"Giovani dos Santos",23,Mexico,2012,Football,1,0,0,1
+"Jorge Enríquez",21,Mexico,2012,Football,1,0,0,1
+"Marco Fabián",23,Mexico,2012,Football,1,0,0,1
+"Jonelle Filigno",21,Canada,2012,Football,0,0,1,1
+"Miho Fukumoto",28,Japan,2012,Football,0,1,0,1
+Gabriel,19,Brazil,2012,Football,0,1,0,1
+Ganso,22,Brazil,2012,Football,0,1,0,1
+"Robyn Gayle",26,Canada,2012,Football,0,0,1,1
+"Gi Seong-Yong",23,"South Korea",2012,Football,0,0,1,1
+"Gu Ja-Cheol",23,"South Korea",2012,Football,0,0,1,1
+"Tobin Heath",24,"United States",2012,Football,1,0,0,1
+"Héctor Herrera",22,Mexico,2012,Football,1,0,0,1
+Hulk,26,Brazil,2012,Football,0,1,0,1
+"Hwang Seok-Ho",23,"South Korea",2012,Football,0,0,1,1
+"Mana Iwabuchi",19,Japan,2012,Football,0,1,0,1
+"Azusa Iwashimizu",25,Japan,2012,Football,0,1,0,1
+"Jeong Seong-Ryong",27,"South Korea",2012,Football,0,0,1,1
+"Jeong U-Yeong",22,"South Korea",2012,Football,0,0,1,1
+"Ji Dong-Won",21,"South Korea",2012,Football,0,0,1,1
+"Israel Jiménez",22,Mexico,2012,Football,1,0,0,1
+"Raúl Jiménez",21,Mexico,2012,Football,1,0,0,1
+Juan,21,Brazil,2012,Football,0,1,0,1
+"Ayumi Kaihori",25,Japan,2012,Football,0,1,0,1
+"Nahomi Kawasumi",26,Japan,2012,Football,0,1,0,1
+"Kim Bo-Gyeong",22,"South Korea",2012,Football,0,0,1,1
+"Kim Chang-Su",26,"South Korea",2012,Football,0,0,1,1
+"Kim Gi-Hui",23,"South Korea",2012,Football,0,0,1,1
+"Kim Hyeon-Seong",22,"South Korea",2012,Football,0,0,1,1
+"Kim Yeong-Gwon",22,"South Korea",2012,Football,0,0,1,1
+"Yukari Kinga",28,Japan,2012,Football,0,1,0,1
+"Saki Kumagai",21,Japan,2012,Football,0,1,0,1
+"Kaylyn Kyle",23,Canada,2012,Football,0,0,1,1
+"Karina LeBlanc",32,Canada,2012,Football,0,0,1,1
+"Lee Beom-Yeong",23,"South Korea",2012,Football,0,0,1,1
+"Amy LePeilbet",30,"United States",2012,Football,1,0,0,1
+"Sydney Leroux",22,"United States",2012,Football,1,0,0,1
+"Carli Lloyd",30,"United States",2012,Football,1,0,0,1
+Lucas,19,Brazil,2012,Football,0,1,0,1
+Marcelo,24,Brazil,2012,Football,0,1,0,1
+"Karina Maruyama",29,Japan,2012,Football,0,1,0,1
+"Diana Matheson",28,Canada,2012,Football,0,0,1,1
+"Erin McLeod",29,Canada,2012,Football,0,0,1,1
+"Hiram Mier",22,Mexico,2012,Football,1,0,0,1
+"Heather Mitts",34,"United States",2012,Football,1,0,0,1
+"Aya Miyama",27,Japan,2012,Football,0,1,0,1
+"Alex Morgan",23,"United States",2012,Football,1,0,0,1
+"Carmelina Moscato",28,Canada,2012,Football,0,0,1,1
+"Yuki Nagasato-Ogimi",25,Japan,2012,Football,0,1,0,1
+"Nam Tae-Hui",21,"South Korea",2012,Football,0,0,1,1
+"Marie-Eve Nault",30,Canada,2012,Football,0,0,1,1
+Neto,23,Brazil,2012,Football,0,1,0,1
+Neymar,20,Brazil,2012,Football,0,1,0,1
+"Kelley O'Hara",23,"United States",2012,Football,1,0,0,1
+"Heather O'Reilly",27,"United States",2012,Football,1,0,0,1
+"O Jae-Seok",22,"South Korea",2012,Football,0,0,1,1
+"Shinobu Ohno",28,Japan,2012,Football,0,1,0,1
+Oscar,20,Brazil,2012,Football,0,1,0,1
+"Park Jong-Wu",23,"South Korea",2012,Football,0,0,1,1
+"Park Ju-Yeong",27,"South Korea",2012,Football,0,0,1,1
+"Kelly Parker",31,Canada,2012,Football,0,0,1,1
+"Christie Pearce-Rampone",37,"United States",2012,Football,1,0,0,1
+"Oribe Peralta",28,Mexico,2012,Football,1,0,0,1
+"Miguel Ponce",23,Mexico,2012,Football,1,0,0,1
+Rafael,22,Brazil,2012,Football,0,1,0,1
+"Megan Rapinoe",27,"United States",2012,Football,1,0,0,1
+"Diego Reyes",19,Mexico,2012,Football,1,0,0,1
+"Amy Rodriguez",25,"United States",2012,Football,1,0,0,1
+Rômulo,21,Brazil,2012,Football,0,1,0,1
+"Mizuho Sakaguchi",24,Japan,2012,Football,0,1,0,1
+"Carlos Salcido",32,Mexico,2012,Football,1,0,0,1
+"Aya Sameshima",25,Japan,2012,Football,0,1,0,1
+Sandro,23,Brazil,2012,Football,0,1,0,1
+"Becky Sauerbrunn",27,"United States",2012,Football,1,0,0,1
+"Homare Sawa",33,Japan,2012,Football,0,1,0,1
+"Sophie Schmidt",24,Canada,2012,Football,0,0,1,1
+"Desiree Scott",24,Canada,2012,Football,0,0,1,1
+"Lauren Sesselmann",28,Canada,2012,Football,0,0,1,1
+"Thiago Silva",27,Brazil,2012,Football,0,1,0,1
+"Christine Sinclair",29,Canada,2012,Football,0,0,1,1
+"Hope Solo",30,"United States",2012,Football,1,0,0,1
+"Chelsea Stewart",22,Canada,2012,Football,0,0,1,1
+"Megumi Takase",21,Japan,2012,Football,0,1,0,1
+"Asuna Tanaka",24,Japan,2012,Football,0,1,0,1
+"Melissa Tancredi",30,Canada,2012,Football,0,0,1,1
+"Brittany Timko",26,Canada,2012,Football,0,0,1,1
+"Bruno Uvini",21,Brazil,2012,Football,0,1,0,1
+"Néstor Vidrio",23,Mexico,2012,Football,1,0,0,1
+"Abby Wambach",32,"United States",2012,Football,1,0,0,1
+"Rhian Wilkinson",30,Canada,2012,Football,0,0,1,1
+"Kyoko Yano",28,Japan,2012,Football,0,1,0,1
+"Yun Seok-Yeong",22,"South Korea",2012,Football,0,0,1,1
+"Alaaeldin Abouelkassem",21,Egypt,2012,Fencing,0,1,0,1
+"Valerio Aspromonte",25,Italy,2012,Fencing,1,0,0,1
+"Giorgio Avola",23,Italy,2012,Fencing,1,0,0,1
+"Suguru Awaji",23,Japan,2012,Fencing,0,1,0,1
+"Sebastian Bachmann",25,Germany,2012,Fencing,0,0,1,1
+"Andrea Baldini",26,Italy,2012,Fencing,1,0,0,1
+"Andrea Cassarà",28,Italy,2012,Fencing,1,0,0,1
+"Kenta Chida",26,Japan,2012,Fencing,0,1,0,1
+"Choi Byeong-Cheol",30,"South Korea",2012,Fencing,0,0,1,1
+"Choi Eun-Sook",26,"South Korea",2012,Fencing,0,1,0,1
+"Choi In-Jeong",22,"South Korea",2012,Fencing,0,1,0,1
+"Inna Deriglazova",22,Russia,2012,Fencing,0,1,0,1
+"Tiberiu Dolniceanu",24,Romania,2012,Fencing,0,1,0,1
+"Rares Dumitrescu",28,Romania,2012,Fencing,0,1,0,1
+"Kamilla Gafurzyanova",24,Russia,2012,Fencing,0,1,0,1
+"Gu Bon-Gil",23,"South Korea",2012,Fencing,1,0,0,1
+"Britta Heidemann",29,Germany,2012,Fencing,0,1,0,1
+"Courtney Hurley",21,"United States",2012,Fencing,0,0,1,1
+"Kelley Hurley",24,"United States",2012,Fencing,0,0,1,1
+"Jeon Hui-Suk",28,"South Korea",2012,Fencing,0,0,1,1
+"Jeong Gil-Ok",31,"South Korea",2012,Fencing,0,0,1,1
+"Jeong Hyo-Jeong",28,"South Korea",2012,Fencing,0,1,0,1
+"Jeong Jin-Seon",28,"South Korea",2012,Fencing,0,0,1,1
+"Peter Joppich",29,Germany,2012,Fencing,0,0,1,1
+"Olha Kharlan",21,Ukraine,2012,Fencing,0,0,1,1
+"Kim Jeong-Hwan",28,"South Korea",2012,Fencing,1,0,0,1
+"Kim Ji-Yeon",24,"South Korea",2012,Fencing,1,0,0,1
+"Benjamin Kleibrink",27,Germany,2012,Fencing,0,0,1,1
+"Larisa Korobeynikova",25,Russia,2012,Fencing,0,1,0,1
+"Nikolay Kovalyov",25,Russia,2012,Fencing,0,0,1,1
+"Maya Lawrence",32,"United States",2012,Fencing,0,0,1,1
+"Lei Sheng",28,China,2012,Fencing,1,0,0,1
+"Li Na",31,China,2012,Fencing,1,0,0,1
+"Rubén Limardo",26,Venezuela,2012,Fencing,1,0,0,1
+"Luo Xiaojuan",28,China,2012,Fencing,1,0,0,1
+"Ryo Miyake",21,Japan,2012,Fencing,0,1,0,1
+"Aldo Montano",33,Italy,2012,Fencing,0,0,1,1
+"Nam Hyeon-Hui",30,"South Korea",2012,Fencing,0,0,1,1
+"O Eun-Seok",29,"South Korea",2012,Fencing,1,0,0,1
+"Oh Ha-Na",27,"South Korea",2012,Fencing,0,0,1,1
+"Yuki Ota",26,Japan,2012,Fencing,0,1,0,1
+"Bartosz Piasecki",25,Norway,2012,Fencing,0,1,0,1
+"Ilaria Salvatori",33,Italy,2012,Fencing,1,0,0,1
+"Luigi Samele",25,Italy,2012,Fencing,0,0,1,1
+"Susie Scanlan",22,"United States",2012,Fencing,0,0,1,1
+"Aida Shanayeva",26,Russia,2012,Fencing,0,1,0,1
+"Yana Shemiakina",26,Ukraine,2012,Fencing,1,0,0,1
+"Sin A-Lam",25,"South Korea",2012,Fencing,0,1,0,1
+"Alexandru Siri?eanu",28,Romania,2012,Fencing,0,1,0,1
+"Áron Szilágyi",22,Hungary,2012,Fencing,1,0,0,1
+"Luigi Tarantino",39,Italy,2012,Fencing,0,0,1,1
+"Sofiya Velikaya",27,Russia,2012,Fencing,0,1,0,1
+"André Weßels",30,Germany,2012,Fencing,0,0,1,1
+"Won Wu-Yeong",30,"South Korea",2012,Fencing,1,0,0,1
+"Xu Anqi",20,China,2012,Fencing,1,0,0,1
+"Florin Zalomir",31,Romania,2012,Fencing,0,1,0,1
+"Ramzy Al-Duhami",40,"Saudi Arabia",2012,Equestrian,0,0,1,1
+"Prince Abdullah Al-Saud",27,"Saudi Arabia",2012,Equestrian,0,0,1,1
+"Sara Algotsson Ostholt",37,Sweden,2012,Equestrian,0,1,0,1
+"Kamal Bahamdan",42,"Saudi Arabia",2012,Equestrian,0,0,1,1
+"Scott Brash",26,"Great Britain",2012,Equestrian,1,0,0,1
+"Peter Charles",52,"Great Britain",2012,Equestrian,1,0,0,1
+"Tina Cook",41,"Great Britain",2012,Equestrian,0,1,0,1
+"William Fox-Pitt",43,"Great Britain",2012,Equestrian,0,1,0,1
+"Edward Gal",42,Netherlands,2012,Equestrian,0,0,1,1
+"Steve Guerdat",30,Switzerland,2012,Equestrian,1,0,0,1
+"Carl Hester",45,"Great Britain",2012,Equestrian,1,0,0,1
+"Marc Houtzager",41,Netherlands,2012,Equestrian,0,1,0,1
+"Ingrid Klimke",44,Germany,2012,Equestrian,1,0,0,1
+"Helen Langehanenberg",30,Germany,2012,Equestrian,0,1,0,1
+"Ben Maher",29,"Great Britain",2012,Equestrian,1,0,0,1
+"Andrew Nicholson",50,"New Zealand",2012,Equestrian,0,0,1,1
+"Cian O'Connor",32,Ireland,2012,Equestrian,0,0,1,1
+"Jonathan Paget",28,"New Zealand",2012,Equestrian,0,0,1,1
+"Zara Phillips",31,"Great Britain",2012,Equestrian,0,1,0,1
+"Caroline Powell",39,"New Zealand",2012,Equestrian,0,0,1,1
+"Jonelle Richards",31,"New Zealand",2012,Equestrian,0,0,1,1
+"Dorothee Schneider",43,Germany,2012,Equestrian,0,1,0,1
+"Dirk Schrade",34,Germany,2012,Equestrian,1,0,0,1
+"Abdullah Sharbatly",29,"Saudi Arabia",2012,Equestrian,0,0,1,1
+"Nick Skelton",54,"Great Britain",2012,Equestrian,1,0,0,1
+"Kristina Sprehe",25,Germany,2012,Equestrian,0,1,0,1
+"Peter Thomsen",51,Germany,2012,Equestrian,1,0,0,1
+"Mary Thomson-King",51,"Great Britain",2012,Equestrian,0,1,0,1
+"Mark Todd",56,"New Zealand",2012,Equestrian,0,0,1,1
+"Maikel van der Vleuten",24,Netherlands,2012,Equestrian,0,1,0,1
+"Anky van Grunsven",44,Netherlands,2012,Equestrian,0,0,1,1
+"Jur Vrieling",43,Netherlands,2012,Equestrian,0,1,0,1
+"Nicola Wilson",35,"Great Britain",2012,Equestrian,0,1,0,1
+"Jennifer Abel",20,Canada,2012,Diving,0,0,1,1
+"Meaghan Benfeito",23,Canada,2012,Diving,0,0,1,1
+"Brittany Broben",16,Australia,2012,Diving,0,1,0,1
+"Kelci Bryant",23,"United States",2012,Diving,0,1,0,1
+"Cao Yuan",17,China,2012,Diving,1,0,0,1
+"Tom Daley",18,"Great Britain",2012,Diving,0,0,1,1
+"Troy Dumais",32,"United States",2012,Diving,0,0,1,1
+"Paola Espinosa",26,Mexico,2012,Diving,0,1,0,1
+"Roseline Filion",25,Canada,2012,Diving,0,0,1,1
+"Iván García",18,Mexico,2012,Diving,0,1,0,1
+"He Chong",25,China,2012,Diving,0,0,1,1
+"Emilie Heymans",30,Canada,2012,Diving,0,0,1,1
+"Kristian Ipsen",19,"United States",2012,Diving,0,0,1,1
+"Abby Johnston",22,"United States",2012,Diving,0,1,0,1
+"Yevgeny Kuznetsov",22,Russia,2012,Diving,0,1,0,1
+"Luo Yutong",26,China,2012,Diving,1,0,0,1
+"Nick McCrory",20,"United States",2012,Diving,0,0,1,1
+"Alejandra Orozco",15,Mexico,2012,Diving,0,1,0,1
+"Pandelela Pamg",19,Malaysia,2012,Diving,0,0,1,1
+"Qiu Bo",19,China,2012,Diving,0,1,0,1
+"Germán Sánchez",20,Mexico,2012,Diving,0,1,0,1
+"Laura Sánchez",26,Mexico,2012,Diving,0,0,1,1
+"Wang Hao",19,China,2012,Diving,1,0,0,1
+"Zhang Yanquan",18,China,2012,Diving,1,0,0,1
+"Lizzie Armitstead",23,"Great Britain",2012,Cycling,0,1,0,1
+"Kristin Armstrong",38,"United States",2012,Cycling,1,0,0,1
+"Judith Arndt",36,Germany,2012,Cycling,0,1,0,1
+"Dotsie Bausch",39,"United States",2012,Cycling,0,1,0,1
+"Sam Bewley",25,"New Zealand",2012,Cycling,0,0,1,1
+"Jack Bobridge",23,Australia,2012,Cycling,0,1,0,1
+"Julie Bresset",23,France,2012,Cycling,1,0,0,1
+"Steven Burke",24,"Great Britain",2012,Cycling,1,0,0,1
+"Gillian Carleton",22,Canada,2012,Cycling,0,0,1,1
+"Bryan Coquard",20,France,2012,Cycling,0,1,0,1
+"Michaël D'Almeida",24,France,2012,Cycling,0,1,0,1
+"Rohan Dennis",22,Australia,2012,Cycling,0,1,0,1
+"Annette Edmondson",20,Australia,2012,Cycling,0,0,1,1
+"René Enders",25,Germany,2012,Cycling,0,0,1,1
+"Marco Aurelio Fontana",27,Italy,2012,Cycling,0,0,1,1
+"Robert Förstemann",26,Germany,2012,Cycling,0,0,1,1
+"Chris Froome",27,"Great Britain",2012,Cycling,0,0,1,1
+"Aaron Gate",21,"New Zealand",2012,Cycling,0,0,1,1
+"Jasmin Glaesser",20,Canada,2012,Cycling,0,0,1,1
+"Gong Jinjie",25,China,2012,Cycling,0,1,0,1
+"Westley Gough",24,"New Zealand",2012,Cycling,0,0,1,1
+"Georgia Gould",32,"United States",2012,Cycling,0,0,1,1
+"Lasse Norman Hansen",20,Denmark,2012,Cycling,1,0,0,1
+"Michael Hepburn",20,Australia,2012,Cycling,0,1,0,1
+"Philip Hindes",19,"Great Britain",2012,Cycling,1,0,0,1
+"Peter Kennaugh",23,"Great Britain",2012,Cycling,1,0,0,1
+"Dani King",21,"Great Britain",2012,Cycling,1,0,0,1
+"Alexander Kristoff",25,Norway,2012,Cycling,0,0,1,1
+"Jaroslav Kulhavý",27,"Czech Republic",2012,Cycling,1,0,0,1
+"Lee Wai Sze",25,"Hong Kong",2012,Cycling,0,0,1,1
+"Tony Martin",27,Germany,2012,Cycling,0,1,0,1
+"Kaarle McCulloch",24,Australia,2012,Cycling,0,0,1,1
+"Teun Mulder",31,Netherlands,2012,Cycling,0,0,1,1
+"Glenn O'Shea",23,Australia,2012,Cycling,0,1,0,1
+"Carlos Oquendo",24,Colombia,2012,Cycling,0,0,1,1
+"Mariana Pajón",20,Colombia,2012,Cycling,1,0,0,1
+"Shane Perkins",25,Australia,2012,Cycling,0,0,1,1
+"Jennie Reed",34,"United States",2012,Cycling,0,1,0,1
+"Joanna Rowsell",23,"Great Britain",2012,Cycling,1,0,0,1
+"Marc Ryan",29,"New Zealand",2012,Cycling,0,0,1,1
+"Nino Schurter",26,Switzerland,2012,Cycling,0,1,0,1
+"Jesse Sergent",24,"New Zealand",2012,Cycling,0,0,1,1
+"Kévin Sireau",25,France,2012,Cycling,0,1,0,1
+"Laura Smulders",18,Netherlands,2012,Cycling,0,0,1,1
+"Sabine Spitz",40,Germany,2012,Cycling,0,1,0,1
+"Maris Štrombergs",25,Latvia,2012,Cycling,1,0,0,1
+"Lauren Tamayo",28,"United States",2012,Cycling,0,1,0,1
+"Geraint Thomas",26,"Great Britain",2012,Cycling,1,0,0,1
+"Rigoberto Urán",25,Colombia,2012,Cycling,0,1,0,1
+"Simon van Velthooven",23,"New Zealand",2012,Cycling,0,0,1,1
+"Aleksandr Vinokurov",38,Kazakhstan,2012,Cycling,1,0,0,1
+"Kristina Vogel",21,Germany,2012,Cycling,1,0,0,1
+"Marianne Vos",25,Netherlands,2012,Cycling,1,0,0,1
+"Sarah Walker",24,"New Zealand",2012,Cycling,0,1,0,1
+"Miriam Welte",25,Germany,2012,Cycling,1,0,0,1
+"Tara Whitten",32,Canada,2012,Cycling,0,0,1,1
+"Bradley Wiggins",32,"Great Britain",2012,Cycling,1,0,0,1
+"Sam Willoughby",20,Australia,2012,Cycling,0,1,0,1
+"Hannes Aigner",23,Germany,2012,Canoeing,0,0,1,1
+"Tim Baillie",33,"Great Britain",2012,Canoeing,1,0,0,1
+"Aleksandr Bogdanovich",30,Belarus,2012,Canoeing,0,1,0,1
+"Andrey Bogdanovich",24,Belarus,2012,Canoeing,0,1,0,1
+"Sebastian Brendel",24,Germany,2012,Canoeing,1,0,0,1
+"David Cal",29,Spain,2012,Canoeing,0,1,0,1
+"Lisa Carrington",23,"New Zealand",2012,Canoeing,1,0,0,1
+"Yuriy Cheban",26,Ukraine,2012,Canoeing,1,0,0,1
+"Maialen Chourraut",29,Spain,2012,Canoeing,0,0,1,1
+"Jacob Clear",27,Australia,2012,Canoeing,1,0,0,1
+"Saúl Craviotto",27,Spain,2012,Canoeing,0,1,0,1
+"Mark de Jonge",28,Canada,2012,Canoeing,0,0,1,1
+"Rudolf Dombi",25,Hungary,2012,Canoeing,1,0,0,1
+"Josef Dostál",19,"Czech Republic",2012,Canoeing,0,0,1,1
+"Aleksandr Dyachenko",22,Russia,2012,Canoeing,1,0,0,1
+"Tony Estanguet",34,France,2012,Canoeing,1,0,0,1
+"Krisztina Fazekas Zur",32,Hungary,2012,Canoeing,1,0,0,1
+"Emilie Fer",29,France,2012,Canoeing,1,0,0,1
+"David Florence",29,"Great Britain",2012,Canoeing,0,1,0,1
+"Jess Fox",18,Australia,2012,Canoeing,0,1,0,1
+"Bridgitte Hartley",29,"South Africa",2012,Canoeing,0,0,1,1
+"Daniel Havel",20,"Czech Republic",2012,Canoeing,0,0,1,1
+"Liam Heath",27,"Great Britain",2012,Canoeing,0,0,1,1
+"Pavol Hochschorner",32,Slovakia,2012,Canoeing,0,0,1,1
+"Peter Hochschorner",32,Slovakia,2012,Canoeing,0,0,1,1
+"Max Hoff",29,Germany,2012,Canoeing,0,0,1,1
+"Martin Hollstein",25,Germany,2012,Canoeing,0,0,1,1
+"Richard Hounslow",30,"Great Britain",2012,Canoeing,0,1,0,1
+"Vavrinec Hradílek",25,"Czech Republic",2012,Canoeing,0,1,0,1
+"Andreas Ihle",33,Germany,2012,Canoeing,0,0,1,1
+"Zoltán Kammerer",34,Hungary,2012,Canoeing,0,1,0,1
+"Olga Khudenko",20,Belarus,2012,Canoeing,0,0,1,1
+"Roland Kökény",36,Hungary,2012,Canoeing,1,0,0,1
+"Aleksey Korovashkov",20,Russia,2012,Canoeing,0,0,1,1
+"Peter Kretschmer",20,Germany,2012,Canoeing,1,0,0,1
+"Tamás Kulifai",23,Hungary,2012,Canoeing,0,1,0,1
+"Kurt Kuschela",23,Germany,2012,Canoeing,1,0,0,1
+"Eirik Verås Larsen",36,Norway,2012,Canoeing,1,0,0,1
+"Carolin Leonhardt",27,Germany,2012,Canoeing,0,1,0,1
+"Vadim Makhnyov",32,Belarus,2012,Canoeing,0,1,0,1
+"Michal Martikán",33,Slovakia,2012,Canoeing,0,0,1,1
+"Ed McKeever",28,"Great Britain",2012,Canoeing,1,0,0,1
+"Beata Mikolajczyk",26,Poland,2012,Canoeing,0,0,1,1
+"Daniele Molmenti",27,Italy,2012,Canoeing,1,0,0,1
+"Karolina Naja",22,Poland,2012,Canoeing,0,0,1,1
+"Mark Oldershaw",29,Canada,2012,Canoeing,0,0,1,1
+"Dániel Pauman",25,Hungary,2012,Canoeing,0,1,0,1
+"Ilya Pervukhin",21,Russia,2012,Canoeing,0,0,1,1
+"Roman Petrushenko",31,Belarus,2012,Canoeing,0,1,0,1
+"Fernando Pimenta",22,Portugal,2012,Canoeing,0,1,0,1
+"Marina Poltoran",24,Belarus,2012,Canoeing,0,0,1,1
+"Irina Pomelova",22,Belarus,2012,Canoeing,0,0,1,1
+"Nadezhda Popok",23,Belarus,2012,Canoeing,0,0,1,1
+"Yury Postrigay",23,Russia,2012,Canoeing,1,0,0,1
+"Jon Schofield",27,"Great Britain",2012,Canoeing,0,0,1,1
+"Ivan Shtyl",26,Russia,2012,Canoeing,0,0,1,1
+"Emanuel Silva",26,Portugal,2012,Canoeing,0,1,0,1
+"Dave Smith",25,Australia,2012,Canoeing,1,0,0,1
+"Tate Smith",30,Australia,2012,Canoeing,1,0,0,1
+"Jan Šterba",31,"Czech Republic",2012,Canoeing,0,0,1,1
+"Murray Stewart",26,Australia,2012,Canoeing,1,0,0,1
+"Etienne Stott",33,"Great Britain",2012,Canoeing,1,0,0,1
+"Jevgenijus Šuklinas",26,Lithuania,2012,Canoeing,0,1,0,1
+"Gabriella Szabó",25,Hungary,2012,Canoeing,1,0,0,1
+"Sideris Tasiadis",22,Germany,2012,Canoeing,0,1,0,1
+"Dávid Tóth",27,Hungary,2012,Canoeing,0,1,0,1
+"Lukáš Trefil",23,"Czech Republic",2012,Canoeing,0,0,1,1
+"Adam Van Koeverden",30,Canada,2012,Canoeing,0,1,0,1
+"Katrin Wagner-Augustin",34,Germany,2012,Canoeing,0,1,0,1
+"Nicola Adams",29,"Great Britain",2012,Boxing,1,0,0,1
+"Misha Aloyan",23,Russia,2012,Boxing,0,0,1,1
+"Lázaro Álvarez",21,Cuba,2012,Boxing,0,0,1,1
+"Adriana Araújo",31,Brazil,2012,Boxing,0,0,1,1
+"Abbos Atayev",26,Uzbekistan,2012,Boxing,0,0,1,1
+"David Ayrapetyan",28,Russia,2012,Boxing,0,0,1,1
+"Paddy Barnes",25,Ireland,2012,Boxing,0,0,1,1
+"Denys Berinchyk",24,Ukraine,2012,Boxing,0,1,0,1
+"Roberto Cammarelle",32,Italy,2012,Boxing,0,1,0,1
+"Luke Campbell",24,"Great Britain",2012,Boxing,1,0,0,1
+"Mavzuna Choriyeva",19,Tajikistan,2012,Boxing,0,0,1,1
+"Michael Conlan",20,Ireland,2012,Boxing,0,0,1,1
+"Ivan Dychko",21,Kazakhstan,2012,Boxing,0,0,1,1
+"Marlen Esparza",23,"United States",2012,Boxing,0,0,1,1
+"Fred Evans",21,"Great Britain",2012,Boxing,0,1,0,1
+"Esquiva Florentino",22,Brazil,2012,Boxing,0,1,0,1
+"Yamaguchi Florentino",24,Brazil,2012,Boxing,0,0,1,1
+"Han Sun-Cheol",27,"South Korea",2012,Boxing,0,1,0,1
+"Oleksandr Hvozdyk",25,Ukraine,2012,Boxing,0,0,1,1
+"Roniel Iglesias",23,Cuba,2012,Boxing,1,0,0,1
+"Anthony Joshua",22,"Great Britain",2012,Boxing,1,0,0,1
+"M. C. Mary Kom",29,India,2012,Boxing,0,0,1,1
+"Li Jinzi",22,China,2012,Boxing,0,0,1,1
+"Vasyl Lomachenko",24,Ukraine,2012,Boxing,1,0,0,1
+"Vincenzo Mangiacapre",23,Italy,2012,Boxing,0,0,1,1
+"Yegor Mekhontsev",27,Russia,2012,Boxing,1,0,0,1
+"Ryota Murata",26,Japan,2012,Boxing,1,0,0,1
+"M?h?mm?dr?sul M?cidov",25,Azerbaijan,2012,Boxing,0,0,1,1
+"Teymur M?mm?dov",19,Azerbaijan,2012,Boxing,0,0,1,1
+"John Joe Nevin",23,Ireland,2012,Boxing,0,1,0,1
+"Adilbek Niyazymbetov",23,Kazakhstan,2012,Boxing,0,1,0,1
+"Nyambayaryn Tögstsogt",20,Mongolia,2012,Boxing,0,1,0,1
+"Sofya Ochigava",25,Russia,2012,Boxing,0,1,0,1
+"Anthony Ogogo",23,"Great Britain",2012,Boxing,0,0,1,1
+"Evaldas Petrauskas",20,Lithuania,2012,Boxing,0,0,1,1
+"Kaeo Pongprayoon",32,Thailand,2012,Boxing,0,1,0,1
+"Tervel Pulev",29,Bulgaria,2012,Boxing,0,0,1,1
+"Robeisy Ramírez",18,Cuba,2012,Boxing,1,0,0,1
+"Ren Cancan",24,China,2012,Boxing,0,1,0,1
+"Clemente Russo",30,Italy,2012,Boxing,0,1,0,1
+"Serik Sapiyev",28,Kazakhstan,2012,Boxing,1,0,0,1
+"Taras Shelestiuk",26,Ukraine,2012,Boxing,0,0,1,1
+"Claressa Shields",17,"United States",2012,Boxing,1,0,0,1
+"Satoshi Shimizu",26,Japan,2012,Boxing,0,0,1,1
+"Katie Taylor",26,Ireland,2012,Boxing,1,0,0,1
+"Yasnier Toledo",22,Cuba,2012,Boxing,0,0,1,1
+"Nadezhda Torlopova",33,Russia,2012,Boxing,0,1,0,1
+"Uranchimegiin Mönkh-Erdene",30,Mongolia,2012,Boxing,0,0,1,1
+"Oleksandr Usik",25,Ukraine,2012,Boxing,1,0,0,1
+"Marina Volnova",23,Kazakhstan,2012,Boxing,0,0,1,1
+"Andrey Zamkovoy",25,Russia,2012,Boxing,0,0,1,1
+"Zou Shiming",31,China,2012,Boxing,1,0,0,1
+"Julius Brink",30,Germany,2012,"Beach Volleyball",1,0,0,1
+"Alison Cerutti",27,Brazil,2012,"Beach Volleyball",0,1,0,1
+Emanuel,39,Brazil,2012,"Beach Volleyball",0,1,0,1
+Juliana,29,Brazil,2012,"Beach Volleyball",0,0,1,1
+"Jen Kessy",34,"United States",2012,"Beach Volleyball",0,1,0,1
+Larissa,30,Brazil,2012,"Beach Volleyball",0,0,1,1
+"Misty May-Treanor",34,"United States",2012,"Beach Volleyball",1,0,0,1
+"Martinš Plavinš",27,Latvia,2012,"Beach Volleyball",0,0,1,1
+"Jonas Reckermann",33,Germany,2012,"Beach Volleyball",1,0,0,1
+"April Ross",30,"United States",2012,"Beach Volleyball",0,1,0,1
+"Janis Šmedinš",24,Latvia,2012,"Beach Volleyball",0,0,1,1
+"Kerri Walsh",33,"United States",2012,"Beach Volleyball",1,0,0,1
+"Carmelo Anthony",28,"United States",2012,Basketball,1,0,0,1
+"Semyon Antonov",23,Russia,2012,Basketball,0,0,1,1
+"Seimone Augustus",28,"United States",2012,Basketball,1,0,0,1
+"Suzy Batkovic",31,Australia,2012,Basketball,0,0,1,1
+"Clémence Beikes",28,France,2012,Basketball,0,1,0,1
+"Sue Bird",31,"United States",2012,Basketball,1,0,0,1
+"Abby Bishop",23,Australia,2012,Basketball,0,0,1,1
+"Kobe Bryant",33,"United States",2012,Basketball,1,0,0,1
+"José Manuel Calderón",30,Spain,2012,Basketball,0,1,0,1
+"Liz Cambage",20,Australia,2012,Basketball,0,0,1,1
+"Swin Cash",32,"United States",2012,Basketball,1,0,0,1
+"Tamika Catchings",33,"United States",2012,Basketball,1,0,0,1
+"Tyson Chandler",29,"United States",2012,Basketball,1,0,0,1
+"Tina Charles",23,"United States",2012,Basketball,1,0,0,1
+"Víctor Claver",23,Spain,2012,Basketball,0,1,0,1
+"Anthony Davis",19,"United States",2012,Basketball,1,0,0,1
+"Jennifer Digbeu",25,France,2012,Basketball,0,1,0,1
+"Céline Dumerc",30,France,2012,Basketball,0,1,0,1
+"Kevin Durant",23,"United States",2012,Basketball,1,0,0,1
+"Rudy Fernández",27,Spain,2012,Basketball,0,1,0,1
+"Sylvia Fowles",26,"United States",2012,Basketball,1,0,0,1
+"Vitaly Fridzon",26,Russia,2012,Basketball,0,0,1,1
+"Marc Gasol",27,Spain,2012,Basketball,0,1,0,1
+"Pau Gasol",32,Spain,2012,Basketball,0,1,0,1
+"Elodie Godin",27,France,2012,Basketball,0,1,0,1
+"Émilie Gomis",28,France,2012,Basketball,0,1,0,1
+"Sandrine Gruda",25,France,2012,Basketball,0,1,0,1
+"James Harden",22,"United States",2012,Basketball,1,0,0,1
+"Kristi Harrower",37,Australia,2012,Basketball,0,0,1,1
+"Serge Ibaka",22,Spain,2012,Basketball,0,1,0,1
+"Andre Iguodala",28,"United States",2012,Basketball,1,0,0,1
+"Lauren Jackson",31,Australia,2012,Basketball,0,0,1,1
+"LeBron James",27,"United States",2012,Basketball,1,0,0,1
+"Rachel Jarry",20,Australia,2012,Basketball,0,0,1,1
+"Asjha Jones",31,"United States",2012,Basketball,1,0,0,1
+"Sergey Karasyov",18,Russia,2012,Basketball,0,0,1,1
+"Aleksandr Kaun",27,Russia,2012,Basketball,0,0,1,1
+"Viktor Khryapa",29,Russia,2012,Basketball,0,0,1,1
+"Dmitry Khvostov",22,Russia,2012,Basketball,0,0,1,1
+"Andrey Kirilenko",31,Russia,2012,Basketball,0,0,1,1
+"Marion Laborde",25,France,2012,Basketball,0,1,0,1
+"Edwige Lawson-Wade",33,France,2012,Basketball,0,1,0,1
+"Florence Lepron",27,France,2012,Basketball,0,1,0,1
+"Sergio Llull",24,Spain,2012,Basketball,0,1,0,1
+"Kevin Love",23,"United States",2012,Basketball,1,0,0,1
+"Kathleen MacLeod",25,Australia,2012,Basketball,0,0,1,1
+"Angel McCoughtry",25,"United States",2012,Basketball,1,0,0,1
+"Endéné Miyem",24,France,2012,Basketball,0,1,0,1
+"Sergey Monya",29,Russia,2012,Basketball,0,0,1,1
+"Maya Moore",23,"United States",2012,Basketball,1,0,0,1
+"Timofey Mozgov",26,Russia,2012,Basketball,0,0,1,1
+"Juan Carlos Navarro",32,Spain,2012,Basketball,0,1,0,1
+"Emmeline Ndongue",29,France,2012,Basketball,0,1,0,1
+"Jenna O'Hea",25,Australia,2012,Basketball,0,0,1,1
+"Candace Parker",26,"United States",2012,Basketball,1,0,0,1
+"Chris Paul",27,"United States",2012,Basketball,1,0,0,1
+"Anton Ponkrashov",26,Russia,2012,Basketball,0,0,1,1
+"Felipe Reyes",32,Spain,2012,Basketball,0,1,0,1
+"Samantha Richards",29,Australia,2012,Basketball,0,0,1,1
+"Sergio Rodríguez",26,Spain,2012,Basketball,0,1,0,1
+"Víctor Sada",28,Spain,2012,Basketball,0,1,0,1
+"Fernando San Emeterio",28,Spain,2012,Basketball,0,1,0,1
+"Jenni Screen",30,Australia,2012,Basketball,0,0,1,1
+"Aleksey Shved",23,Russia,2012,Basketball,0,0,1,1
+"Belinda Snell",31,Australia,2012,Basketball,0,0,1,1
+"Laura Summerton-Hodges",28,Australia,2012,Basketball,0,0,1,1
+"Diana Taurasi",30,"United States",2012,Basketball,1,0,0,1
+"Yevgeny Voronov",26,Russia,2012,Basketball,0,0,1,1
+"Russell Westbrook",23,"United States",2012,Basketball,1,0,0,1
+"Lindsay Whalen",30,"United States",2012,Basketball,1,0,0,1
+"Deron Williams",28,"United States",2012,Basketball,1,0,0,1
+"Isabelle Yacoubou",26,France,2012,Basketball,0,1,0,1
+"Mathias Boe",32,Denmark,2012,Badminton,0,1,0,1
+"Cai Yun",32,China,2012,Badminton,1,0,0,1
+"Chen Long",23,China,2012,Badminton,0,0,1,1
+"Fu Haifeng",28,China,2012,Badminton,1,0,0,1
+"Mizuki Fujii",23,Japan,2012,Badminton,0,1,0,1
+"Jeong Jae-Seong",29,"South Korea",2012,Badminton,0,0,1,1
+"Reika Kakiiwa",23,Japan,2012,Badminton,0,1,0,1
+"Lee Chong Wei",29,Malaysia,2012,Badminton,0,1,0,1
+"Lee Yong-Dae",23,"South Korea",2012,Badminton,0,0,1,1
+"Li Xuerui",21,China,2012,Badminton,1,0,0,1
+"Lin Dan",28,China,2012,Badminton,1,0,0,1
+"Ma Jin",24,China,2012,Badminton,0,1,0,1
+"Carsten Mogensen",29,Denmark,2012,Badminton,0,1,0,1
+"Saina Nehwal",22,India,2012,Badminton,0,0,1,1
+"Joachim Fischer Nielsen",33,Denmark,2012,Badminton,0,0,1,1
+"Christinna Pedersen",26,Denmark,2012,Badminton,0,0,1,1
+"Valeriya Sorokina",28,Russia,2012,Badminton,0,0,1,1
+"Tian Qing",25,China,2012,Badminton,1,0,0,1
+"Nina Vislova",25,Russia,2012,Badminton,0,0,1,1
+"Wang Yihan",24,China,2012,Badminton,0,1,0,1
+"Xu Chen",27,China,2012,Badminton,0,1,0,1
+"Zhang Nan",22,China,2012,Badminton,1,0,0,1
+"Valerie Adams-Vili",27,"New Zealand",2012,Athletics,1,0,0,1
+"Habiba Al-Ghribi-Boudra",28,Tunisia,2012,Athletics,0,1,0,1
+"Ade Alleyne-Forte",23,"Trinidad and Tobago",2012,Athletics,0,0,1,1
+"Nijel Amos",18,Botswana,2012,Athletics,0,1,0,1
+"Sofia Assefa",24,Ethiopia,2012,Athletics,0,0,1,1
+"Ryan Bailey",23,"United States",2012,Athletics,0,1,0,1
+"Kemar Bailey-Cole",20,Jamaica,2012,Athletics,1,0,0,1
+"Keshia Baker",24,"United States",2012,Athletics,1,0,0,1
+"Brigetta Barrett",21,"United States",2012,Athletics,0,1,0,1
+"Erick Barrondo",21,Guatemala,2012,Athletics,0,1,0,1
+"Mutaz Essa Barshim",21,Qatar,2012,Athletics,0,0,1,1
+"Tariku Bekele",25,Ethiopia,2012,Athletics,0,0,1,1
+"Keston Bledman",24,"Trinidad and Tobago",2012,Athletics,0,0,1,1
+"Chris Brown",33,Bahamas,2012,Athletics,1,0,0,1
+"Yelyzaveta Bryzhina",22,Ukraine,2012,Athletics,0,0,1,1
+"Gamze Bulut",20,Turkey,2012,Athletics,0,1,0,1
+"Marc Burns",29,"Trinidad and Tobago",2012,Athletics,0,0,1,1
+"Asli Çakir",26,Turkey,2012,Athletics,1,0,0,1
+"Emmanuel Callender",28,"Trinidad and Tobago",2012,Athletics,0,0,1,1
+"Schillonie Calvert",24,Jamaica,2012,Athletics,0,1,0,1
+"Nesta Carter",26,Jamaica,2012,Athletics,1,0,0,1
+"Chen Ding",19,China,2012,Athletics,1,0,0,1
+"Tatyana Chernova",24,Russia,2012,Athletics,0,0,1,1
+"Anna Chicherova",30,Russia,2012,Athletics,1,0,0,1
+"Javier Culson",28,"Puerto Rico",2012,Athletics,0,0,1,1
+"Christine Day",25,Jamaica,2012,Athletics,0,0,1,1
+"Meseret Defar",28,Ethiopia,2012,Athletics,1,0,0,1
+"Janay DeLoach",26,"United States",2012,Athletics,0,0,1,1
+"Jeff Demps",22,"United States",2012,Athletics,0,1,0,1
+"Lashinda Demus",29,"United States",2012,Athletics,0,1,0,1
+"Diamond Dixon",20,"United States",2012,Athletics,1,0,0,1
+"Fabrizio Donato",35,Italy,2012,Athletics,0,0,1,1
+"Derek Drouin",22,Canada,2012,Athletics,0,0,1,1
+"Ashton Eaton",24,"United States",2012,Athletics,1,0,0,1
+"Jessica Ennis",26,"Great Britain",2012,Athletics,1,0,0,1
+"Tatyana Firova",29,Russia,2012,Athletics,0,1,0,1
+"Michael Frater",29,Jamaica,2012,Athletics,1,0,0,1
+"Tyson Gay",30,"United States",2012,Athletics,0,1,0,1
+"Dejen Gebremeskel",22,Ethiopia,2012,Athletics,0,1,0,1
+"Tiki Gelana",24,Ethiopia,2012,Athletics,1,0,0,1
+"Gong Lijiao",23,China,2012,Athletics,0,0,1,1
+"Robbie Grabarz",24,"Great Britain",2012,Athletics,0,0,1,1
+"Yuliya Gushchina",29,Russia,2012,Athletics,0,1,0,1
+"Ehsan Haddadi",27,Iran,2012,Athletics,0,1,0,1
+"Trey Hardee",28,"United States",2012,Athletics,0,1,0,1
+"Dawn Harper",28,"United States",2012,Athletics,0,1,0,1
+"Robert Harting",27,Germany,2012,Athletics,1,0,0,1
+"Betty Heidler",28,Germany,2012,Athletics,0,0,1,1
+"Zuzana Hejnová",25,"Czech Republic",2012,Athletics,0,0,1,1
+"Samantha Henry-Robinson",23,Jamaica,2012,Athletics,0,1,0,1
+"Reese Hoffa",34,"United States",2012,Athletics,0,0,1,1
+"Raphael Holzdeppe",22,Germany,2012,Athletics,0,0,1,1
+"Caterine Ibargüén",28,Colombia,2012,Athletics,0,1,0,1
+"Abdalaati Iguider",25,Morocco,2012,Athletics,0,0,1,1
+"Yelena Isinbayeva",30,Russia,2012,Athletics,0,0,1,1
+"Maryam Jamal",27,Bahrain,2012,Athletics,0,0,1,1
+"Kirani James",19,Grenada,2012,Athletics,1,0,0,1
+"Priscah Jeptoo",28,Kenya,2012,Athletics,0,1,0,1
+"Olga Kaniskina",27,Russia,2012,Athletics,0,1,0,1
+"Gerd Kanter",33,Estonia,2012,Athletics,0,0,1,1
+"Anastasiya Kapachinskaya",32,Russia,2012,Athletics,0,1,0,1
+"Ezekiel Kemboi",30,Kenya,2012,Athletics,1,0,0,1
+"Trell Kimmons",27,"United States",2012,Athletics,0,1,0,1
+"Stephen Kiprotich",23,Uganda,2012,Athletics,1,0,0,1
+"Wilson Kipsang Kiprotich",30,Kenya,2012,Athletics,0,0,1,1
+"Sally Jepkosgei Kipyego",26,Kenya,2012,Athletics,0,1,0,1
+"Sergey Kirdyapkin",32,Russia,2012,Athletics,1,0,0,1
+"Abel Kirui",30,Kenya,2012,Athletics,0,1,0,1
+"Timothy Kitum",17,Kenya,2012,Athletics,0,0,1,1
+"Bianca Knight",23,"United States",2012,Athletics,1,0,0,1
+"Yevgeniya Kolodko",22,Russia,2012,Athletics,0,1,0,1
+"Primož Kozmus",32,Slovenia,2012,Athletics,0,1,0,1
+"Antonina Krivoshapka",25,Russia,2012,Athletics,0,1,0,1
+"Erik Kynard",21,"United States",2012,Athletics,0,1,0,1
+"Yelena Lashmanova",20,Russia,2012,Athletics,1,0,0,1
+"Renaud Lavillenie",25,France,2012,Athletics,1,0,0,1
+"Deon Lendore",19,"Trinidad and Tobago",2012,Athletics,0,0,1,1
+"Li Yanfeng",33,China,2012,Athletics,0,0,1,1
+"Shereefa Lloyd",29,Jamaica,2012,Athletics,0,0,1,1
+"Thomas Longosiwa",30,Kenya,2012,Athletics,0,0,1,1
+"Tatyana Lysenko",28,Russia,2012,Athletics,1,0,0,1
+"Tianna Madison",26,"United States",2012,Athletics,1,0,0,1
+"Tomasz Majewski",30,Poland,2012,Athletics,1,0,0,1
+"Taoufik Makhloufi",24,Algeria,2012,Athletics,1,0,0,1
+"Josh Mance",20,"United States",2012,Athletics,0,1,0,1
+"Leo Manzano",27,"United States",2012,Athletics,0,1,0,1
+"Michael Mathieu",28,Bahamas,2012,Athletics,1,0,0,1
+"Francena McCorory",23,"United States",2012,Athletics,1,0,0,1
+"Sally McLellan-Pearson",25,Australia,2012,Athletics,1,0,0,1
+"Tony McQuay",22,"United States",2012,Athletics,0,1,0,1
+"Mahiedine Mekhissi-Benabbad",27,France,2012,Athletics,0,1,0,1
+"Aries Merritt",27,"United States",2012,Athletics,1,0,0,1
+"Ramon Miller",25,Bahamas,2012,Athletics,1,0,0,1
+"Manteo Mitchell",25,"United States",2012,Athletics,0,1,0,1
+"Koji Murofushi",37,Japan,2012,Athletics,0,0,1,1
+"Abel Mutai",23,Kenya,2012,Athletics,0,0,1,1
+"Nataliya Nazarova",33,Russia,2012,Athletics,0,1,0,1
+"Bryshon Nellum",23,"United States",2012,Athletics,0,1,0,1
+"Christina Obergföll",30,Germany,2012,Athletics,0,1,0,1
+"Christine Ohuruogu",28,"Great Britain",2012,Athletics,0,1,0,1
+"Björn Otto",34,Germany,2012,Athletics,0,1,0,1
+"Oleksandr P'iatnytsia",27,Ukraine,2012,Athletics,0,1,0,1
+"Hansle Parchment",22,Jamaica,2012,Athletics,0,0,1,1
+"Krisztián Pars",30,Hungary,2012,Athletics,1,0,0,1
+"Darvis Patton",34,"United States",2012,Athletics,0,1,0,1
+"Sandra Perkovic",22,Croatia,2012,Athletics,1,0,0,1
+"Tatyana Petrova-Arkhipova",29,Russia,2012,Athletics,0,0,1,1
+"Demetrius Pinder",23,Bahamas,2012,Athletics,1,0,0,1
+"Darya Pishchalnikova",27,Russia,2012,Athletics,0,1,0,1
+"Yekaterina Poistogova",21,Russia,2012,Athletics,0,0,1,1
+"Olesia Povkh",24,Ukraine,2012,Athletics,0,0,1,1
+"Qieyang Shenjie",21,China,2012,Athletics,0,0,1,1
+"Brittney Reese",25,"United States",2012,Athletics,1,0,0,1
+"Jason Richardson",26,"United States",2012,Athletics,0,1,0,1
+"Mariya Riemien",25,Ukraine,2012,Athletics,0,0,1,1
+"David Rudisha",23,Kenya,2012,Athletics,1,0,0,1
+"Galen Rupp",26,"United States",2012,Athletics,0,1,0,1
+"Greg Rutherford",25,"Great Britain",2012,Athletics,1,0,0,1
+"Antti Ruuskanen",28,Finland,2012,Athletics,0,0,1,1
+"Olga Rypakova",27,Kazakhstan,2012,Athletics,1,0,0,1
+"Olha Saladukha",29,Ukraine,2012,Athletics,0,0,1,1
+"Félix Sánchez",34,"Dominican Republic",2012,Athletics,1,0,0,1
+"Luguelín Santos",19,"Dominican Republic",2012,Athletics,0,1,0,1
+"Mariya Savinova",26,Russia,2012,Athletics,1,0,0,1
+"Lilli Schwarzkopf",28,Germany,2012,Athletics,0,1,0,1
+"Caster Semenya",21,"South Africa",2012,Athletics,0,1,0,1
+"Svetlana Shkolina",26,Russia,2012,Athletics,0,0,1,1
+"Si Tianfeng",28,China,2012,Athletics,0,0,1,1
+"Yarisley Silva",25,Cuba,2012,Athletics,0,1,0,1
+"Sherone Simpson",27,Jamaica,2012,Athletics,0,1,0,1
+"Yelena Sokolova",26,Russia,2012,Athletics,0,1,0,1
+"Jarrin Solomon",26,"Trinidad and Tobago",2012,Athletics,0,0,1,1
+"Barbora Špotáková",31,"Czech Republic",2012,Athletics,1,0,0,1
+"Linda Stahl",26,Germany,2012,Athletics,0,0,1,1
+"Kerron Stewart",28,Jamaica,2012,Athletics,0,1,0,1
+"David Storl",22,Germany,2012,Athletics,0,1,0,1
+"Jenn Stuczynski-Suhr",30,"United States",2012,Athletics,1,0,0,1
+"Hrystyna Stuy",24,Ukraine,2012,Athletics,0,0,1,1
+"Leonel Suárez",24,Cuba,2012,Athletics,0,0,1,1
+"Jared Tallent",27,Australia,2012,Athletics,0,1,0,1
+"Jeneba Tarmoh",22,"United States",2012,Athletics,1,0,0,1
+"Angelo Taylor",33,"United States",2012,Athletics,0,1,0,1
+"Christian Taylor",22,"United States",2012,Athletics,1,0,0,1
+"Richard Thompson",27,"Trinidad and Tobago",2012,Athletics,0,0,1,1
+"Michael Tinsley",28,"United States",2012,Athletics,0,1,0,1
+"Ivan Ukhov",26,Russia,2012,Athletics,1,0,0,1
+"Keshorn Walcott",19,"Trinidad and Tobago",2012,Athletics,1,0,0,1
+"Wang Zhen",20,China,2012,Athletics,0,0,1,1
+"Mitch Watt",24,Australia,2012,Athletics,0,1,0,1
+"Warren Weir",22,Jamaica,2012,Athletics,0,0,1,1
+"Kellie Wells",30,"United States",2012,Athletics,0,0,1,1
+"Rosemarie Whyte",25,Jamaica,2012,Athletics,0,0,1,1
+"Lauryn Williams",28,"United States",2012,Athletics,1,0,0,1
+"Shericka Williams",26,Jamaica,2012,Athletics,0,0,1,1
+"Novlene Williams-Mills",30,Jamaica,2012,Athletics,0,0,1,1
+"Anita Wlodarczyk",27,Poland,2012,Athletics,0,1,0,1
+"Yuliya Zaripova",26,Russia,2012,Athletics,1,0,0,1
+"Mariana Avitia",18,Mexico,2012,Archery,0,0,1,1
+"Cheng Ming",26,China,2012,Archery,0,1,0,1
+"Choi Hyeon-Ju",27,"South Korea",2012,Archery,1,0,0,1
+"Dai Xiaoxiang",21,China,2012,Archery,0,0,1,1
+"Brady Ellison",23,"United States",2012,Archery,0,1,0,1
+"Fang Yuting",22,China,2012,Archery,0,1,0,1
+"Michele Frangilli",36,Italy,2012,Archery,1,0,0,1
+"Takaharu Furukawa",27,Japan,2012,Archery,0,1,0,1
+"Marco Galiazzo",29,Italy,2012,Archery,1,0,0,1
+"Ren Hayakawa",24,Japan,2012,Archery,0,0,1,1
+"Im Dong-Hyeon",27,"South Korea",2012,Archery,0,0,1,1
+"Jake Kaminski",23,"United States",2012,Archery,0,1,0,1
+"Miki Kanie",23,Japan,2012,Archery,0,0,1,1
+"Kaori Kawanaka",20,Japan,2012,Archery,0,0,1,1
+"Kim Bub-Min",21,"South Korea",2012,Archery,0,0,1,1
+"Lee Seong-Jin",27,"South Korea",2012,Archery,1,0,0,1
+"Mauro Nespoli",24,Italy,2012,Archery,1,0,0,1
+"Aída Román",24,Mexico,2012,Archery,0,1,0,1
+"Jacob Wukie",26,"United States",2012,Archery,0,1,0,1
+"Xu Jing",21,China,2012,Archery,0,1,0,1

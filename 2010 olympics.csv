@@ -1,0 +1,442 @@
+athlete,age,country,year,sport,"Gold Medals","Silver Medals","Bronze Medals","Total Medals"
+"Marit Bjørgen",29,Norway,2010,"Cross Country Skiing",3,1,1,5
+"Petter Northug Jr.",24,Norway,2010,"Cross Country Skiing",2,1,1,4
+"Lee Jeong-Su",20,"South Korea",2010,"Short-Track Speed Skating",2,1,0,3
+"Apolo Anton Ohno",27,"United States",2010,"Short-Track Speed Skating",0,1,2,3
+"Wang Meng",24,China,2010,"Short-Track Speed Skating",3,0,0,3
+"Stephanie Beckert",21,Germany,2010,"Speed Skating",1,2,0,3
+"Martina Sáblíková",22,"Czech Republic",2010,"Speed Skating",2,0,1,3
+"Gregor Schlierenzauer",20,Austria,2010,"Ski Jumping",1,0,2,3
+"Johnny Spillane",29,"United States",2010,"Nordic Combined",0,3,0,3
+"Justyna Kowalczyk",27,Poland,2010,"Cross Country Skiing",1,1,1,3
+"Johan Olsson",29,Sweden,2010,"Cross Country Skiing",1,0,2,3
+"Magdalena Neuner",23,Germany,2010,Biathlon,2,1,0,3
+"Emil Hegle Svendsen",24,Norway,2010,Biathlon,2,1,0,3
+"Bode Miller",32,"United States",2010,"Alpine Skiing",1,1,1,3
+"Aksel Lund Svindal",27,Norway,2010,"Alpine Skiing",1,1,1,3
+"J. R. Celski",19,"United States",2010,"Short-Track Speed Skating",0,0,2,2
+"Charles Hamelin",25,Canada,2010,"Short-Track Speed Skating",2,0,0,2
+"Lee Ho-Seok",23,"South Korea",2010,"Short-Track Speed Skating",0,2,0,2
+"Park Seung-Hui",17,"South Korea",2010,"Short-Track Speed Skating",0,0,2,2
+"Katherine Reutter",21,"United States",2010,"Short-Track Speed Skating",0,1,1,2
+"Seong Si-Baek",22,"South Korea",2010,"Short-Track Speed Skating",0,2,0,2
+"Marianne St-Gelais",19,Canada,2010,"Short-Track Speed Skating",0,2,0,2
+"François-Louis Tremblay",29,Canada,2010,"Short-Track Speed Skating",1,0,1,2
+"Zhou Yang",18,China,2010,"Short-Track Speed Skating",2,0,0,2
+"Shani Davis",27,"United States",2010,"Speed Skating",1,1,0,2
+"Kristina Groves",33,Canada,2010,"Speed Skating",0,1,1,2
+"Chad Hedrick",32,"United States",2010,"Speed Skating",0,1,1,2
+"Sven Kramer",23,Netherlands,2010,"Speed Skating",1,0,1,2
+"Lee Seung-Hun",21,"South Korea",2010,"Speed Skating",1,1,0,2
+"Mo Tae-Beom",21,"South Korea",2010,"Speed Skating",1,1,0,2
+"Ivan Skobrev",27,Russia,2010,"Speed Skating",0,1,1,2
+"Mark Tuitert",29,Netherlands,2010,"Speed Skating",1,0,1,2
+"Simon Ammann",28,Switzerland,2010,"Ski Jumping",2,0,0,2
+"Adam Malysz",32,Poland,2010,"Ski Jumping",0,2,0,2
+"Bill Demong",29,"United States",2010,"Nordic Combined",1,1,0,2
+"Bernhard Gruber",27,Austria,2010,"Nordic Combined",1,0,1,2
+"Lukáš Bauer",32,"Czech Republic",2010,"Cross Country Skiing",0,0,2,2
+"Anna Haag",23,Sweden,2010,"Cross Country Skiing",0,2,0,2
+"Marcus Hellner",24,Sweden,2010,"Cross Country Skiing",2,0,0,2
+"Charlotte Kalla",22,Sweden,2010,"Cross Country Skiing",1,1,0,2
+"Claudia Künzel-Nystad",32,Germany,2010,"Cross Country Skiing",1,1,0,2
+"Aino-Kaisa Saarinen",31,Finland,2010,"Cross Country Skiing",0,0,2,2
+"Evi Sachenbacher-Stehle",29,Germany,2010,"Cross Country Skiing",1,1,0,2
+"Axel Teichmann",30,Germany,2010,"Cross Country Skiing",0,2,0,2
+"Kevin Kuske",31,Germany,2010,Bobsleigh,1,1,0,2
+"André Lange",36,Germany,2010,Bobsleigh,1,1,0,2
+"Ole Einar Bjørndalen",36,Norway,2010,Biathlon,1,1,0,2
+"Marie Laure Brunet",21,France,2010,Biathlon,0,1,1,2
+"Marie Dorin",23,France,2010,Biathlon,0,1,1,2
+"Simone Hauswald",30,Germany,2010,Biathlon,0,0,2,2
+"Vincent Jay",24,France,2010,Biathlon,1,0,1,2
+"Anastasia Kuzmina",25,Slovakia,2010,Biathlon,1,1,0,2
+"Christoph Sumann",34,Austria,2010,Biathlon,0,2,0,2
+"Yevgeny Ustyugov",24,Russia,2010,Biathlon,1,0,1,2
+"Olga Zaytseva",31,Russia,2010,Biathlon,1,1,0,2
+"Elisabeth Görgl",28,Austria,2010,"Alpine Skiing",0,0,2,2
+"Lindsey Kildow-Vonn",25,"United States",2010,"Alpine Skiing",1,0,1,2
+"Ivica Kostelic",30,Croatia,2010,"Alpine Skiing",0,2,0,2
+"Julia Mancuso",25,"United States",2010,"Alpine Skiing",0,2,0,2
+"Tina Maze",26,Slovenia,2010,"Alpine Skiing",0,2,0,2
+"Maria Riesch",25,Germany,2010,"Alpine Skiing",2,0,0,2
+"Guillaume Bastille",24,Canada,2010,"Short-Track Speed Skating",1,0,0,1
+"Allison Baver",29,"United States",2010,"Short-Track Speed Skating",0,0,1,1
+"Simon Cho",18,"United States",2010,"Short-Track Speed Skating",0,0,1,1
+"Kimberly Derrick",24,"United States",2010,"Short-Track Speed Skating",0,0,1,1
+"Aly Dudek",19,"United States",2010,"Short-Track Speed Skating",0,0,1,1
+"Arianna Fontana",19,Italy,2010,"Short-Track Speed Skating",0,0,1,1
+"Lana Gehring",19,"United States",2010,"Short-Track Speed Skating",0,0,1,1
+"Jessica Gregg",21,Canada,2010,"Short-Track Speed Skating",0,1,0,1
+"Gwak Yun-Gi",20,"South Korea",2010,"Short-Track Speed Skating",0,1,0,1
+"François Hamelin",23,Canada,2010,"Short-Track Speed Skating",1,0,0,1
+"Travis Jayner",27,"United States",2010,"Short-Track Speed Skating",0,0,1,1
+"Olivier Jean",25,Canada,2010,"Short-Track Speed Skating",1,0,0,1
+"Kim Seong-Il",19,"South Korea",2010,"Short-Track Speed Skating",0,1,0,1
+"Lee Eun-Byeol",18,"South Korea",2010,"Short-Track Speed Skating",0,1,0,1
+"Jordan Malone",25,"United States",2010,"Short-Track Speed Skating",0,0,1,1
+"Kalyna Roberge",23,Canada,2010,"Short-Track Speed Skating",0,1,0,1
+"Sun Linlin",21,China,2010,"Short-Track Speed Skating",1,0,0,1
+"Tania Vicent",34,Canada,2010,"Short-Track Speed Skating",0,1,0,1
+"Zhang Hui",21,China,2010,"Short-Track Speed Skating",1,0,0,1
+"Daniela Anschütz-Thoms",35,Germany,2010,"Speed Skating",1,0,0,1
+"Jan Blokhuijsen",20,Netherlands,2010,"Speed Skating",0,0,1,1
+"Håvard Bøkko",23,Norway,2010,"Speed Skating",0,0,1,1
+"Bob de Jong",33,Netherlands,2010,"Speed Skating",0,0,1,1
+"Anni Friesinger-Postma",33,Germany,2010,"Speed Skating",1,0,0,1
+"Annette Gerritsen",24,Netherlands,2010,"Speed Skating",0,1,0,1
+"Mathieu Giroux",24,Canada,2010,"Speed Skating",1,0,0,1
+"Brian Hansen",19,"United States",2010,"Speed Skating",0,1,0,1
+"Masako Hozumi",23,Japan,2010,"Speed Skating",0,1,0,1
+"Clara Hughes",37,Canada,2010,"Speed Skating",0,0,1,1
+"Joji Kato",25,Japan,2010,"Speed Skating",0,0,1,1
+"Nao Kodaira",23,Japan,2010,"Speed Skating",0,1,0,1
+"Jonathan Kuck",19,"United States",2010,"Speed Skating",0,1,0,1
+"Simon Kuipers",27,Netherlands,2010,"Speed Skating",0,0,1,1
+"Lee Sang-Hwa",20,"South Korea",2010,"Speed Skating",1,0,0,1
+"Lucas Makowsky",22,Canada,2010,"Speed Skating",1,0,0,1
+"Trevor Marsicano",20,"United States",2010,"Speed Skating",0,1,0,1
+"Katrin Mattscherodt",28,Germany,2010,"Speed Skating",1,0,0,1
+"Denny Morrison",24,Canada,2010,"Speed Skating",1,0,0,1
+"Keiichiro Nagashima",27,Japan,2010,"Speed Skating",0,1,0,1
+"Christine Nesbitt",24,Canada,2010,"Speed Skating",1,0,0,1
+"Maki Tabata",35,Japan,2010,"Speed Skating",0,1,0,1
+"Laurine van Riessen",22,Netherlands,2010,"Speed Skating",0,0,1,1
+"Wang Beixing",24,China,2010,"Speed Skating",0,0,1,1
+"Katarzyna Wójcicka-Bachleda-Curus",30,Poland,2010,"Speed Skating",0,0,1,1
+"Jenny Wolf",31,Germany,2010,"Speed Skating",0,1,0,1
+"Katarzyna Wozniak",20,Poland,2010,"Speed Skating",0,0,1,1
+"Ireen Wüst",23,Netherlands,2010,"Speed Skating",1,0,0,1
+"Luiza Zlotkowska",23,Poland,2010,"Speed Skating",0,0,1,1
+"Jasey-Jay Anderson",34,Canada,2010,Snowboarding,1,0,0,1
+"Déborah Anthonioz",31,France,2010,Snowboarding,0,1,0,1
+"Mathieu Bozzetto",36,France,2010,Snowboarding,0,0,1,1
+"Torah Bright",23,Australia,2010,Snowboarding,1,0,0,1
+"Kelly Clark",26,"United States",2010,Snowboarding,0,0,1,1
+"Yekaterina Ilyukhina",22,Russia,2010,Snowboarding,0,1,0,1
+"Benjamin Karl",24,Austria,2010,Snowboarding,0,1,0,1
+"Marion Kreiner",28,Austria,2010,Snowboarding,0,0,1,1
+"Scotty Lago",22,"United States",2010,Snowboarding,0,0,1,1
+"Olivia Nobs",27,Switzerland,2010,Snowboarding,0,0,1,1
+"Peetu Piiroinen",22,Finland,2010,Snowboarding,0,1,0,1
+"Tony Ramoin",21,France,2010,Snowboarding,0,0,1,1
+"Maëlle Ricker",31,Canada,2010,Snowboarding,1,0,0,1
+"Mike Robertson",24,Canada,2010,Snowboarding,0,1,0,1
+"Nicolien Sauerbreij",30,Netherlands,2010,Snowboarding,1,0,0,1
+"Hannah Teter",23,"United States",2010,Snowboarding,0,1,0,1
+"Seth Wescott",33,"United States",2010,Snowboarding,1,0,0,1
+"Shaun White",23,"United States",2010,Snowboarding,1,0,0,1
+"Anders Bardal",27,Norway,2010,"Ski Jumping",0,0,1,1
+"Johan Remen Evensen",24,Norway,2010,"Ski Jumping",0,0,1,1
+"Tom Hilde",22,Norway,2010,"Ski Jumping",0,0,1,1
+"Anders Jacobsen",25,Norway,2010,"Ski Jumping",0,0,1,1
+"Andreas Kofler",25,Austria,2010,"Ski Jumping",1,0,0,1
+"Wolfgang Loitzl",30,Austria,2010,"Ski Jumping",1,0,0,1
+"Thomas Morgenstern",23,Austria,2010,"Ski Jumping",1,0,0,1
+"Michael Neumayer",31,Germany,2010,"Ski Jumping",0,1,0,1
+"Martin Schmitt",32,Germany,2010,"Ski Jumping",0,1,0,1
+"Michael Uhrmann",31,Germany,2010,"Ski Jumping",0,1,0,1
+"Andreas Wank",22,Germany,2010,"Ski Jumping",0,1,0,1
+"Martins Dukurs",25,Latvia,2010,Skeleton,0,1,0,1
+"Anja Huber",26,Germany,2010,Skeleton,0,0,1,1
+"Jon Montgomery",30,Canada,2010,Skeleton,1,0,0,1
+"Kerstin Szymkowiak",32,Germany,2010,Skeleton,0,1,0,1
+"Aleksandr Tretyakov",24,Russia,2010,Skeleton,0,0,1,1
+"Amy Williams",27,"Great Britain",2010,Skeleton,1,0,0,1
+"Brett Camerota",25,"United States",2010,"Nordic Combined",0,1,0,1
+"Tino Edelmann",24,Germany,2010,"Nordic Combined",0,0,1,1
+"Eric Frenzel",21,Germany,2010,"Nordic Combined",0,0,1,1
+"Felix Gottwald",34,Austria,2010,"Nordic Combined",1,0,0,1
+"Björn Kircheisen",26,Germany,2010,"Nordic Combined",0,0,1,1
+"David Kreiner",28,Austria,2010,"Nordic Combined",1,0,0,1
+"Jason Lamy-Chappuis",23,France,2010,"Nordic Combined",1,0,0,1
+"Todd Lodwick",33,"United States",2010,"Nordic Combined",0,1,0,1
+"Alessandro Pittin",20,Italy,2010,"Nordic Combined",0,0,1,1
+"Johannes Rydzek",18,Germany,2010,"Nordic Combined",0,0,1,1
+"Mario Stecher",32,Austria,2010,"Nordic Combined",1,0,0,1
+"Natalie Geisenberger",22,Germany,2010,Luge,0,0,1,1
+"Tatjana Hüfner",26,Germany,2010,Luge,1,0,0,1
+"Patric Leitner",32,Germany,2010,Luge,0,0,1,1
+"Andreas Linger",28,Austria,2010,Luge,1,0,0,1
+"Wolfgang Linger",27,Austria,2010,Luge,1,0,0,1
+"Felix Loch",20,Germany,2010,Luge,1,0,0,1
+"David Möller",28,Germany,2010,Luge,0,1,0,1
+"Nina Reithmayer",25,Austria,2010,Luge,0,1,0,1
+"Alexander Resch",30,Germany,2010,Luge,0,0,1,1
+"Andris Šics",24,Latvia,2010,Luge,0,1,0,1
+"Juris Šics",26,Latvia,2010,Luge,0,1,0,1
+"Armin Zöggeler",36,Italy,2010,Luge,0,0,1,1
+"Meghan Agosta",23,Canada,2010,"Ice Hockey",1,0,0,1
+"Gillian Apps",26,Canada,2010,"Ice Hockey",1,0,0,1
+"David Backes",25,"United States",2010,"Ice Hockey",0,1,0,1
+"Niklas Bäckström",32,Finland,2010,"Ice Hockey",0,0,1,1
+"Kacey Bellamy",22,"United States",2010,"Ice Hockey",0,1,0,1
+"Patrice Bergeron-Cleary",24,Canada,2010,"Ice Hockey",1,0,0,1
+"Tessa Bonhomme",24,Canada,2010,"Ice Hockey",1,0,0,1
+"Jennifer Botterill",30,Canada,2010,"Ice Hockey",1,0,0,1
+"Dan Boyle",33,Canada,2010,"Ice Hockey",1,0,0,1
+"Martin Brodeur",37,Canada,2010,"Ice Hockey",1,0,0,1
+"Dustin Brown",25,"United States",2010,"Ice Hockey",0,1,0,1
+"Caitlin Cahow",24,"United States",2010,"Ice Hockey",0,1,0,1
+"Ryan Callahan",24,"United States",2010,"Ice Hockey",0,1,0,1
+"Lisa Chesson",23,"United States",2010,"Ice Hockey",0,1,0,1
+"Julie Chu",27,"United States",2010,"Ice Hockey",0,1,0,1
+"Sidney Crosby",22,Canada,2010,"Ice Hockey",1,0,0,1
+"Natalie Darwitz",26,"United States",2010,"Ice Hockey",0,1,0,1
+"Drew Doughty",20,Canada,2010,"Ice Hockey",1,0,0,1
+"Chris Drury",33,"United States",2010,"Ice Hockey",0,1,0,1
+"Meghan Duggan",22,"United States",2010,"Ice Hockey",0,1,0,1
+"Molly Engstrom",26,"United States",2010,"Ice Hockey",0,1,0,1
+"Valtteri Filppula",25,Finland,2010,"Ice Hockey",0,0,1,1
+"Ryan Getzlaf",24,Canada,2010,"Ice Hockey",1,0,0,1
+"Tim Gleason",27,"United States",2010,"Ice Hockey",0,1,0,1
+"Niklas Hagman",30,Finland,2010,"Ice Hockey",0,0,1,1
+"Dany Heatley",29,Canada,2010,"Ice Hockey",1,0,0,1
+"Jayna Hefford",32,Canada,2010,"Ice Hockey",1,0,0,1
+"Anne Helin",23,Finland,2010,"Ice Hockey",0,0,1,1
+"Jenni Hiirikoski",22,Finland,2010,"Ice Hockey",0,0,1,1
+"Venla Hovi",22,Finland,2010,"Ice Hockey",0,0,1,1
+"Jarome Iginla",32,Canada,2010,"Ice Hockey",1,0,0,1
+"Jarkko Immonen",27,Finland,2010,"Ice Hockey",0,0,1,1
+"Haley Irwin",21,Canada,2010,"Ice Hockey",1,0,0,1
+"Erik Johnson",21,"United States",2010,"Ice Hockey",0,1,0,1
+"Jack Johnson",23,"United States",2010,"Ice Hockey",0,1,0,1
+"Rebecca Johnston",20,Canada,2010,"Ice Hockey",1,0,0,1
+"Olli Jokinen",31,Finland,2010,"Ice Hockey",0,0,1,1
+"Patrick Kane",21,"United States",2010,"Ice Hockey",0,1,0,1
+"Niko Kapanen",31,Finland,2010,"Ice Hockey",0,0,1,1
+"Michelle Karvinen",19,Finland,2010,"Ice Hockey",0,0,1,1
+"Duncan Keith",26,Canada,2010,"Ice Hockey",1,0,0,1
+"Becky Kellar",35,Canada,2010,"Ice Hockey",1,0,0,1
+"Ryan Kesler",25,"United States",2010,"Ice Hockey",0,1,0,1
+"Phil Kessel",22,"United States",2010,"Ice Hockey",0,1,0,1
+"Gina Kingsbury",28,Canada,2010,"Ice Hockey",1,0,0,1
+"Miikka Kiprusoff",33,Finland,2010,"Ice Hockey",0,0,1,1
+"Hilary Knight",20,"United States",2010,"Ice Hockey",0,1,0,1
+"Mikko Koivu",26,Finland,2010,"Ice Hockey",0,0,1,1
+"Saku Koivu",35,Finland,2010,"Ice Hockey",0,0,1,1
+"Lasse Kukkonen",28,Finland,2010,"Ice Hockey",0,0,1,1
+"Emma Laaksonen",28,Finland,2010,"Ice Hockey",0,0,1,1
+"Charlie Labonté",27,Canada,2010,"Ice Hockey",1,0,0,1
+"Jocelyne Lamoureux",20,"United States",2010,"Ice Hockey",0,1,0,1
+"Monique Lamoureux",20,"United States",2010,"Ice Hockey",0,1,0,1
+"Jamie Langenbrunner",34,"United States",2010,"Ice Hockey",0,1,0,1
+"Erika Lawler",23,"United States",2010,"Ice Hockey",0,1,0,1
+"Jere Lehtinen",36,Finland,2010,"Ice Hockey",0,0,1,1
+"Sami Lepistö",25,Finland,2010,"Ice Hockey",0,0,1,1
+"Rosa Lindstedt",22,Finland,2010,"Ice Hockey",0,0,1,1
+"Roberto Luongo",30,Canada,2010,"Ice Hockey",1,0,0,1
+"Toni Lydman",32,Finland,2010,"Ice Hockey",0,0,1,1
+"Carla MacLeod",27,Canada,2010,"Ice Hockey",1,0,0,1
+"Ryan Malone",30,"United States",2010,"Ice Hockey",0,1,0,1
+"Patrick Marleau",30,Canada,2010,"Ice Hockey",1,0,0,1
+"Gigi Marvin",22,"United States",2010,"Ice Hockey",0,1,0,1
+"Brianne McLaughlin",22,"United States",2010,"Ice Hockey",0,1,0,1
+"Terhi Mertanen",28,Finland,2010,"Ice Hockey",0,0,1,1
+"Antti Miettinen",29,Finland,2010,"Ice Hockey",0,0,1,1
+"Meaghan Mikkelson",25,Canada,2010,"Ice Hockey",1,0,0,1
+"Ryan Miller",29,"United States",2010,"Ice Hockey",0,1,0,1
+"Brenden Morrow",31,Canada,2010,"Ice Hockey",1,0,0,1
+"Rick Nash",25,Canada,2010,"Ice Hockey",1,0,0,1
+"Scott Niedermayer",36,Canada,2010,"Ice Hockey",1,0,0,1
+"Janne Niskala",28,Finland,2010,"Ice Hockey",0,0,1,1
+"Brooks Orpik",29,"United States",2010,"Ice Hockey",0,1,0,1
+"Caroline Ouellette",30,Canada,2010,"Ice Hockey",1,0,0,1
+"Zach Parise",25,"United States",2010,"Ice Hockey",0,1,0,1
+"Joe Pavelski",25,"United States",2010,"Ice Hockey",0,1,0,1
+"Ville Peltonen",36,Finland,2010,"Ice Hockey",0,0,1,1
+"Heidi Pelttari",24,Finland,2010,"Ice Hockey",0,0,1,1
+"Corey Perry",24,Canada,2010,"Ice Hockey",1,0,0,1
+"Cherie Piper",28,Canada,2010,"Ice Hockey",1,0,0,1
+"Joni Pitkänen",26,Finland,2010,"Ice Hockey",0,0,1,1
+"Mariia Posa",21,Finland,2010,"Ice Hockey",0,0,1,1
+"Marie-Philip Poulin",18,Canada,2010,"Ice Hockey",1,0,0,1
+"Chris Pronger",35,Canada,2010,"Ice Hockey",1,0,0,1
+"Brian Rafalski",36,"United States",2010,"Ice Hockey",0,1,0,1
+"Annina Rajahuhta",20,Finland,2010,"Ice Hockey",0,0,1,1
+"Karoliina Rantamäki",31,Finland,2010,"Ice Hockey",0,0,1,1
+"Noora Räty",20,Finland,2010,"Ice Hockey",0,0,1,1
+"Mike Richards",25,Canada,2010,"Ice Hockey",1,0,0,1
+"Angela Ruggiero",30,"United States",2010,"Ice Hockey",0,1,0,1
+"Jarkko Ruutu",34,Finland,2010,"Ice Hockey",0,0,1,1
+"Tuomo Ruutu",27,Finland,2010,"Ice Hockey",0,0,1,1
+"Bobby Ryan",22,"United States",2010,"Ice Hockey",0,1,0,1
+"Mari Saarinen",28,Finland,2010,"Ice Hockey",0,0,1,1
+"Sami Salo",35,Finland,2010,"Ice Hockey",0,0,1,1
+"Molly Schaus",21,"United States",2010,"Ice Hockey",0,1,0,1
+"Jenny Schmidgall-Potter",31,"United States",2010,"Ice Hockey",0,1,0,1
+"Brent Seabrook",24,Canada,2010,"Ice Hockey",1,0,0,1
+"Teemu Selänne",39,Finland,2010,"Ice Hockey",0,0,1,1
+"Saija Sirviö",27,Finland,2010,"Ice Hockey",0,0,1,1
+"Colleen Sostorics",30,Canada,2010,"Ice Hockey",1,0,0,1
+"Kim St-Pierre",31,Canada,2010,"Ice Hockey",1,0,0,1
+"Eric Staal",25,Canada,2010,"Ice Hockey",1,0,0,1
+"Kelli Stack",22,"United States",2010,"Ice Hockey",0,1,0,1
+"Paul Stastny",24,"United States",2010,"Ice Hockey",0,1,0,1
+"Ryan Suter",25,"United States",2010,"Ice Hockey",0,1,0,1
+"Shannon Szabados",23,Canada,2010,"Ice Hockey",1,0,0,1
+"Karen Thatcher",25,"United States",2010,"Ice Hockey",0,1,0,1
+"Tim Thomas",35,"United States",2010,"Ice Hockey",0,1,0,1
+"Joe Thornton",30,Canada,2010,"Ice Hockey",1,0,0,1
+"Nina Tikkinen",23,Finland,2010,"Ice Hockey",0,0,1,1
+"Kimmo Timonen",34,Finland,2010,"Ice Hockey",0,0,1,1
+"Jonathan Toews",21,Canada,2010,"Ice Hockey",1,0,0,1
+"Minnamari Tuominen",19,Finland,2010,"Ice Hockey",0,0,1,1
+"Saara Tuominen",24,Finland,2010,"Ice Hockey",0,0,1,1
+"Sarah Vaillancourt",24,Canada,2010,"Ice Hockey",1,0,0,1
+"Linda Välimäki",19,Finland,2010,"Ice Hockey",0,0,1,1
+"Jessie Vetter",24,"United States",2010,"Ice Hockey",0,1,0,1
+"Marjo Voutilainen",28,Finland,2010,"Ice Hockey",0,0,1,1
+"Catherine Ward",22,Canada,2010,"Ice Hockey",1,0,0,1
+"Shea Weber",24,Canada,2010,"Ice Hockey",1,0,0,1
+"Kerry Weiland",29,"United States",2010,"Ice Hockey",0,1,0,1
+"Ryan Whitney",26,"United States",2010,"Ice Hockey",0,1,0,1
+"Hayley Wickenheiser",31,Canada,2010,"Ice Hockey",1,0,0,1
+"Jinelle Zaugg-Siergiej",23,"United States",2010,"Ice Hockey",0,1,0,1
+"Mao Asada",19,Japan,2010,"Figure Skating",0,1,0,1
+"Meryl Davis",23,"United States",2010,"Figure Skating",0,1,0,1
+"Oksana Domnina",25,Russia,2010,"Figure Skating",0,0,1,1
+"Kim Yeon-A",19,"South Korea",2010,"Figure Skating",1,0,0,1
+"Evan Lysacek",24,"United States",2010,"Figure Skating",1,0,0,1
+"Scott Moir",22,Canada,2010,"Figure Skating",1,0,0,1
+"Pang Qing",30,China,2010,"Figure Skating",0,1,0,1
+"Yevgeny Plyushchenko",27,Russia,2010,"Figure Skating",0,1,0,1
+"Joannie Rochette",24,Canada,2010,"Figure Skating",0,0,1,1
+"Aljona Sawtchenko",26,Germany,2010,"Figure Skating",0,0,1,1
+"Maksim Shabalin",28,Russia,2010,"Figure Skating",0,0,1,1
+"Shen Xue",31,China,2010,"Figure Skating",1,0,0,1
+"Robin Szolkowy",30,Germany,2010,"Figure Skating",0,0,1,1
+"Daisuke Takahashi",23,Japan,2010,"Figure Skating",0,0,1,1
+"Tong Jian",30,China,2010,"Figure Skating",0,1,0,1
+"Tessa Virtue",20,Canada,2010,"Figure Skating",1,0,0,1
+"Charlie White",22,"United States",2010,"Figure Skating",0,1,0,1
+"Zhao Hongbo",36,China,2010,"Figure Skating",1,0,0,1
+"Shannon Bahrke",29,"United States",2010,"Freestyle Skiing",0,0,1,1
+"Dale Begg-Smith",25,Australia,2010,"Freestyle Skiing",0,1,0,1
+"Hedda Berntsen",33,Norway,2010,"Freestyle Skiing",0,1,0,1
+"Alexandre Bilodeau",22,Canada,2010,"Freestyle Skiing",1,0,0,1
+"Aleksey Grishin",30,Belarus,2010,"Freestyle Skiing",1,0,0,1
+"Audun Grønvold",33,Norway,2010,"Freestyle Skiing",0,0,1,1
+"Guo Xinxin",26,China,2010,"Freestyle Skiing",0,0,1,1
+"Jennifer Heil",26,Canada,2010,"Freestyle Skiing",0,1,0,1
+"Lydia Ierodiaconou-Lassila",28,Australia,2010,"Freestyle Skiing",1,0,0,1
+"Marion Josserand",23,France,2010,"Freestyle Skiing",0,0,1,1
+"Hannah Kearney",23,"United States",2010,"Freestyle Skiing",1,0,0,1
+"Li Nina",27,China,2010,"Freestyle Skiing",0,1,0,1
+"Liu Zhongqing",24,China,2010,"Freestyle Skiing",0,0,1,1
+"Andreas Matt",27,Austria,2010,"Freestyle Skiing",0,1,0,1
+"Ashleigh McIvor",26,Canada,2010,"Freestyle Skiing",1,0,0,1
+"Jeret Peterson",28,"United States",2010,"Freestyle Skiing",0,1,0,1
+"Mike Schmid",25,Switzerland,2010,"Freestyle Skiing",1,0,0,1
+"Bryon Wilson",21,"United States",2010,"Freestyle Skiing",0,0,1,1
+"Cori Bartel",38,Canada,2010,Curling,0,1,0,1
+"Cheryl Bernard",43,Canada,2010,Curling,0,1,0,1
+"Carolyn Darbyshire-McRory",46,Canada,2010,Curling,0,1,0,1
+"Markus Eggler",41,Switzerland,2010,Curling,0,0,1,1
+"Adam Enright",26,Canada,2010,Curling,1,0,0,1
+"Jan Hauser",25,Switzerland,2010,Curling,0,0,1,1
+"Ben Hebert",26,Canada,2010,Curling,1,0,0,1
+"Marc Kennedy",28,Canada,2010,Curling,1,0,0,1
+"Cathrine Lindahl",39,Sweden,2010,Curling,1,0,0,1
+"Liu Yin",28,China,2010,Curling,0,0,1,1
+"Eva Lund",38,Sweden,2010,Curling,1,0,0,1
+"Kevin Martin",43,Canada,2010,Curling,1,0,0,1
+"Kristie Moore",30,Canada,2010,Curling,0,1,0,1
+"John Morris",31,Canada,2010,Curling,1,0,0,1
+"Torger Nergård",35,Norway,2010,Curling,0,1,0,1
+"Anette Norberg",43,Sweden,2010,Curling,1,0,0,1
+"Susan O'Connor",32,Canada,2010,Curling,0,1,0,1
+"Håvard Vad Petersson",26,Norway,2010,Curling,0,1,0,1
+"Ralph Stöckli",33,Switzerland,2010,Curling,0,0,1,1
+"Simon Strübin",30,Switzerland,2010,Curling,0,0,1,1
+"Christoffer Svae",27,Norway,2010,Curling,0,1,0,1
+"Anna Svärd-Le Moine",36,Sweden,2010,Curling,1,0,0,1
+"Thomas Ulsrud",38,Norway,2010,Curling,0,1,0,1
+"Wang Bingyu",25,China,2010,Curling,0,0,1,1
+"Yue Qingshuang",24,China,2010,Curling,0,0,1,1
+"Zhou Yan",27,China,2010,Curling,0,0,1,1
+"Tobias Angerer",32,Germany,2010,"Cross Country Skiing",0,1,0,1
+"Lars Berger",30,Norway,2010,"Cross Country Skiing",0,1,0,1
+"Dario Cologna",23,Switzerland,2010,"Cross Country Skiing",1,0,0,1
+"Miriam Gössner",19,Germany,2010,"Cross Country Skiing",0,1,0,1
+"Odd-Bjørn Hjelmeset",38,Norway,2010,"Cross Country Skiing",0,1,0,1
+"Martin Jakš",23,"Czech Republic",2010,"Cross Country Skiing",0,0,1,1
+"Therese Johaug",21,Norway,2010,"Cross Country Skiing",1,0,0,1
+"Irina Khazova",25,Russia,2010,"Cross Country Skiing",0,0,1,1
+"Nataliya Korostelyova",28,Russia,2010,"Cross Country Skiing",0,0,1,1
+"Martin Koukal",31,"Czech Republic",2010,"Cross Country Skiing",0,0,1,1
+"Nikita Kryukov",24,Russia,2010,"Cross Country Skiing",1,0,0,1
+"Virpi Kuitunen",33,Finland,2010,"Cross Country Skiing",0,0,1,1
+"Riitta-Liisa Lassila-Roponen",31,Finland,2010,"Cross Country Skiing",0,0,1,1
+"Jirí Magál",32,"Czech Republic",2010,"Cross Country Skiing",0,0,1,1
+"Petra Majdic",30,Slovenia,2010,"Cross Country Skiing",0,0,1,1
+"Nikolay Morilov",23,Russia,2010,"Cross Country Skiing",0,0,1,1
+"Pirjo Muranen",28,Finland,2010,"Cross Country Skiing",0,0,1,1
+"Aleksandr Panzhinsky",20,Russia,2010,"Cross Country Skiing",0,1,0,1
+"Øystein Pettersen",27,Norway,2010,"Cross Country Skiing",1,0,0,1
+"Aleksey Petukhov",26,Russia,2010,"Cross Country Skiing",0,0,1,1
+"Pietro Piller Cottrer",35,Italy,2010,"Cross Country Skiing",0,1,0,1
+"Daniel Richardsson",27,Sweden,2010,"Cross Country Skiing",1,0,0,1
+"Vibeke Skofterud",29,Norway,2010,"Cross Country Skiing",1,0,0,1
+"Kristina Šmigun-Vähi",32,Estonia,2010,"Cross Country Skiing",0,1,0,1
+"Anders Södergren",32,Sweden,2010,"Cross Country Skiing",1,0,0,1
+"Kristin Størmer Steira",28,Norway,2010,"Cross Country Skiing",1,0,0,1
+"Martin Johnsrud Sundby",25,Norway,2010,"Cross Country Skiing",0,1,0,1
+"Tim Tscharnke",20,Germany,2010,"Cross Country Skiing",0,1,0,1
+"Katrin Zeller",30,Germany,2010,"Cross Country Skiing",0,1,0,1
+"Richy Adjei",27,Germany,2010,Bobsleigh,0,1,0,1
+"David Bissett",30,Canada,2010,Bobsleigh,0,0,1,1
+"Lascelles Brown",35,Canada,2010,Bobsleigh,0,0,1,1
+"Shelley-Ann Brown",29,Canada,2010,Bobsleigh,0,1,0,1
+"Thomas Florschütz",32,Germany,2010,Bobsleigh,0,1,0,1
+"Steve Holcomb",29,"United States",2010,Bobsleigh,1,0,0,1
+"Kaillie Humphries",24,Canada,2010,Bobsleigh,1,0,0,1
+"Chris le Bihan",32,Canada,2010,Bobsleigh,0,0,1,1
+"Steve Mesler",31,"United States",2010,Bobsleigh,1,0,0,1
+"Elana Meyers",25,"United States",2010,Bobsleigh,0,0,1,1
+"Heather Moyse",31,Canada,2010,Bobsleigh,1,0,0,1
+"Justin Olsen",22,"United States",2010,Bobsleigh,1,0,0,1
+"Erin Pac",29,"United States",2010,Bobsleigh,0,0,1,1
+"Martin Putze",25,Germany,2010,Bobsleigh,0,1,0,1
+"Alexander Rödiger",24,Germany,2010,Bobsleigh,0,1,0,1
+"Lyndon Rush",29,Canada,2010,Bobsleigh,0,0,1,1
+"Curt Tomasevicz",29,"United States",2010,Bobsleigh,1,0,0,1
+"Helen Upperton",30,Canada,2010,Bobsleigh,0,1,0,1
+"Aleksey Voyevoda",29,Russia,2010,Bobsleigh,0,0,1,1
+"Aleksandr Zubkov",35,Russia,2010,Bobsleigh,0,0,1,1
+"Sandrine Bailly",30,France,2010,Biathlon,0,1,0,1
+"Sylvie Becaert",34,France,2010,Biathlon,0,1,0,1
+"Tora Berger",28,Norway,2010,Biathlon,1,0,0,1
+"Anna Bogaly-Titovets",30,Russia,2010,Biathlon,1,0,0,1
+"Tarjei Bø",21,Norway,2010,Biathlon,1,0,0,1
+"Ivan Cherezov",29,Russia,2010,Biathlon,0,0,1,1
+"Maksim Chudov",27,Russia,2010,Biathlon,0,0,1,1
+"Darya Domracheva",23,Belarus,2010,Biathlon,0,0,1,1
+"Simon Eder",27,Austria,2010,Biathlon,0,1,0,1
+"Jakov Fak",22,Croatia,2010,Biathlon,0,0,1,1
+"Björn Ferry",31,Sweden,2010,Biathlon,1,0,0,1
+"Martin Fourcade",21,France,2010,Biathlon,0,1,0,1
+"Martina Glagow-Beck",30,Germany,2010,Biathlon,0,0,1,1
+"Halvard Hanevold",40,Norway,2010,Biathlon,1,0,0,1
+"Andrea Henkel",32,Germany,2010,Biathlon,0,0,1,1
+"Pavol Hurajt",32,Slovakia,2010,Biathlon,0,0,1,1
+"Yelena Khrustalyova",29,Kazakhstan,2010,Biathlon,0,1,0,1
+"Dominik Landertinger",22,Austria,2010,Biathlon,0,1,0,1
+"Daniel Mesotitsch",33,Austria,2010,Biathlon,0,1,0,1
+"Sergey Novikov",30,Belarus,2010,Biathlon,0,1,0,1
+"Olga Pylyova-Medvedtseva",34,Russia,2010,Biathlon,1,0,0,1
+"Anton Shipulin",22,Russia,2010,Biathlon,0,0,1,1
+"Svetlana Sleptsova",23,Russia,2010,Biathlon,1,0,0,1
+"Kati Wilhelm",33,Germany,2010,Biathlon,0,0,1,1
+"Didier Défago",32,Switzerland,2010,"Alpine Skiing",1,0,0,1
+"Andrea Fischbacher",24,Austria,2010,"Alpine Skiing",1,0,0,1
+"Carlo Janka",23,Switzerland,2010,"Alpine Skiing",1,0,0,1
+"Kjetil Jansrud",24,Norway,2010,"Alpine Skiing",0,1,0,1
+"André Myhrer",27,Sweden,2010,"Alpine Skiing",0,0,1,1
+"Anja Pärson",28,Sweden,2010,"Alpine Skiing",0,0,1,1
+"Giuliano Razzoli",25,Italy,2010,"Alpine Skiing",1,0,0,1
+"Viktoria Rebensburg",20,Germany,2010,"Alpine Skiing",1,0,0,1
+"Marlies Schild",28,Austria,2010,"Alpine Skiing",0,1,0,1
+"Andrew Weibrecht",24,"United States",2010,"Alpine Skiing",0,0,1,1
+"Šárka Záhrobská",25,"Czech Republic",2010,"Alpine Skiing",0,0,1,1
+"Silvan Zurbriggen",28,Switzerland,2010,"Alpine Skiing",0,0,1,1
